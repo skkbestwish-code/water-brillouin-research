@@ -1,0 +1,46 @@
+{
+  "instrument": {
+    "fsr_ghz": 15.0,
+    "finesse": 30.0,
+    "wavelength_nm": 632.8,
+    "focal_length_mm": 100.0,
+    "center_detuning_ghz": 2.5,
+    "illumination_radius_mm": 2.0
+  },
+  "camera": {
+    "size": 768,
+    "pixel_um": 4.0,
+    "roi_mm": 1.4,
+    "radial_step_um": 1.0,
+    "psf_sigma_um": 4.0,
+    "subpixels": 4
+  },
+  "gas": {
+    "temperature_k": 300.0,
+    "pressure_bar": 0.02,
+    "molar_mass_kg": 0.0280134,
+    "scattering_angle_deg": 90.0,
+    "velocity_ms": 20.0,
+    "gamma": 1.4,
+    "shear_viscosity_pa_s": 1.78e-05,
+    "bulk_viscosity_pa_s": 0.0,
+    "thermal_conductivity_w_mk": 0.026,
+    "wavelength_nm": 632.8
+  },
+  "laser_fwhm_ghz": 0.01,
+  "laser_modes": [
+    [
+      0.0,
+      1.0
+    ]
+  ],
+  "gain_electrons": 2000.0,
+  "background_electrons": 20.0,
+  "read_noise_electrons": 3.0,
+  "seed": 20260930,
+  "truth_grid_size": 3000,
+  "inverse_grid_size": 600,
+  "fit_grid_size": 2400,
+  "monte_carlo_replicates": 12,
+  "low_count_gain": 25.0
+}

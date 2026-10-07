@@ -1,0 +1,143 @@
+{
+  "cases": [
+    {
+      "case": "water_90deg",
+      "true_B_GHz": 4.413033618774507,
+      "fit_B_GHz": 4.4128762027768635,
+      "fit_B_error_MHz": -0.15741599764318437,
+      "nonparametric_relative_L2": 0.23871251845706654,
+      "fit_delta_vs_old_GHz": 0.0
+    },
+    {
+      "case": "water_180deg",
+      "true_B_GHz": 6.2409719948793265,
+      "fit_B_GHz": 6.241275978870924,
+      "fit_B_error_MHz": 0.3039839915972564,
+      "nonparametric_relative_L2": 0.06463731997328727,
+      "fit_delta_vs_old_GHz": 0.0
+    },
+    {
+      "case": "water_angular_2deg",
+      "true_B_GHz": 4.413033618774507,
+      "fit_B_GHz": 4.412981360768296,
+      "fit_B_error_MHz": -0.05225800621033727,
+      "nonparametric_relative_L2": 0.11976255528263974,
+      "fit_delta_vs_old_GHz": 0.0
+    },
+    {
+      "case": "water_elastic_10percent",
+      "true_B_GHz": 4.413033618774507,
+      "fit_B_GHz": 4.413142299401077,
+      "fit_B_error_MHz": 0.10868062657021227,
+      "nonparametric_relative_L2": 0.6344852508801976,
+      "fit_delta_vs_old_GHz": 0.0
+    }
+  ],
+  "numerical_checks": {
+    "wide_grid_area": 0.9995481189095237,
+    "independent_quad_area": 0.9995481897840078,
+    "quadrature_area_abs_error": 7.087448417042452e-08,
+    "radial_bins": 350,
+    "independent_response_max_abs_error": 7.102867904951182e-09,
+    "half_step_profile_relative_l2": 5.636305412375647e-07,
+    "fft_vs_unfolded_profile_relative_l2": 0.0018721775827760096,
+    "shift_one_fsr_profile_relative_l2": 0.0006740962600107026,
+    "shift_one_fsr_mean_squared_noise_units": 0.06970530472111712,
+    "shift_one_fsr_note": "Residual includes finite integration tails and weak off-axis chromaticity; exact mathematical periodicity is the paraxial limit."
+  },
+  "monte_carlo": {
+    "reference_counts": {
+      "replicates": 12,
+      "optimizer_failures": 0,
+      "at_bound": 0,
+      "mean_error_MHz": 0.011194000095230786,
+      "std_MHz": 0.12401296090587571
+    },
+    "low_counts": {
+      "replicates": 12,
+      "optimizer_failures": 0,
+      "at_bound": 1,
+      "mean_error_MHz": 0.5366279569448315,
+      "std_MHz": 3.6039664461928536
+    }
+  },
+  "sensitivity": {
+    "phase_plus_100MHz": {
+      "B_bias_MHz": -0.15836951591108317,
+      "width_bias_MHz": 0.0708214541706026,
+      "chi2": 0.9354732951305589,
+      "success": true,
+      "at_bound": false
+    },
+    "focal_plus_1percent": {
+      "B_bias_MHz": -87.80519454714941,
+      "width_bias_MHz": 50.112109099892514,
+      "chi2": 7358.183562406338,
+      "success": true,
+      "at_bound": false
+    },
+    "finesse_25": {
+      "B_bias_MHz": -0.12953546744398636,
+      "width_bias_MHz": -50.04544427852727,
+      "chi2": 1.1146004262915286,
+      "success": true,
+      "at_bound": false
+    },
+    "finesse_35": {
+      "B_bias_MHz": -0.17838766712507947,
+      "width_bias_MHz": 35.914703935090955,
+      "chi2": 1.068351631364398,
+      "success": true,
+      "at_bound": false
+    },
+    "psf_assumed_0um": {
+      "B_bias_MHz": -0.39633154428031503,
+      "width_bias_MHz": 39.024185466216544,
+      "chi2": 218.87955658802156,
+      "success": true,
+      "at_bound": false
+    },
+    "psf_assumed_8um": {
+      "B_bias_MHz": 0.014548753444643125,
+      "width_bias_MHz": -68.14067854127312,
+      "chi2": 845.6137454535827,
+      "success": true,
+      "at_bound": false
+    },
+    "cavity_assumed_index_1p46": {
+      "B_bias_MHz": -740.2706479190058,
+      "width_bias_MHz": 892.9889630229115,
+      "chi2": 36003.27044697186,
+      "success": true,
+      "at_bound": true
+    },
+    "unmodeled_water_angle_sigma_2deg": {
+      "B_bias_MHz": -1.2947311959639052,
+      "width_bias_MHz": 8.084507113769346,
+      "chi2": 5.86063690429212,
+      "success": true,
+      "at_bound": false
+    },
+    "unmodeled_10percent_elastic": {
+      "B_bias_MHz": 0.07750544041407181,
+      "width_bias_MHz": -0.1969313737735373,
+      "chi2": 1.4369449378826729,
+      "success": true,
+      "at_bound": false
+    },
+    "unmodeled_laser_doublet": {
+      "B_bias_MHz": -0.3704082969679945,
+      "width_bias_MHz": 35.61185668301829,
+      "chi2": 95.2251106987023,
+      "success": true,
+      "at_bound": false
+    },
+    "unmodeled_laser_FWHM_100MHz": {
+      "B_bias_MHz": 0.18515488629589072,
+      "width_bias_MHz": 2.5635933662272876,
+      "chi2": 1.5045520042887564,
+      "success": true,
+      "at_bound": false
+    }
+  }
+}

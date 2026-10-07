@@ -1,0 +1,792 @@
+
+[PDF页 1]
+၁෿ඣೋ০i҃৚ძ೛ഝ
+࿹
+෬ರ௹ğ 2026 ୍ 10 ᄅ 6 ರ
+ᅋေ
+఼ᇏနМ
+ჷa ဢ
+಩
+ษંೡ૭Ա৳ Fabry⚶PérotaӮཞ Fabry⚶PérotaVIPA஥
+൧൲༢๤đ
+ᇕഅြ༢๤ҩਈ
+я
+a ཙႋ
+၇ऌb
+Սğ၁෿ඣĠೋ০i҃৚ძ೛ഝĠൌဒఖҋĠFabry⚶PérotĠVIPA௶၎Ġ၎ఖཙႋ
+ଢ੣
+1 ႄ࿽ 2
+2༢๤ླ౰ 2
+3۽ٳ3
+4࿐ 4
+5ࠢ5
+6مܻٚ6
+7ࠢ8
+8؇ק9
+9࿹აඣҩਈൡႨྟ 11
+10༢๤ਫ਼ཌ 13
+11ં 14
+টჷაᆣऌඪૼ 15
+1
+
+[PDF页 2]
+۠ר
+1 ႄ࿽
+߄
+ླေФૼಒ૭
+஥ᇂ༯Ӯ৫b
+ೡ૭bᄪ௹ VIPAၘᅚ
+ҩਈ [1]ຶ[18]ࠣ
+ᅶbЧ໓෮ӫ
+Ӯ൧
+ଢ੣b
+ൌགྷđቋ
+ປӮ൉હҩਈp b
+ཙႋҕඔ
+ၬb
+2༢๤ླ౰
+2.1ܙ
+೛Ġ
+ࡆן֩[19]ଢѓ
+Ч
+b
+ဒᆣྐ༏
+؇
+ཙႋ
+Ġ
+ྐᄮб
+੣a௔ੱ
+ྐ༏
+ࠒ
+؇
+ၘᆩĠ
+ᅚॺ൳॥
+ᇹ
+໾ྟটჷ
+აᄖ
+ᇉ႕ཙ
+Ġх૧Ў
+টჷ
+ݖ
+੣
+2.2ࠩ
+ഡᆇॢѯӉູ 𝜆0ᅼഝੱູ 𝑛𝑤ູ 𝜃𝑤đല෎ູ 𝑐𝑠b೛ഝѯ൏
+ֆҧ҃৚ძ௔၍ູ
+𝑞 = 4𝜋𝑛𝑤
+𝜆0
+sin 𝜃𝑤
+2 , 𝜈 𝐵 = 𝑐𝑠𝑞
+2𝜋 . (2.1)
+एູ 2𝜈𝐵ෘ౼ 𝜆0 = 532 nma𝑛𝑤 = 1.333a𝑐𝑠 =
+1482 m/sğඣᇏ 90◦ԛჿ 5.25 GHzֆҧொ၍đМ೛ഝჿູ 7.43 GHz֥
+ሧਘ [20, 23]b
+ර༯đၛ HzಆॺॖཿӮ
+2
+
+[PDF页 3]
+۠ר
+𝑊𝑅 = 𝐷𝑇 𝑞2
+𝜋 , 𝑊 𝐵 = 𝑞2
+2𝜋
+ 4𝜂/3 + 𝜁
+𝜌 + ( 𝛾 − 1)𝐷𝑇
+
+, 𝐷 𝑇 = 𝜅
+𝜌𝑐 𝑝
+. (2.2)
+ఃᇏ 𝜂a𝜁a𝜌a𝜅ੱđ𝛾 = 𝑐 𝑝/𝑐𝑣b ౼𝐷𝑇 ≃ 1.4×10−7 m2/sđ
+ႋಣೋ০ಆॺჿ 22ބ44 MHz༅ླ൐Ⴈ
+ੱሧਘ [20, 22]ࢠ
+[6]b
+ğGHzၝᇅି
+৯Ġඔ൅ MHzđ IAPWS
+ൔ (2.2)၂ཛൻೆ [21]b
+2.3؇
+৖೛ӱ
+ྐ
+ࡅ
+oඔ MHzb
+֥
+FWHMቋཬඔሳ
+[7, 24]b
+༯ॖႮ 𝑀 ′ ≃ 𝜌(2𝜋𝜈 𝐵/𝑞)2ෘ
+ངა၎ఖཙႋb෱іᆘཌྷႋGHzቔູ၁
+aᅼഝੱ
+ࡱ[7, 35]b
+3۽ٳ
+3.1ҕॉᆦਫ਼
+ෂ
+๭
+௔ੱҕॉb๭ 1b
+նđႋ๙
+੣ொᆒa
+Ԯൻb
+3.2ൔ
+ൔ
+ഝაཾᆒస࿊ଆྙӮ
+ܻ
+ބ
+ੱ
+ֆ௔৵࿃ѯ DPSSĠᅎཌॺ
+ܻࠗܵࠞؽ
+༯်
+3
+
+[PDF页 4]
+۠ר
+ൔ
+ି
+ਈ
+੣
+׮
+ோĠ϶ѯோაொᆒ
+࠹
+ၞ࿈ሇ
+ْ߭
+֮ࠗࢆ
+ঌ
+ᆭ၂
+৖ఖ
+ঌ
+ሑ෿
+ॖ
+ҩਈ໊ᇂ
+໑
+ᇅ৏෻
+Ӯ
+ሙᆰ
+Ⴕི೛
+ޅࠫ
+М೛
+ࣤ
+ٳކ
+༅ఖ
+ࠇ
+༸
+FPྙӮᇛ
+ڂ
+ྛᅎջ࿊
+ᄴ
+؇࢘
+Ӯཞ
+VIPAഝྙӮྴཞᆔਙѩ
+೤೛
+ࠩ؟VIPAĠა
+ކ
+ࡗ
+֓
+ྟМ
+ࣟ
+טetalonaᅎཊѯa་൬
+ܻ
+ઝԊđྙӮ
+๭ཞ
+௶ඔऌ APD/SPADaPMTa
+CCD/sCMOSඔა
+ؿ
+༅ఖ
+Ա৳ FP ა VIPA࣮[2, 3, 4, 9, 10]࿃ඣဢ
+༢๤ં໓ᇏႵૼಒൌ২ [5, 8, 12]b
+4࿐
+4.1ఖ
+ᇶေ௔ੱඔ
+ଢbDPSSঌ
+ൔഈ҂๝b
+ੱᄮ
+֥TEM00đೆ
+Ⴍఃᇗေb
+൞ Cobolt 05-01ሧਘਙႵჿ 532 ა 660 nmđ
+Sambaѓӫ FWHM ཬႿ 500 kHz[33]৖a
+ఖ
+ቋնൻԛսูb
+4
+
+[PDF页 5]
+۠ר
+ܻࠗ 
+ੱ
+࿐
+aொᆒაଆൔ௄஥
+໑ ॥
+ޅࠫ
+࿊ ᄴ
+༸
+ܻ
+FPaVIPAோഈଆॶ
+ࠢ
+௶ ๭
+ކ
+؇ק
+ҕॉᆦਫ਼
+๭ 1:ඏაᅶૼa
+b
+4.2ঌ॥ᇅ
+༅ఖൻೆ௄஥bᇏྟ
+၂ൌགྷႋඪૼ೛ഝ๙
+ಃᇗb
+৖
+֮ࢆ
+ਫ਼॥ᇅđЧദѩ҂ҩਈဢ௖໾ྟb
+ሙൈႋЌӻ
+ࠣ
+൞ႄೆಣ௎၍b
+5ࠢ
+5.1ۋ
+ა
+ܻ
+੣b
+؇
+Ġ
+৳b
+၇ऌ[6]༢ඔ
+ູ 𝜕𝜈 𝐵/𝜕𝑇රູ
+𝑢𝜈,𝑇 =
+
+𝜕𝜈 𝐵
+𝜕𝑇
+ 𝑢𝑇 . (5.1)
+๙Ⴈ
+b
+5
+
+[PDF页 6]
+۠ר
+5.2ᆯᄳ
+ࠇ
+ඣဢ္ॖିᄝሇ၍aᆒ
+੣b
+ང [13, 14]ဢ
+൤ [15]aԥ
+۱
+b
+5.3༸
+đᄜ
+֥ק
+ொᆒሑ෿b
+ཨ
+ູ҃𝑝(𝑞)ğ
+𝑆geom(𝜈) =
+¹
+𝑝(𝑞)𝑆(𝑞, 𝜈) d𝑞,
+¹
+𝑝(𝑞) d𝑞 = 1. (5.2)
+эԮѬ
+නਫ਼ [16]࠽𝑝(𝑞) ླ
+b
+6مܻٚ
+6.1 Fabry ⚶PérotЧჰ৘
+FPӫaֆ၂
+๩ഝॖཿӮ Airy ྙൔğ
+T (𝜈, 𝛼) = 𝑇max
+1 + 𝐹𝐴 sin2(𝛿/2)
+, 𝛿 = 4𝜋𝜈𝑛 𝑐 𝐿 cos 𝛼
+𝑐 , 𝐹 𝐴 = 4𝑅
+(1 − 𝑅)2 . (6.1)
+ᆃ৚ 𝜈࿐௔ੱđ𝑛𝑐 ൞సଽᅼഝੱđ𝐿ए৖đ𝛼đ𝑅૫఼
+ଆ྘bॢగҧ FP֥𝑛𝑐 აൔ (2.1)֥𝑛𝑤
+௔ੱቕѓॖ౼
+b
+ၬູ
+FSR ≃ 𝑐
+2𝑛𝑐 𝐿 cos 𝛼 , Feﬀ = FSR
+𝑊IRF
+. (6.2)
+֥𝐹𝐴 ა Feﬀ܋
+एॖູ 𝑐/(4𝑛𝑐 𝐿)एĠऎุ௔ੱଆൔ
+ሧਘԩ৘ [25, 30, 31]b
+6
+
+[PDF页 7]
+۠ר
+ןࠁFPࠩ
+Ցଽđ๙ӈླေ FSR > 2𝜈𝐵਽ԛჅਈĠഈඍ 532 nmჿູ
+14.9 GHzൔb ѓ
+ӫ FSRॖ཮ሙཙႋ [10, 25, 35]b
+6.2ӱൌགྷ
+ೡ૭ FPೡ
+࿢ა௔
+b
+Ա৳ FPࣜگ
+bLindsay
+ა Scarponi༢๤ં໓ॖቔູऎุൌགྷ၇ऌ [9, 10]భ TFPԛ
+ࢸ[25]b
+đ֌҂ିཨԢ
+đཙႋႋᇗ
+ൌb
+6.3 Ӯཞ FPࠢ
+సӉ FP௜૫໊ᇂđ
+৚ွ႘ഝđ೏ 𝑟 ≃ 𝑓 𝛼Ցડ
+ቀ
+𝜈(𝑟) ≃ 𝜈(0)
+
+1 + 𝑟 2
+2 𝑓 2
+
+. (6.3)
+ܱ
+໕္ླᆞಒ്љb
+Liangၛ FP etalon ა ICCDӮཞ
+༅ਫ਼ཌ [11]௶ྙ
+๙ਈᆣૼb
+6.4 VIPAЧჰ৘აൌགྷ
+VIPA֥etalonჷᆔ
+಩ༀđ
+Ց്љb
+ࠩVIPAࠩ؟VIPAđ ൐
+षbScarcelli ა Yunࣥ[2]b
+ࠩ۱
+b
+7
+
+[PDF页 8]
+۠ר
+6.5֡
+טetalon௔ੱĠ௔௶
+bFioreӱ FP ੲѯა VIPAđEdrei
+م֥ٚ[3, 4]ဒᆣဢ௖
+սูඣဢဒ൬b
+ູ 𝐻 (𝜈)ࠒ𝐻 (𝜈)𝑆(𝜈)֥࣍ڸ𝐻ಌഒཌྷ
+đႋॉ੮ੲ
+ቔႨႿ
+ࡅTCF൬༢
+๤ऎႵ๝ဢၝᇅି৯ [34]b
+6.6ඣဢൌ২
+҃৚ძ೛ഝčSBSᆒൈđఃஅ௔๙
+ܻ
+ט
+ູਸ਼၂ॶ FPປӮᆃᇕҩਈ
+[35, 36]b
+Qi֩2025ԛਔඣဢൌ২ğ780 nmٳ
+љູ 25 mWa5 mWđၛ 200 μs۱SBS֥࣍ڸ2 GHzؓ300 ่৵࿃ඣ௶đ
+љູ 7.7 MHz ა 29 MHz[36]ૡ
+b
+൤bSBS္
+֥Landau⚶Placzekਸ਼၂ᇕൌགྷਫ਼
+ֻ9൧ӆіb
+7ࠢ
+7.1ඔ
+APDളᄛੀሰđSPADઝԊĠPMT
+ઝԊbೡ૭ FP֡؟֞࠹
+҂ᆺб
+ᄹၭb
+ބࡗ
+҂ᆺ
+௜न௶b
+7.2ࠢ
+CCDࠇsCMOSކVIPAބFP໕b
+ICCD૊॥ൈ྽a Ⴕ
+b
+8
+
+[PDF页 9]
+۠ר
+ႿႵི
+ބ
+ؓFPؓVIPA ๭ဢđᄵ
+႕ཙb
+7.3੣
+ඔੱ
+љູ 𝑠a𝑏ބ𝑑ູ 𝑡đᄵ
+SNR ≃ 𝑠𝑡p
+(𝑠 + 𝑏 + 𝑑)𝑡
+= 𝑠√𝑡√
+𝑠 + 𝑏 + 𝑑
+. (7.1)
+ܙ۱
+ࡅSNRࣟ
+֥dBஆ྽b
+ࠣ
+Ġቋ
+b
+8؇ק
+8.1৫
+ೡ૭༢๤ॖႨၘᆩ FSRၘ
+௔ੱшջđ
+؇ק[7]b
+ၬ௔ੱᇠđᄜႨ๝၂ඣဢല෎ല
+ݔࢲק
+ಆᇠཌྟb
+8.2ކ
+੻đ
+ॖି҂ିປಆ
+սіဢ௖ҩਈb
+భཟଆ྘ॖཿູ
+𝑦 𝑗 =
+¹
+𝐾 𝑗 (𝜈)𝐻 (𝜈)𝑆water(𝜈) d𝜈 + 𝑏 𝑗 + 𝜖 𝑗 . (8.1)
+𝐾 𝑗ཙႋĠ𝐻Ġ𝑏 𝑗đ𝜖 𝑗 ູᄮലb ೏
+ཙႋѩೆ 𝐾 𝑗Ӱೆ 𝐻ؓ𝑆water(𝑞, 𝜈)ࠫ
+ර௜၍҂э౏௔ੱቕѓૼಒ
+bTestiсေྟ [8]b
+੻ః෰ᅚॺൈႵ
+9
+
+[PDF页 10]
+۠ר
+𝑊obs = 𝑊sample + 𝑊laser + 𝑊IRF. (8.2)
+၎ఖਆཛđᄵൔ (8.2)ථྙ
+೏ཬႿ
+༂
+ҵႋ๝ൈԮѬb
+ඣൌဒ২ሰ൞ Koestel ა Waltherೡ૭ FPğFSR ჿູ 23 GHz֥ࣚ
+ॖղჿ 280ູ 50–60[6]ଆൔ
+Ġ೏ଢѓ
+৫௔ੱҕॉb
+8.3ྟა༂ҵყෘ
+đ ѩ
+ྟაӉ௹௎၍bGUMمٚࡎ[24]ĠSalzenstein ა Wuೡ૭Ա
+৳ FPའູ PMMA؇ࣚ[17]b
+ല෎ 𝑐𝑠 = 𝜆0𝜈𝐵/[2𝑛𝑤 sin(𝜃𝑤/2)]৫ൈႵ
+ 𝑢(𝑐𝑠)
+𝑐𝑠
+ 2
+≃
+ 𝑢(𝜆0)
+𝜆0
+ 2
++
+ 𝑢(𝜈𝐵)
+𝜈𝐵
+ 2
++
+ 𝑢(𝑛𝑤)
+𝑛𝑤
+ 2
++
+ 1
+2 cot 𝜃𝑤
+2 𝑢(𝜃𝑤)
+ 2
+. (8.3)
+ཛ౴ཬđ֌
+੣Ӊ௹௎၍đ҂ି
+b
+8.4مٚࢠ
+Y anࢠJRS ೡ૭Ա৳ FPॻ HyperFine HF-8999-532đ൐
+ཌॺĠః VIPAჿ 0.792 GHzර
+༯ྩᆞཌॺ [5]֞
+b2025၎ఖᅚॺ
+໙ี [7]b
+aᇏ
+൞
+ҩ൫b
+໾đჰ໓ᅋေཿ
+1.8–35 ℃֮271.4 Kčჿ −1.75 ℃Ď đਆᆀ҂၂ᇁ[6]ቔᆀಒಪđ҂
+ቔՂ NaClb
+10
+
+[PDF页 11]
+۠ר
+9࿹აඣҩਈൡႨྟ
+9.1ࠩٳ
+Ұರ௹ູ 2026 ୍ 10 ᄅ 6ࡎ
+षӁ
+b
+ૼಒඣဢ่
+ູğAඣဢҩਈĠBĠ
+Cݼ
+ϱЧဒ൬b
+9.2࿊
+ࡱ
+Table Stable/JRS
+TFP-2 HC
+ӱԱ৳ೡ૭ FP࿆
+бჿ 1015ჿ
+150 dBෛ FSRቆ
+߄
+AğԱ৳ FPࢠ
+[5]࠹
+ં໓ [9]
+ީ
+ᅎ௶
+֡
+LightMachinery
+HF-8999-PK
+VIPAࡆPump KillerĠѓӫ
+яੱཬႿ 0.6 GHzđॖ࿘
+0.3 GHz ஥ᇂ
+AࣸHF-8999-532 ஥ᇂ
+ࢠ[5]Ġ
+భሧਘ [26, 27]
+௶ĠЧᆘ
+ཌॺླൌҩཙႋĠᇏနಣ௶
+֡
+Spectō Photonics
+ALBA
+༅ఖĠ
+532/660 nmĠFSR 30 GHzĠ
+яੱཬႿ 0.6 GHz
+Bሧਘਙඣဢ
+15 mWa100 ms ༯ SNR
+նႿ 10aSBR նႿ
+50[28]
+ӮĠ
+ཌॺླඣဢဒ൬Ġၝᇅᇏန
+ѓሙഡᇂ҂ିᆣૼॖ
+ҩಣೋ০௶
+іᇏ TFP-2 HC֥Aࣤ
+భϱЧ൪ູ๝၂஥ᇂbLightMachinery৫ဒᆣb
+ALBA֥SNR/SBRஆ଀b
+TFP-2 HC஥ᇂॢ
+࠽FSRฐҩఖbӌ
+१ྐ༏ [25]b
+HF-8999-PK۬ܿ
+PDFԛཬႿ 0.6 GHz௔ੱ໊ᇂ૭ඍ҂๝ğຩ်ཿ
+एЬ௵ 6 GHzđPDF ཿ 15 GHz[26, 27]җჅМ
+ඔሳb
+ALBAູ໊Ќொ
+༅ఖ [28]ཌॺ༂ҵಯླऎุҋਘb
+b
+9.3ࡱ
+11
+
+[PDF页 12]
+۠ר
+؎
+CellSense DiscovererӮ 780 nmࠣ
+яੱཬႿ
+1 pmཌॺ๭ [29]
+C࿊ĠЧ੽ໃ
+ࠣ
+ᇏန௶ି৯đླҀဆൕ
+Table Stable CFP-1 500 mm࣍ࢤ
+5 MHzކ[30]
+Cğඔ൅ MHz྘Ҁԉఖ
+Ġཬ FSRაਲ
+ಯրဒᆣ
+๙Ⴈೡ૭ FPđ
+SA200/SA210 ༢ਙ৥ൎ
+ሧਘ
+ሧਘਙ 1.5/10 GHz FSR ა
+MHzяੱ [31]
+ҕॉĠЧ੽
+֥
+ࠊ܂
+ؓDiscovererđο Δ𝜈 ≃ 𝑐Δ𝜆/𝜆2
+0ෘđ780 nm ԩ 1 pmႋ 0.493 GHzࡅ
+яੱֆ໊đ҂ି๷ԛ 0.493 GHzbႮ
+ંb
+CFP-1ࢊ܋500 mmෘჿ
+150 MHz֥GHzᇏန
+яੱᆣૼb
+Intelon BOSS LS҃৚ძೡ૭ཁັ௜෻ [32]ડቀЧज़ี
+ູཌྷਣႋႨ௜෻đ҂ਙೆၘડቀඣҩ
+࿊b၂Ϯ RamanҰ෱ૌൌ
+ବೆb
+9.4௄஥
+HF-8999-PK֥Pump Killer֥3 dBູ ± 4 GHz[26, 27]bᇏྏၝᇅնႿ
+60 dB֥3 dB۱± 4 GHz൤ູ 60 dBཬ
+đൔ (2.1)ֻ2ູ
+ခႨ 𝑛𝑤 = 1.333֤֞
+ᆇॢѯӉ 90◦ ֆҧ௔၍ М೛ഝֆҧ௔၍ ა 4 GHzଽ҆೛
+࢘
+532 nm ჿ 5.25 GHz ჿ 7.43 GHz ჿ 65◦
+660 nm ჿ 4.23 GHz ჿ 5.99 GHz ჿ 84◦
+780 nm ჿ 3.58 GHz ჿ 5.07 GHz ჿ 104◦
+༢ [23]b໊Ⴟ 3 dB ቅջଽ҂
+ٓކ
+֥90◦࠹
+ဒ൬ඔऌb
+9.5࿊
+12
+
+[PDF页 13]
+۠ר
+ᆣऌ
+؇
+ೡ૭
+TFP-2 HCaHF-8999-PKaALBAྟa௔
+ࡗ
+೛ ॖ॥ FSRԱ৳ FP֥
+VIPAோഈ༢๤
+௜नaཌॺྩ
+༂ҵ
+༢๤ĠᅎཙႋህႨҀ
+ࡱ
+ඔ൅ MHzࣟ
+־
+ඣဢ
+ҕॉ
+๭টဒ
+ޅࠫ࠽
+ჰ൓ඔऌቔ၇ऌb
+10༢๤ਫ਼ཌ
+10.1ࡱ
+ࢸ
+ScarcelliaYunđ
+2008[1]
+VIPAაཁັॢ
+Ґဢ
+భӁ௖
+ᆷѓ
+Y anđ2020[5]Ա৳
+FPഅြ VIPAĠՂඣa࿷
+ඣ
+aཙႋྩᆞ
+ࡎ
+б
+߄ٗ
+KoestelaWaltherđ
+2024[6]
+҃৚ძཌ
+࣮
+ၬ
+ᅶ
+໑౵ა࿷ቆӮ
+đ
+2025[7]
+ቋཬ
+ྐ༏
+a
+ࡱ
+ࢤ
+๝ӈ࿢Ղඣልᇂ
+Testiđ2026[8]ൌൈ༢๤đఃᇏႵඣ௶
+ဒᆣ
+مٚ
+ٳ
+༯
+ჰ൓ཌॺđႋ༵ॉ੮ൔ (2.2)ٳ
+b
+10.2ࣉ
+ބ
+ଢѓđ
+భၘ҂ॖя്b
+ॢగҧ FPяି৯ླေҩਈ
+ҕॉ
+13
+
+[PDF页 14]
+۠ר
+ࡗ
+b
+ۋ
+đ҂ିูսቋᇔ
+љඪૼb
+10.3ऎุཛଢ
+Ġ ཙ
+ႋ FWHMॖ
+a
+b
+ࡎ
+ஆ྽đ
+ః෰ཨ༏b
+10.4ҩਈ
+э
+൬।
+ษં
+Ӂള๝ਈ
+b
+ܱࡗ
+ყ
+ངđ
+ਈ໙ีb
+11ં
+ၬೆഝ
+೤೛đ ฐ
+սі
+b
+षᆣऌᆦӻԱ৳ FPaഅြ VIPAோഈ༢๤ቔູඣ҃৚ძҩਈ
+൬ҧ఼
+ཙႋҩਈaཌ
+༢๤b
+14
+
+[PDF页 15]
+۠ר
+টჷაᆣऌඪૼ
+Ч໓ਙԛ 36 ཛটჷğ21 ௉࿐ඌં໓a5a10ሧਘb
+ં໓ᇏđ17 ௉ၘЌթಆ໓ PDFđ1Ҁԉሧਘđ1࡯ܱ
+ઋđ2֩
+b
+ҕॉ໓ང
+[1] Scarcelli Giuliano; Yun Seok Hyun. Confocal Brillouin microscopy for three-dimensional mechanical imaging.
+Nature Photonics, 2(1): 39-43, 2008. DOI: 10.1038/nphoton.2007.250.
+[2] Scarcelli Giuliano; Yun Seok Hyun. Multistage VIPA etalons for high-extinction parallel Brillouin spec-
+troscopy. Optics Express, 19(11): 10913 ⚶10922, 2011. DOI: 10.1364/OE.19.010913.
+[3] Fiore Antonio; Zhang Jitao; Shao Peng et al.. High-extinction virtually imaged phased array-based Bril-
+louin spectroscopy of turbid biological media. Applied Physics Letters, 108(20): 203701, 2016. DOI:
+10.1063/1.4948353.
+[4] Edrei Eitan; Gather Malte C.; Scarcelli Giuliano. Integration of spectral coronagraphy within VIPA-
+based spectrometers for high extinction Brillouin imaging. Optics Express, 25(6): 6895 ⚶6903, 2017. DOI:
+10.1364/OE.25.006895.
+[5] Y an Guqi; Bazir Antony; Margueritat Jeremie et al.. Evaluation of commercial virtually imaged phase array
+and Fabry-Pérot based Brillouin spectrometers for applications to biology. Biomedical Optics Express, 11(12):
+6933, 2020. DOI: 10.1364/BOE.401087.
+[6] Koestel Daniel; Walther Thomas. The Brillouin linewidth in water as a function of temperature and salinity:
+the missing empirical relationship. Applied Physics B, 130(4): 53, 2024. DOI: 10.1007/s00340-024-08189-x.
+[7] Bouvet Pierre; Bevilacqua Carlo; Ambekar Y ogeshwari et al.. Consensus statement on Brillouin light scatter-
+ing microscopy of biological materials. Nature Photonics, 19(7): 681-691, 2025. DOI: 10.1038/s41566-025-
+01681-6.
+[8] Testi Claudia; Pontecorvo Emanuele; Bartoli Chiara et al.. Stabilized real-time Brillouin microscopy reveals
+fractal organization of protein condensates in living cells. Nature Communications, 17(1): 2387, 2026. DOI:
+10.1038/s41467-026-68984-2.
+[9] Scarponi F.; Mattana S.; Corezzi S. et al.. High-Performance Versatile Setup for Simultaneous Brillouin-Raman
+Microspectroscopy. Physical Review X, 7(3): 031015, 2017. DOI: 10.1103/PhysRevX.7.031015.
+[10] Lindsay S. M.; Anderson M. W.; Sandercock J. R.. Construction and alignment of a high performance multipass
+vernier tandem Fabry⚶Perot interferometer. Review of Scientific Instruments, 52(10): 1478-1486, 1981. DOI:
+10.1063/1.1136479.
+[11] Liang K.; Ma Y .; Huang J. et al.. Precise measurement of Brillouin scattering spectrum in the ocean using F ⚶
+P etalon and ICCD. Applied Physics B, 105(2): 421-425, 2011. DOI: 10.1007/s00340-011-4719-5.
+[12] Wang Yuanqing; Zhang Jinghao; Zheng Y ongchao et al.. Brillouin scattering spectrum for liquid
+detection and applications in oceanography. Opto-Electronic Advances, 6(1): 220016, 2023. DOI:
+10.29026/oea.2023.220016.
+15
+
+[PDF页 16]
+۠ר
+[13] Zhang Xiaodong; Hu Lianbo. Estimating scattering of pure water from density fluctuation of the refractive
+index. Optics Express, 17(3): 1671 ⚶1678, 2009. DOI: 10.1364/OE.17.001671.
+[14] Zhang Xiaodong; Hu Lianbo; He Ming-Xia. Scattering by pure seawater: Effect of salinity. Optics Express,
+17(7): 5698 ⚶5710, 2009. DOI: 10.1364/OE.17.005698.
+[15] Duval Eugène; Adichtchev Sergey; Sirotkin Sergey et al.. Long-lived submicrometric bubbles in very di-
+luted alkali halide water solutions. Physical Chemistry Chemical Physics, 14(12): 4125 ⚶4132, 2012. DOI:
+10.1039/C2CP22858K.
+[16] Mattarelli Maurizio; Capponi Giulio; Passeri Alessandra Anna et al.. Disentanglement of Multiple Scatter-
+ing Contribution in Brillouin Microscopy. ACS Photonics, 9(6): 2087-2091, 2022. DOI: 10.1021/acsphoton-
+ics.2c00322.
+[17] Salzenstein Patrice; Wu Thomas Y .. Uncertainty Estimation for the Brillouin Frequency Shift Measure-
+ment Using a Scanning Tandem Fabry ⚶Pérot Interferometer. Micromachines, 14(7): 1429, 2023. DOI:
+10.3390/mi14071429.
+[18] Prevedel Robert; Diz-Muñoz Alba; Ruocco Giancarlo et al.. Brillouin microscopy: an emerging tool for
+mechanobiology. Nature Methods, 16(10): 969-977, 2019. DOI: 10.1038/s41592-019-0543-3.
+[19] Mountain Raymond D.. Thermal relaxation and brillouin scattering in liquids. Journal of Research of
+the National Bureau of Standards Section A: Physics and Chemistry, 70A(3): 207 ⚶220, 1966. DOI:
+10.6028/jres.070A.017.
+[20] IAPWS. Revised Release on the IAPWS Formulation 1995 for the Thermodynamic Properties of Ordinary
+Water Substance for General and Scientific Use. R6-95(2018), 2018.টჷ.
+[21] IAPWS. Release on the IAPWS Formulation 2008 for the Viscosity of Ordinary Water Substance. R12-08,
+2008.টჷ.
+[22] IAPWS. Release on the IAPWS Formulation 2011 for the Thermal Conductivity of Ordinary Water Substance.
+R15-11, 2011.টჷ.
+[23] IAPWS. Release on the Refractive Index of Ordinary Water Substance as a Function of Wavelength, Temper-
+ature and Pressure. R9-97, 1997.টჷ.
+[24] JCGM. Evaluation of measurement data iGuide to the expression of uncertainty in measurement. JCGM
+100:2008, 2008. DOI: 10.59161/JCGM100-2008E.
+[25] Table Stable. TFP-2 HC product information and operator manual.Ӂ௖ሧਘ, ໃѓ୍.টჷ.උ
+ࡱ1.ࡱ2.෬ğ2026-10-06b
+[26] LightMachinery. Brillouin HyperFine spectrometer HF-8999-PK iproduct webpage.Ӂ௖ሧਘ , ໃѓ
+୍.টჷ.෬ğ2026-10-06b
+[27] LightMachinery. Brillouin spectrometer datasheet.Ӂ௖ሧਘ, ໃѓ୍.টჷ.෬ğ2026-10-06b
+[28] Spectō Photonics. ALBA on-chip Brillouin spectrometer iproduct information and datasheet.Ӂ௖ሧ
+ਘ, ຩ်ໃѓ୍ĠӁ௖Ҩ 2025.টჷ.ࡱ1.෬ğ2026-10-06b
+16
+
+[PDF页 17]
+۠ר
+[29] CellSense Technologies. Discoverer iproduct information and brochure.Ӂ௖ሧਘ, ໃѓ୍.টჷ.
+ࡱ1.෬ğ2026-10-06b
+[30] Table Stable. Confocal Fabry⚶Pérot CFP-1 iproduct information.Ӂ௖ሧਘ, ໃѓ୍.টჷ.෬ğ
+2026-10-06b
+[31] Thorlabs. Scanning Fabry ⚶Pérot interferometers SA200/SA210 iarchived catalogue.Ӂ௖ሧਘ , 2023
+֖݂.টჷ.෬ğ2026-10-06b
+[32] Intelon. BOSS LS ilife science platform information.Ӂ௖ሧਘ, ໃѓ୍.টჷ.෬ğ2026-10-06b
+[33] HÜBNER Photonics. Cobolt 05-01 Series datasheet D0350-U.Ӂ௖ሧਘ, 2025.টჷ.෬ğ2026-
+10-06b
+[34] Table Stable. Tunable laser filter TCFiproduct information.Ӂ௖ሧਘ, ໃѓ୍.টჷ.෬ğ2026-
+10-06b
+[35] Kabakova Irina; Zhang Jitao; Xiang Yuchen et al.. Brillouin microscopy. Nature Reviews Methods Primers,
+2024, 4: 8. DOI: 10.1038/s43586-023-00286-z.
+[36] Qi Yun; Y ao Shuai; Du Zi-Xuan et al.. Stimulated Brillouin scattering microscopy with a high-peak-power
+780-nm pulsed laser system. Nature Photonics, 2025, 19: 879 ⚶887. DOI: 10.1038/s41566-025-01697-y.
+17

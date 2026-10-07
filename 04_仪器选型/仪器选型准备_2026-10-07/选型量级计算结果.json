@@ -1,0 +1,219 @@
+{
+  "status": "纯水物性模型量级计算；不代表物理验证、仪器验收或实验完成",
+  "pressure_MPa": 0.101325,
+  "frequency_convention": "普通频率Hz；角度为水内入射与散射波矢夹角；真空波长",
+  "sources": [
+    "https://iapws.org/technical-guidance/release/IAPWS-95",
+    "https://iapws.org/technical-guidance/release/Rindex"
+  ],
+  "implementation": {
+    "iapws_version": "1.5.5",
+    "dependency_path": "C:\\Users\\HUAWEI\\Desktop\\大学生创新创业\\代码包验收_2026-10-07\\原包解压\\常压水_瑞利布里渊_FP模拟_2026-10-01\\.water_deps",
+    "iapws95_sha256": "89edb7c0e3b77533319d253819cdb4c1da50775d2e7b324249574607d6790520",
+    "auxiliary_properties_sha256": "9e077afb6634e0a54c26206162959e1dd5fb560fb328fc2117f80c7f087cf4ea"
+  },
+  "water_predictions": [
+    {
+      "wavelength_vacuum_nm": 532,
+      "internal_angle_deg": 90,
+      "temperature_C": 20,
+      "refractive_index": 1.3353805146728004,
+      "sound_speed_m_s": 1482.346174920139,
+      "Brillouin_shift_GHz": 5.262087161392417,
+      "d_shift_dT_MHz_K": 10.545994904687106
+    },
+    {
+      "wavelength_vacuum_nm": 532,
+      "internal_angle_deg": 90,
+      "temperature_C": 25,
+      "refractive_index": 1.3348849946811945,
+      "sound_speed_m_s": 1496.7013843102422,
+      "Brillouin_shift_GHz": 5.3110743002212155,
+      "d_shift_dT_MHz_K": 9.068609085005619
+    },
+    {
+      "wavelength_vacuum_nm": 532,
+      "internal_angle_deg": 90,
+      "temperature_C": 30,
+      "refractive_index": 1.334311319839127,
+      "sound_speed_m_s": 1509.1537606487066,
+      "Brillouin_shift_GHz": 5.352960346662385,
+      "d_shift_dT_MHz_K": 7.70353081560593
+    },
+    {
+      "wavelength_vacuum_nm": 532,
+      "internal_angle_deg": 180,
+      "temperature_C": 20,
+      "refractive_index": 1.3353805146728004,
+      "sound_speed_m_s": 1482.346174920139,
+      "Brillouin_shift_GHz": 7.441715030030497,
+      "d_shift_dT_MHz_K": 14.914289022893712
+    },
+    {
+      "wavelength_vacuum_nm": 532,
+      "internal_angle_deg": 180,
+      "temperature_C": 25,
+      "refractive_index": 1.3348849946811945,
+      "sound_speed_m_s": 1496.7013843102422,
+      "Brillouin_shift_GHz": 7.510993306144037,
+      "d_shift_dT_MHz_K": 12.82494995979988
+    },
+    {
+      "wavelength_vacuum_nm": 532,
+      "internal_angle_deg": 180,
+      "temperature_C": 30,
+      "refractive_index": 1.334311319839127,
+      "sound_speed_m_s": 1509.1537606487066,
+      "Brillouin_shift_GHz": 7.570229121095329,
+      "d_shift_dT_MHz_K": 10.894437757702491
+    },
+    {
+      "wavelength_vacuum_nm": 632.8,
+      "internal_angle_deg": 90,
+      "temperature_C": 20,
+      "refractive_index": 1.332106880692833,
+      "sound_speed_m_s": 1482.346174920139,
+      "Brillouin_shift_GHz": 4.413033618774508,
+      "d_shift_dT_MHz_K": 8.848483497070347
+    },
+    {
+      "wavelength_vacuum_nm": 632.8,
+      "internal_angle_deg": 90,
+      "temperature_C": 25,
+      "refractive_index": 1.331619187555735,
+      "sound_speed_m_s": 1496.7013843102422,
+      "Brillouin_shift_GHz": 4.454138652720621,
+      "d_shift_dT_MHz_K": 7.610082298725729
+    },
+    {
+      "wavelength_vacuum_nm": 632.8,
+      "internal_angle_deg": 90,
+      "temperature_C": 30,
+      "refractive_index": 1.3310542755926458,
+      "sound_speed_m_s": 1509.1537606487066,
+      "Brillouin_shift_GHz": 4.489291255615641,
+      "d_shift_dT_MHz_K": 6.465812053502162
+    },
+    {
+      "wavelength_vacuum_nm": 632.8,
+      "internal_angle_deg": 180,
+      "temperature_C": 20,
+      "refractive_index": 1.332106880692833,
+      "sound_speed_m_s": 1482.346174920139,
+      "Brillouin_shift_GHz": 6.240971994879326,
+      "d_shift_dT_MHz_K": 12.513645368006365
+    },
+    {
+      "wavelength_vacuum_nm": 632.8,
+      "internal_angle_deg": 180,
+      "temperature_C": 25,
+      "refractive_index": 1.331619187555735,
+      "sound_speed_m_s": 1496.7013843102422,
+      "Brillouin_shift_GHz": 6.299103291367726,
+      "d_shift_dT_MHz_K": 10.762281597598289
+    },
+    {
+      "wavelength_vacuum_nm": 632.8,
+      "internal_angle_deg": 180,
+      "temperature_C": 30,
+      "refractive_index": 1.3310542755926458,
+      "sound_speed_m_s": 1509.1537606487066,
+      "Brillouin_shift_GHz": 6.3488165791345805,
+      "d_shift_dT_MHz_K": 9.144039097819245
+    },
+    {
+      "wavelength_vacuum_nm": 660,
+      "internal_angle_deg": 180,
+      "temperature_C": 20,
+      "refractive_index": 1.3314239830696109,
+      "sound_speed_m_s": 1482.346174920139,
+      "Brillouin_shift_GHz": 5.9807007530308285,
+      "d_shift_dT_MHz_K": 11.993186910208564
+    },
+    {
+      "wavelength_vacuum_nm": 660,
+      "internal_angle_deg": 180,
+      "temperature_C": 25,
+      "refractive_index": 1.3309381879674425,
+      "sound_speed_m_s": 1496.7013843102422,
+      "Brillouin_shift_GHz": 6.0364152374613225,
+      "d_shift_dT_MHz_K": 10.315036056418592
+    },
+    {
+      "wavelength_vacuum_nm": 660,
+      "internal_angle_deg": 180,
+      "temperature_C": 30,
+      "refractive_index": 1.3303753680452748,
+      "sound_speed_m_s": 1509.1537606487066,
+      "Brillouin_shift_GHz": 6.084063605333131,
+      "d_shift_dT_MHz_K": 8.764438020358867
+    }
+  ],
+  "plane_air_gap_FP_candidates": [
+    {
+      "FSR_GHz": 20,
+      "air_gap_mm": 7.494811449999999,
+      "effective_finesse": 50,
+      "IRF_FWHM_GHz": 0.4
+    },
+    {
+      "FSR_GHz": 20,
+      "air_gap_mm": 7.494811449999999,
+      "effective_finesse": 100,
+      "IRF_FWHM_GHz": 0.2
+    },
+    {
+      "FSR_GHz": 20,
+      "air_gap_mm": 7.494811449999999,
+      "effective_finesse": 150,
+      "IRF_FWHM_GHz": 0.13333333333333333
+    },
+    {
+      "FSR_GHz": 25,
+      "air_gap_mm": 5.995849160000001,
+      "effective_finesse": 50,
+      "IRF_FWHM_GHz": 0.5
+    },
+    {
+      "FSR_GHz": 25,
+      "air_gap_mm": 5.995849160000001,
+      "effective_finesse": 100,
+      "IRF_FWHM_GHz": 0.25
+    },
+    {
+      "FSR_GHz": 25,
+      "air_gap_mm": 5.995849160000001,
+      "effective_finesse": 150,
+      "IRF_FWHM_GHz": 0.16666666666666666
+    },
+    {
+      "FSR_GHz": 30,
+      "air_gap_mm": 4.996540966666666,
+      "effective_finesse": 50,
+      "IRF_FWHM_GHz": 0.6
+    },
+    {
+      "FSR_GHz": 30,
+      "air_gap_mm": 4.996540966666666,
+      "effective_finesse": 100,
+      "IRF_FWHM_GHz": 0.3
+    },
+    {
+      "FSR_GHz": 30,
+      "air_gap_mm": 4.996540966666666,
+      "effective_finesse": 150,
+      "IRF_FWHM_GHz": 0.2
+    }
+  ],
+  "near_axis_air_gap_angular_shift_532nm_MHz": {
+    "0.2": 11.270393157894736,
+    "0.3": 25.35838460526315,
+    "0.5": 70.43995723684209
+  },
+  "ideal_single_pass_FP_peak_to_minimum_dB": {
+    "30": 25.63587601795969,
+    "100": 36.079031013623286
+  },
+  "532nm_90deg_angle_0p1deg_first_order_MHz": 4.634786667845701,
+  "warning": "平面空气腔计算不适用于直接套算共焦FP或VIPA；真实透过率、有效精细度、信噪比待测。"
+}

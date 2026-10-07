@@ -1,0 +1,47 @@
+{
+  "test_count": 27,
+  "tests_passed": true,
+  "artifacts_checked": [
+    {
+      "case": "water_90deg",
+      "wide_area": 0.9995481189095239,
+      "physical_rows": 12360,
+      "folded_rows": 6000,
+      "radial_rows": 350
+    },
+    {
+      "case": "water_180deg",
+      "wide_area": 0.9990952934006667,
+      "physical_rows": 12360,
+      "folded_rows": 6000,
+      "radial_rows": 350
+    },
+    {
+      "case": "water_angular_2deg",
+      "wide_area": 0.9995481183437935,
+      "physical_rows": 12360,
+      "folded_rows": 6000,
+      "radial_rows": 350
+    },
+    {
+      "case": "water_elastic_10percent",
+      "wide_area": 0.9995928825747225,
+      "physical_rows": 12360,
+      "folded_rows": 6000,
+      "radial_rows": 350
+    }
+  ],
+  "numerical_checks": {
+    "wide_grid_area": 0.9995481189095237,
+    "independent_quad_area": 0.9995481897840078,
+    "quadrature_area_abs_error": 7.087448417042452e-08,
+    "radial_bins": 350,
+    "independent_response_max_abs_error": 7.102867904951182e-09,
+    "half_step_profile_relative_l2": 5.636305412375647e-07,
+    "fft_vs_unfolded_profile_relative_l2": 0.0018721775827760096,
+    "shift_one_fsr_profile_relative_l2": 0.0006740962600107026,
+    "shift_one_fsr_mean_squared_noise_units": 0.06970530472111712,
+    "shift_one_fsr_note": "Residual includes finite integration tails and weak off-axis chromaticity; exact mathematical periodicity is the paraxial limit."
+  },
+  "reference_pdf_present": true
+}

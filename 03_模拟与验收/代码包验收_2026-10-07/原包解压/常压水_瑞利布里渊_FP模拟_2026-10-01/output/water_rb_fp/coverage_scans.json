@@ -1,0 +1,3090 @@
+[
+  {
+    "cavity_index": 1.0,
+    "focal_length_mm": 50.0,
+    "center_detuning_ghz": 2.5,
+    "water_angle_deg": 90,
+    "rings": [
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 1,
+        "radius_mm": 0.3716536479623776,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 2,
+        "radius_mm": 0.5444796309260863,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 3,
+        "radius_mm": 0.6743921292032128,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 0,
+        "radius_mm": 0.16243499863190214,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 1,
+        "radius_mm": 0.4297728162949475,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 2,
+        "radius_mm": 0.5856955333924045,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 3,
+        "radius_mm": 0.7080881889389992,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 0,
+        "radius_mm": 0.27011266674081785,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 1,
+        "radius_mm": 0.48091927294151404,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 2,
+        "radius_mm": 0.6241961879765268,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 3,
+        "radius_mm": 0.7402522925540039,
+        "inside_roi": true
+      }
+    ],
+    "visibility": {
+      "red": true,
+      "center": true,
+      "blue": true
+    },
+    "both_side_peaks_visible": true,
+    "angular_scan_fsr": 12.373534311906303,
+    "note": "Peak centres only; line tails, phase offset, illumination and collection acceptance also affect recorded signal."
+  },
+  {
+    "cavity_index": 1.0,
+    "focal_length_mm": 50.0,
+    "center_detuning_ghz": 2.5,
+    "water_angle_deg": 180,
+    "rings": [
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 1,
+        "radius_mm": 0.34472194965994546,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 2,
+        "radius_mm": 0.5264633275014292,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 3,
+        "radius_mm": 0.6599311242115788,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 0,
+        "radius_mm": 0.16243499863190214,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 1,
+        "radius_mm": 0.4297728162949475,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 2,
+        "radius_mm": 0.5856955333924045,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 3,
+        "radius_mm": 0.7080881889389992,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 0,
+        "radius_mm": 0.3037322444921801,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 1,
+        "radius_mm": 0.5005766598947831,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 2,
+        "radius_mm": 0.6394652049011997,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 3,
+        "radius_mm": 0.7531729853046369,
+        "inside_roi": true
+      }
+    ],
+    "visibility": {
+      "red": true,
+      "center": true,
+      "blue": true
+    },
+    "both_side_peaks_visible": true,
+    "angular_scan_fsr": 12.373534311906303,
+    "note": "Peak centres only; line tails, phase offset, illumination and collection acceptance also affect recorded signal."
+  },
+  {
+    "cavity_index": 1.0,
+    "focal_length_mm": 50.0,
+    "center_detuning_ghz": 7.5,
+    "water_angle_deg": 90,
+    "rings": [
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 0,
+        "radius_mm": 0.18050032200101326,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 1,
+        "radius_mm": 0.43692330496723775,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 2,
+        "radius_mm": 0.5909641463945532,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 3,
+        "radius_mm": 0.7124537261105316,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 0,
+        "radius_mm": 0.2813478975804903,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 1,
+        "radius_mm": 0.4873204256217541,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 2,
+        "radius_mm": 0.6291429050559287,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 3,
+        "radius_mm": 0.7444296035497453,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 0,
+        "radius_mm": 0.3545889825749802,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 1,
+        "radius_mm": 0.5329735958939826,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 2,
+        "radius_mm": 0.6651341229829038,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 3,
+        "radius_mm": 0.7750877314061185,
+        "inside_roi": true
+      }
+    ],
+    "visibility": {
+      "red": true,
+      "center": true,
+      "blue": true
+    },
+    "both_side_peaks_visible": true,
+    "angular_scan_fsr": 12.373534311906303,
+    "note": "Peak centres only; line tails, phase offset, illumination and collection acceptance also affect recorded signal."
+  },
+  {
+    "cavity_index": 1.0,
+    "focal_length_mm": 50.0,
+    "center_detuning_ghz": 7.5,
+    "water_angle_deg": 180,
+    "rings": [
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 0,
+        "radius_mm": 0.11527345427135652,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 1,
+        "radius_mm": 0.4142563888415493,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 2,
+        "radius_mm": 0.5744073308504053,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 3,
+        "radius_mm": 0.6987805444355689,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 0,
+        "radius_mm": 0.2813478975804903,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 1,
+        "radius_mm": 0.4873204256217541,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 2,
+        "radius_mm": 0.6291429050559287,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 3,
+        "radius_mm": 0.7444296035497453,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 0,
+        "radius_mm": 0.3808230263602852,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 1,
+        "radius_mm": 0.5507766394242697,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 2,
+        "radius_mm": 0.679484124950843,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 3,
+        "radius_mm": 0.787437291398952,
+        "inside_roi": true
+      }
+    ],
+    "visibility": {
+      "red": true,
+      "center": true,
+      "blue": true
+    },
+    "both_side_peaks_visible": true,
+    "angular_scan_fsr": 12.373534311906303,
+    "note": "Peak centres only; line tails, phase offset, illumination and collection acceptance also affect recorded signal."
+  },
+  {
+    "cavity_index": 1.0,
+    "focal_length_mm": 100.0,
+    "center_detuning_ghz": 2.5,
+    "water_angle_deg": 90,
+    "rings": [
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 1,
+        "radius_mm": 0.7433072959247552,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 2,
+        "radius_mm": 1.0889592618521726,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 3,
+        "radius_mm": 1.3487842584064256,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 0,
+        "radius_mm": 0.3248699972638043,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 1,
+        "radius_mm": 0.859545632589895,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 2,
+        "radius_mm": 1.171391066784809,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 3,
+        "radius_mm": 1.4161763778779983,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 0,
+        "radius_mm": 0.5402253334816357,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 1,
+        "radius_mm": 0.9618385458830281,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 2,
+        "radius_mm": 1.2483923759530535,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 3,
+        "radius_mm": 1.4805045851080079,
+        "inside_roi": false
+      }
+    ],
+    "visibility": {
+      "red": true,
+      "center": true,
+      "blue": true
+    },
+    "both_side_peaks_visible": true,
+    "angular_scan_fsr": 3.0947474482864252,
+    "note": "Peak centres only; line tails, phase offset, illumination and collection acceptance also affect recorded signal."
+  },
+  {
+    "cavity_index": 1.0,
+    "focal_length_mm": 100.0,
+    "center_detuning_ghz": 2.5,
+    "water_angle_deg": 180,
+    "rings": [
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 1,
+        "radius_mm": 0.6894438993198909,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 2,
+        "radius_mm": 1.0529266550028584,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 3,
+        "radius_mm": 1.3198622484231577,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 0,
+        "radius_mm": 0.3248699972638043,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 1,
+        "radius_mm": 0.859545632589895,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 2,
+        "radius_mm": 1.171391066784809,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 3,
+        "radius_mm": 1.4161763778779983,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 0,
+        "radius_mm": 0.6074644889843602,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 1,
+        "radius_mm": 1.0011533197895661,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 2,
+        "radius_mm": 1.2789304098023995,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 3,
+        "radius_mm": 1.5063459706092739,
+        "inside_roi": false
+      }
+    ],
+    "visibility": {
+      "red": true,
+      "center": true,
+      "blue": true
+    },
+    "both_side_peaks_visible": true,
+    "angular_scan_fsr": 3.0947474482864252,
+    "note": "Peak centres only; line tails, phase offset, illumination and collection acceptance also affect recorded signal."
+  },
+  {
+    "cavity_index": 1.0,
+    "focal_length_mm": 100.0,
+    "center_detuning_ghz": 7.5,
+    "water_angle_deg": 90,
+    "rings": [
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 0,
+        "radius_mm": 0.3610006440020265,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 1,
+        "radius_mm": 0.8738466099344755,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 2,
+        "radius_mm": 1.1819282927891064,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 3,
+        "radius_mm": 1.4249074522210632,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 0,
+        "radius_mm": 0.5626957951609806,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 1,
+        "radius_mm": 0.9746408512435082,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 2,
+        "radius_mm": 1.2582858101118575,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 3,
+        "radius_mm": 1.4888592070994906,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 0,
+        "radius_mm": 0.7091779651499605,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 1,
+        "radius_mm": 1.0659471917879653,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 2,
+        "radius_mm": 1.3302682459658075,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 3,
+        "radius_mm": 1.550175462812237,
+        "inside_roi": false
+      }
+    ],
+    "visibility": {
+      "red": true,
+      "center": true,
+      "blue": true
+    },
+    "both_side_peaks_visible": true,
+    "angular_scan_fsr": 3.0947474482864252,
+    "note": "Peak centres only; line tails, phase offset, illumination and collection acceptance also affect recorded signal."
+  },
+  {
+    "cavity_index": 1.0,
+    "focal_length_mm": 100.0,
+    "center_detuning_ghz": 7.5,
+    "water_angle_deg": 180,
+    "rings": [
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 0,
+        "radius_mm": 0.23054690854271304,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 1,
+        "radius_mm": 0.8285127776830986,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 2,
+        "radius_mm": 1.1488146617008106,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 3,
+        "radius_mm": 1.3975610888711378,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 0,
+        "radius_mm": 0.5626957951609806,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 1,
+        "radius_mm": 0.9746408512435082,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 2,
+        "radius_mm": 1.2582858101118575,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 3,
+        "radius_mm": 1.4888592070994906,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 0,
+        "radius_mm": 0.7616460527205704,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 1,
+        "radius_mm": 1.1015532788485394,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 2,
+        "radius_mm": 1.358968249901686,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 3,
+        "radius_mm": 1.574874582797904,
+        "inside_roi": false
+      }
+    ],
+    "visibility": {
+      "red": true,
+      "center": true,
+      "blue": true
+    },
+    "both_side_peaks_visible": true,
+    "angular_scan_fsr": 3.0947474482864252,
+    "note": "Peak centres only; line tails, phase offset, illumination and collection acceptance also affect recorded signal."
+  },
+  {
+    "cavity_index": 1.0,
+    "focal_length_mm": 150.0,
+    "center_detuning_ghz": 2.5,
+    "water_angle_deg": 90,
+    "rings": [
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 1,
+        "radius_mm": 1.1149609438871328,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 2,
+        "radius_mm": 1.6334388927782588,
+        "inside_roi": false
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 3,
+        "radius_mm": 2.0231763876096385,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 0,
+        "radius_mm": 0.4873049958957064,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 1,
+        "radius_mm": 1.2893184488848424,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 2,
+        "radius_mm": 1.7570866001772136,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 3,
+        "radius_mm": 2.1242645668169975,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 0,
+        "radius_mm": 0.8103380002224535,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 1,
+        "radius_mm": 1.4427578188245422,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 2,
+        "radius_mm": 1.8725885639295803,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 3,
+        "radius_mm": 2.2207568776620117,
+        "inside_roi": false
+      }
+    ],
+    "visibility": {
+      "red": true,
+      "center": true,
+      "blue": true
+    },
+    "both_side_peaks_visible": true,
+    "angular_scan_fsr": 1.3755556282320087,
+    "note": "Peak centres only; line tails, phase offset, illumination and collection acceptance also affect recorded signal."
+  },
+  {
+    "cavity_index": 1.0,
+    "focal_length_mm": 150.0,
+    "center_detuning_ghz": 2.5,
+    "water_angle_deg": 180,
+    "rings": [
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 1,
+        "radius_mm": 1.0341658489798364,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 2,
+        "radius_mm": 1.5793899825042876,
+        "inside_roi": false
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 3,
+        "radius_mm": 1.9797933726347365,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 0,
+        "radius_mm": 0.4873049958957064,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 1,
+        "radius_mm": 1.2893184488848424,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 2,
+        "radius_mm": 1.7570866001772136,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 3,
+        "radius_mm": 2.1242645668169975,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 0,
+        "radius_mm": 0.9111967334765403,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 1,
+        "radius_mm": 1.5017299796843493,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 2,
+        "radius_mm": 1.9183956147035992,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 3,
+        "radius_mm": 2.259518955913911,
+        "inside_roi": false
+      }
+    ],
+    "visibility": {
+      "red": true,
+      "center": true,
+      "blue": true
+    },
+    "both_side_peaks_visible": true,
+    "angular_scan_fsr": 1.3755556282320087,
+    "note": "Peak centres only; line tails, phase offset, illumination and collection acceptance also affect recorded signal."
+  },
+  {
+    "cavity_index": 1.0,
+    "focal_length_mm": 150.0,
+    "center_detuning_ghz": 7.5,
+    "water_angle_deg": 90,
+    "rings": [
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 0,
+        "radius_mm": 0.5415009660030398,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 1,
+        "radius_mm": 1.3107699149017131,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 2,
+        "radius_mm": 1.7728924391836598,
+        "inside_roi": false
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 3,
+        "radius_mm": 2.1373611783315947,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 0,
+        "radius_mm": 0.8440436927414708,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 1,
+        "radius_mm": 1.4619612768652623,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 2,
+        "radius_mm": 1.8874287151677862,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 3,
+        "radius_mm": 2.233288810649236,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 0,
+        "radius_mm": 1.0637669477249407,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 1,
+        "radius_mm": 1.598920787681948,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 2,
+        "radius_mm": 1.9954023689487113,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 3,
+        "radius_mm": 2.3252631942183557,
+        "inside_roi": false
+      }
+    ],
+    "visibility": {
+      "red": true,
+      "center": true,
+      "blue": true
+    },
+    "both_side_peaks_visible": true,
+    "angular_scan_fsr": 1.3755556282320087,
+    "note": "Peak centres only; line tails, phase offset, illumination and collection acceptance also affect recorded signal."
+  },
+  {
+    "cavity_index": 1.0,
+    "focal_length_mm": 150.0,
+    "center_detuning_ghz": 7.5,
+    "water_angle_deg": 180,
+    "rings": [
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 0,
+        "radius_mm": 0.3458203628140695,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 1,
+        "radius_mm": 1.2427691665246479,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 2,
+        "radius_mm": 1.7232219925512158,
+        "inside_roi": false
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 3,
+        "radius_mm": 2.096341633306707,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 0,
+        "radius_mm": 0.8440436927414708,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 1,
+        "radius_mm": 1.4619612768652623,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 2,
+        "radius_mm": 1.8874287151677862,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 3,
+        "radius_mm": 2.233288810649236,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 0,
+        "radius_mm": 1.1424690790808556,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 1,
+        "radius_mm": 1.652329918272809,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 2,
+        "radius_mm": 2.038452374852529,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 3,
+        "radius_mm": 2.3623118741968563,
+        "inside_roi": false
+      }
+    ],
+    "visibility": {
+      "red": true,
+      "center": true,
+      "blue": true
+    },
+    "both_side_peaks_visible": true,
+    "angular_scan_fsr": 1.3755556282320087,
+    "note": "Peak centres only; line tails, phase offset, illumination and collection acceptance also affect recorded signal."
+  },
+  {
+    "cavity_index": 1.0,
+    "focal_length_mm": 250.0,
+    "center_detuning_ghz": 2.5,
+    "water_angle_deg": 90,
+    "rings": [
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 1,
+        "radius_mm": 1.858268239811888,
+        "inside_roi": false
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 2,
+        "radius_mm": 2.722398154630431,
+        "inside_roi": false
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 3,
+        "radius_mm": 3.371960646016064,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 0,
+        "radius_mm": 0.8121749931595107,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 1,
+        "radius_mm": 2.1488640814747373,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 2,
+        "radius_mm": 2.9284776669620225,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 3,
+        "radius_mm": 3.540440944694996,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 0,
+        "radius_mm": 1.3505633337040892,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 1,
+        "radius_mm": 2.40459636470757,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 2,
+        "radius_mm": 3.120980939882634,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 3,
+        "radius_mm": 3.7012614627700198,
+        "inside_roi": false
+      }
+    ],
+    "visibility": {
+      "red": false,
+      "center": true,
+      "blue": true
+    },
+    "both_side_peaks_visible": false,
+    "angular_scan_fsr": 0.49522073143588535,
+    "note": "Peak centres only; line tails, phase offset, illumination and collection acceptance also affect recorded signal."
+  },
+  {
+    "cavity_index": 1.0,
+    "focal_length_mm": 250.0,
+    "center_detuning_ghz": 2.5,
+    "water_angle_deg": 180,
+    "rings": [
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 1,
+        "radius_mm": 1.7236097482997275,
+        "inside_roi": false
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 2,
+        "radius_mm": 2.632316637507146,
+        "inside_roi": false
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 3,
+        "radius_mm": 3.299655621057894,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 0,
+        "radius_mm": 0.8121749931595107,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 1,
+        "radius_mm": 2.1488640814747373,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 2,
+        "radius_mm": 2.9284776669620225,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 3,
+        "radius_mm": 3.540440944694996,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 0,
+        "radius_mm": 1.5186612224609006,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 1,
+        "radius_mm": 2.502883299473915,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 2,
+        "radius_mm": 3.197326024505999,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 3,
+        "radius_mm": 3.765864926523185,
+        "inside_roi": false
+      }
+    ],
+    "visibility": {
+      "red": false,
+      "center": true,
+      "blue": false
+    },
+    "both_side_peaks_visible": false,
+    "angular_scan_fsr": 0.49522073143588535,
+    "note": "Peak centres only; line tails, phase offset, illumination and collection acceptance also affect recorded signal."
+  },
+  {
+    "cavity_index": 1.0,
+    "focal_length_mm": 250.0,
+    "center_detuning_ghz": 7.5,
+    "water_angle_deg": 90,
+    "rings": [
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 0,
+        "radius_mm": 0.9025016100050663,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 1,
+        "radius_mm": 2.184616524836189,
+        "inside_roi": false
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 2,
+        "radius_mm": 2.954820731972766,
+        "inside_roi": false
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 3,
+        "radius_mm": 3.5622686305526576,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 0,
+        "radius_mm": 1.4067394879024515,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 1,
+        "radius_mm": 2.4366021281087704,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 2,
+        "radius_mm": 3.1457145252796437,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 3,
+        "radius_mm": 3.7221480177487267,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 0,
+        "radius_mm": 1.772944912874901,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 1,
+        "radius_mm": 2.6648679794699133,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 2,
+        "radius_mm": 3.325670614914519,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 3,
+        "radius_mm": 3.875438657030593,
+        "inside_roi": false
+      }
+    ],
+    "visibility": {
+      "red": true,
+      "center": false,
+      "blue": false
+    },
+    "both_side_peaks_visible": false,
+    "angular_scan_fsr": 0.49522073143588535,
+    "note": "Peak centres only; line tails, phase offset, illumination and collection acceptance also affect recorded signal."
+  },
+  {
+    "cavity_index": 1.0,
+    "focal_length_mm": 250.0,
+    "center_detuning_ghz": 7.5,
+    "water_angle_deg": 180,
+    "rings": [
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 0,
+        "radius_mm": 0.5763672713567826,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 1,
+        "radius_mm": 2.0712819442077466,
+        "inside_roi": false
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 2,
+        "radius_mm": 2.8720366542520264,
+        "inside_roi": false
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 3,
+        "radius_mm": 3.4939027221778445,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 0,
+        "radius_mm": 1.4067394879024515,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 1,
+        "radius_mm": 2.4366021281087704,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 2,
+        "radius_mm": 3.1457145252796437,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 3,
+        "radius_mm": 3.7221480177487267,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 0,
+        "radius_mm": 1.904115131801426,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 1,
+        "radius_mm": 2.753883197121348,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 2,
+        "radius_mm": 3.397420624754215,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 3,
+        "radius_mm": 3.9371864569947603,
+        "inside_roi": false
+      }
+    ],
+    "visibility": {
+      "red": true,
+      "center": false,
+      "blue": false
+    },
+    "both_side_peaks_visible": false,
+    "angular_scan_fsr": 0.49522073143588535,
+    "note": "Peak centres only; line tails, phase offset, illumination and collection acceptance also affect recorded signal."
+  },
+  {
+    "cavity_index": 1.46,
+    "focal_length_mm": 50.0,
+    "center_detuning_ghz": 2.5,
+    "water_angle_deg": 90,
+    "rings": [
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 1,
+        "radius_mm": 0.542631289364621,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 2,
+        "radius_mm": 0.7949936025524663,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 3,
+        "radius_mm": 0.9847138718406148,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 0,
+        "radius_mm": 0.23715651418274308,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 1,
+        "radius_mm": 0.6274945430927772,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 2,
+        "radius_mm": 0.8551818747818735,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 3,
+        "radius_mm": 1.0339260865804158,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 0,
+        "radius_mm": 0.3943710055466644,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 1,
+        "radius_mm": 0.7021788943417375,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 2,
+        "radius_mm": 0.9114068049280326,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 3,
+        "radius_mm": 1.0809024060971169,
+        "inside_roi": true
+      }
+    ],
+    "visibility": {
+      "red": true,
+      "center": true,
+      "blue": true
+    },
+    "both_side_peaks_visible": true,
+    "angular_scan_fsr": 5.804206869057152,
+    "note": "Peak centres only; line tails, phase offset, illumination and collection acceptance also affect recorded signal."
+  },
+  {
+    "cavity_index": 1.46,
+    "focal_length_mm": 50.0,
+    "center_detuning_ghz": 2.5,
+    "water_angle_deg": 180,
+    "rings": [
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 1,
+        "radius_mm": 0.5033075828082545,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 2,
+        "radius_mm": 0.7686846774662717,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 3,
+        "radius_mm": 0.9635944221524004,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 0,
+        "radius_mm": 0.23715651418274308,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 1,
+        "radius_mm": 0.6274945430927772,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 2,
+        "radius_mm": 0.8551818747818735,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 3,
+        "radius_mm": 1.0339260865804158,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 0,
+        "radius_mm": 0.4434583359160735,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 1,
+        "radius_mm": 0.7308833734453649,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 2,
+        "radius_mm": 0.9337056136989178,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 3,
+        "radius_mm": 1.0997737614519343,
+        "inside_roi": true
+      }
+    ],
+    "visibility": {
+      "red": true,
+      "center": true,
+      "blue": true
+    },
+    "both_side_peaks_visible": true,
+    "angular_scan_fsr": 5.804206869057152,
+    "note": "Peak centres only; line tails, phase offset, illumination and collection acceptance also affect recorded signal."
+  },
+  {
+    "cavity_index": 1.46,
+    "focal_length_mm": 50.0,
+    "center_detuning_ghz": 7.5,
+    "water_angle_deg": 90,
+    "rings": [
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 0,
+        "radius_mm": 0.2635324133082125,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 1,
+        "radius_mm": 0.6379355878131101,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 2,
+        "radius_mm": 0.8628758578675745,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 3,
+        "radius_mm": 1.0403019546274024,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 0,
+        "radius_mm": 0.4107752894621002,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 1,
+        "radius_mm": 0.7115260646451552,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 2,
+        "radius_mm": 0.9186309380137777,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 3,
+        "radius_mm": 1.0870035627900703,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 0,
+        "radius_mm": 0.5177146468420587,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 1,
+        "radius_mm": 0.778191480495099,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 2,
+        "radius_mm": 0.9711930648746269,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 3,
+        "radius_mm": 1.1317819801782807,
+        "inside_roi": true
+      }
+    ],
+    "visibility": {
+      "red": true,
+      "center": true,
+      "blue": true
+    },
+    "both_side_peaks_visible": true,
+    "angular_scan_fsr": 5.804206869057152,
+    "note": "Peak centres only; line tails, phase offset, illumination and collection acceptance also affect recorded signal."
+  },
+  {
+    "cavity_index": 1.46,
+    "focal_length_mm": 50.0,
+    "center_detuning_ghz": 7.5,
+    "water_angle_deg": 180,
+    "rings": [
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 0,
+        "radius_mm": 0.16829974937036588,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 1,
+        "radius_mm": 0.6048378190998597,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 2,
+        "radius_mm": 0.8386973333226154,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 3,
+        "radius_mm": 1.0203323588058981,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 0,
+        "radius_mm": 0.4107752894621002,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 1,
+        "radius_mm": 0.7115260646451552,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 2,
+        "radius_mm": 0.9186309380137777,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 3,
+        "radius_mm": 1.0870035627900703,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 0,
+        "radius_mm": 0.5560198686500686,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 1,
+        "radius_mm": 0.8041891072851572,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 2,
+        "radius_mm": 0.9921504992823247,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 3,
+        "radius_mm": 1.1498198126020103,
+        "inside_roi": true
+      }
+    ],
+    "visibility": {
+      "red": true,
+      "center": true,
+      "blue": true
+    },
+    "both_side_peaks_visible": true,
+    "angular_scan_fsr": 5.804206869057152,
+    "note": "Peak centres only; line tails, phase offset, illumination and collection acceptance also affect recorded signal."
+  },
+  {
+    "cavity_index": 1.46,
+    "focal_length_mm": 100.0,
+    "center_detuning_ghz": 2.5,
+    "water_angle_deg": 90,
+    "rings": [
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 1,
+        "radius_mm": 1.085262578729242,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 2,
+        "radius_mm": 1.5899872051049326,
+        "inside_roi": false
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 3,
+        "radius_mm": 1.9694277436812295,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 0,
+        "radius_mm": 0.47431302836548617,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 1,
+        "radius_mm": 1.2549890861855544,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 2,
+        "radius_mm": 1.710363749563747,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 3,
+        "radius_mm": 2.0678521731608317,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 0,
+        "radius_mm": 0.7887420110933288,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 1,
+        "radius_mm": 1.404357788683475,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 2,
+        "radius_mm": 1.8228136098560652,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 3,
+        "radius_mm": 2.1618048121942337,
+        "inside_roi": false
+      }
+    ],
+    "visibility": {
+      "red": true,
+      "center": true,
+      "blue": true
+    },
+    "both_side_peaks_visible": true,
+    "angular_scan_fsr": 1.451804726062669,
+    "note": "Peak centres only; line tails, phase offset, illumination and collection acceptance also affect recorded signal."
+  },
+  {
+    "cavity_index": 1.46,
+    "focal_length_mm": 100.0,
+    "center_detuning_ghz": 2.5,
+    "water_angle_deg": 180,
+    "rings": [
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 1,
+        "radius_mm": 1.006615165616509,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 2,
+        "radius_mm": 1.5373693549325433,
+        "inside_roi": false
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 3,
+        "radius_mm": 1.9271888443048009,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 0,
+        "radius_mm": 0.47431302836548617,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 1,
+        "radius_mm": 1.2549890861855544,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 2,
+        "radius_mm": 1.710363749563747,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 3,
+        "radius_mm": 2.0678521731608317,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 0,
+        "radius_mm": 0.886916671832147,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 1,
+        "radius_mm": 1.4617667468907298,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 2,
+        "radius_mm": 1.8674112273978356,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 3,
+        "radius_mm": 2.1995475229038686,
+        "inside_roi": false
+      }
+    ],
+    "visibility": {
+      "red": true,
+      "center": true,
+      "blue": true
+    },
+    "both_side_peaks_visible": true,
+    "angular_scan_fsr": 1.451804726062669,
+    "note": "Peak centres only; line tails, phase offset, illumination and collection acceptance also affect recorded signal."
+  },
+  {
+    "cavity_index": 1.46,
+    "focal_length_mm": 100.0,
+    "center_detuning_ghz": 7.5,
+    "water_angle_deg": 90,
+    "rings": [
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 0,
+        "radius_mm": 0.527064826616425,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 1,
+        "radius_mm": 1.2758711756262202,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 2,
+        "radius_mm": 1.725751715735149,
+        "inside_roi": false
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 3,
+        "radius_mm": 2.0806039092548048,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 0,
+        "radius_mm": 0.8215505789242004,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 1,
+        "radius_mm": 1.4230521292903104,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 2,
+        "radius_mm": 1.8372618760275554,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 3,
+        "radius_mm": 2.1740071255801405,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 0,
+        "radius_mm": 1.0354292936841174,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 1,
+        "radius_mm": 1.556382960990198,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 2,
+        "radius_mm": 1.9423861297492537,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 3,
+        "radius_mm": 2.2635639603565614,
+        "inside_roi": false
+      }
+    ],
+    "visibility": {
+      "red": true,
+      "center": true,
+      "blue": true
+    },
+    "both_side_peaks_visible": true,
+    "angular_scan_fsr": 1.451804726062669,
+    "note": "Peak centres only; line tails, phase offset, illumination and collection acceptance also affect recorded signal."
+  },
+  {
+    "cavity_index": 1.46,
+    "focal_length_mm": 100.0,
+    "center_detuning_ghz": 7.5,
+    "water_angle_deg": 180,
+    "rings": [
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 0,
+        "radius_mm": 0.33659949874073175,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 1,
+        "radius_mm": 1.2096756381997193,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 2,
+        "radius_mm": 1.6773946666452308,
+        "inside_roi": false
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 3,
+        "radius_mm": 2.0406647176117962,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 0,
+        "radius_mm": 0.8215505789242004,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 1,
+        "radius_mm": 1.4230521292903104,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 2,
+        "radius_mm": 1.8372618760275554,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 3,
+        "radius_mm": 2.1740071255801405,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 0,
+        "radius_mm": 1.1120397373001372,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 1,
+        "radius_mm": 1.6083782145703145,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 2,
+        "radius_mm": 1.9843009985646494,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 3,
+        "radius_mm": 2.2996396252040205,
+        "inside_roi": false
+      }
+    ],
+    "visibility": {
+      "red": true,
+      "center": true,
+      "blue": true
+    },
+    "both_side_peaks_visible": true,
+    "angular_scan_fsr": 1.451804726062669,
+    "note": "Peak centres only; line tails, phase offset, illumination and collection acceptance also affect recorded signal."
+  },
+  {
+    "cavity_index": 1.46,
+    "focal_length_mm": 150.0,
+    "center_detuning_ghz": 2.5,
+    "water_angle_deg": 90,
+    "rings": [
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 1,
+        "radius_mm": 1.627893868093863,
+        "inside_roi": false
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 2,
+        "radius_mm": 2.384980807657399,
+        "inside_roi": false
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 3,
+        "radius_mm": 2.954141615521844,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 0,
+        "radius_mm": 0.7114695425482293,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 1,
+        "radius_mm": 1.8824836292783313,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 2,
+        "radius_mm": 2.5655456243456203,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 3,
+        "radius_mm": 3.1017782597412475,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 0,
+        "radius_mm": 1.1831130166399932,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 1,
+        "radius_mm": 2.1065366830252126,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 2,
+        "radius_mm": 2.734220414784098,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 3,
+        "radius_mm": 3.242707218291351,
+        "inside_roi": false
+      }
+    ],
+    "visibility": {
+      "red": false,
+      "center": true,
+      "blue": true
+    },
+    "both_side_peaks_visible": false,
+    "angular_scan_fsr": 0.645308559743903,
+    "note": "Peak centres only; line tails, phase offset, illumination and collection acceptance also affect recorded signal."
+  },
+  {
+    "cavity_index": 1.46,
+    "focal_length_mm": 150.0,
+    "center_detuning_ghz": 2.5,
+    "water_angle_deg": 180,
+    "rings": [
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 1,
+        "radius_mm": 1.5099227484247635,
+        "inside_roi": false
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 2,
+        "radius_mm": 2.306054032398815,
+        "inside_roi": false
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 3,
+        "radius_mm": 2.8907832664572015,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 0,
+        "radius_mm": 0.7114695425482293,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 1,
+        "radius_mm": 1.8824836292783313,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 2,
+        "radius_mm": 2.5655456243456203,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 3,
+        "radius_mm": 3.1017782597412475,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 0,
+        "radius_mm": 1.3303750077482204,
+        "inside_roi": true
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 1,
+        "radius_mm": 2.192650120336095,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 2,
+        "radius_mm": 2.8011168410967535,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 3,
+        "radius_mm": 3.299321284355803,
+        "inside_roi": false
+      }
+    ],
+    "visibility": {
+      "red": false,
+      "center": true,
+      "blue": true
+    },
+    "both_side_peaks_visible": false,
+    "angular_scan_fsr": 0.645308559743903,
+    "note": "Peak centres only; line tails, phase offset, illumination and collection acceptance also affect recorded signal."
+  },
+  {
+    "cavity_index": 1.46,
+    "focal_length_mm": 150.0,
+    "center_detuning_ghz": 7.5,
+    "water_angle_deg": 90,
+    "rings": [
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 0,
+        "radius_mm": 0.7905972399246375,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 1,
+        "radius_mm": 1.9138067634393305,
+        "inside_roi": false
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 2,
+        "radius_mm": 2.5886275736027233,
+        "inside_roi": false
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 3,
+        "radius_mm": 3.120905863882207,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 0,
+        "radius_mm": 1.2323258683863005,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 1,
+        "radius_mm": 2.1345781939354658,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 2,
+        "radius_mm": 2.7558928140413332,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 3,
+        "radius_mm": 3.261010688370211,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 0,
+        "radius_mm": 1.553143940526176,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 1,
+        "radius_mm": 2.334574441485297,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 2,
+        "radius_mm": 2.913579194623881,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 3,
+        "radius_mm": 3.395345940534842,
+        "inside_roi": false
+      }
+    ],
+    "visibility": {
+      "red": true,
+      "center": true,
+      "blue": false
+    },
+    "both_side_peaks_visible": false,
+    "angular_scan_fsr": 0.645308559743903,
+    "note": "Peak centres only; line tails, phase offset, illumination and collection acceptance also affect recorded signal."
+  },
+  {
+    "cavity_index": 1.46,
+    "focal_length_mm": 150.0,
+    "center_detuning_ghz": 7.5,
+    "water_angle_deg": 180,
+    "rings": [
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 0,
+        "radius_mm": 0.5048992481110977,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 1,
+        "radius_mm": 1.8145134572995791,
+        "inside_roi": false
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 2,
+        "radius_mm": 2.516091999967846,
+        "inside_roi": false
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 3,
+        "radius_mm": 3.060997076417694,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 0,
+        "radius_mm": 1.2323258683863005,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 1,
+        "radius_mm": 2.1345781939354658,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 2,
+        "radius_mm": 2.7558928140413332,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 3,
+        "radius_mm": 3.261010688370211,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 0,
+        "radius_mm": 1.6680596059502057,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 1,
+        "radius_mm": 2.4125673218554717,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 2,
+        "radius_mm": 2.976451497846974,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 3,
+        "radius_mm": 3.449459437806031,
+        "inside_roi": false
+      }
+    ],
+    "visibility": {
+      "red": true,
+      "center": true,
+      "blue": false
+    },
+    "both_side_peaks_visible": false,
+    "angular_scan_fsr": 0.645308559743903,
+    "note": "Peak centres only; line tails, phase offset, illumination and collection acceptance also affect recorded signal."
+  },
+  {
+    "cavity_index": 1.46,
+    "focal_length_mm": 250.0,
+    "center_detuning_ghz": 2.5,
+    "water_angle_deg": 90,
+    "rings": [
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 1,
+        "radius_mm": 2.713156446823105,
+        "inside_roi": false
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 2,
+        "radius_mm": 3.9749680127623317,
+        "inside_roi": false
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 3,
+        "radius_mm": 4.923569359203073,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 0,
+        "radius_mm": 1.1857825709137155,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 1,
+        "radius_mm": 3.1374727154638857,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 2,
+        "radius_mm": 4.275909373909368,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 3,
+        "radius_mm": 5.169630432902079,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 0,
+        "radius_mm": 1.971855027733322,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 1,
+        "radius_mm": 3.510894471708687,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 2,
+        "radius_mm": 4.557034024640163,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 3,
+        "radius_mm": 5.404512030485585,
+        "inside_roi": false
+      }
+    ],
+    "visibility": {
+      "red": false,
+      "center": true,
+      "blue": false
+    },
+    "both_side_peaks_visible": false,
+    "angular_scan_fsr": 0.23232251377123042,
+    "note": "Peak centres only; line tails, phase offset, illumination and collection acceptance also affect recorded signal."
+  },
+  {
+    "cavity_index": 1.46,
+    "focal_length_mm": 250.0,
+    "center_detuning_ghz": 2.5,
+    "water_angle_deg": 180,
+    "rings": [
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 1,
+        "radius_mm": 2.5165379140412725,
+        "inside_roi": false
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 2,
+        "radius_mm": 3.843423387331358,
+        "inside_roi": false
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 3,
+        "radius_mm": 4.817972110762002,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 0,
+        "radius_mm": 1.1857825709137155,
+        "inside_roi": true
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 1,
+        "radius_mm": 3.1374727154638857,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 2,
+        "radius_mm": 4.275909373909368,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 3,
+        "radius_mm": 5.169630432902079,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 0,
+        "radius_mm": 2.2172916795803674,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 1,
+        "radius_mm": 3.654416867226825,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 2,
+        "radius_mm": 4.668528068494589,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 3,
+        "radius_mm": 5.498868807259671,
+        "inside_roi": false
+      }
+    ],
+    "visibility": {
+      "red": false,
+      "center": true,
+      "blue": false
+    },
+    "both_side_peaks_visible": false,
+    "angular_scan_fsr": 0.23232251377123042,
+    "note": "Peak centres only; line tails, phase offset, illumination and collection acceptance also affect recorded signal."
+  },
+  {
+    "cavity_index": 1.46,
+    "focal_length_mm": 250.0,
+    "center_detuning_ghz": 7.5,
+    "water_angle_deg": 90,
+    "rings": [
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 0,
+        "radius_mm": 1.3176620665410623,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 1,
+        "radius_mm": 3.1896779390655507,
+        "inside_roi": false
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 2,
+        "radius_mm": 4.3143792893378725,
+        "inside_roi": false
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -4.413033618774507,
+        "order": 3,
+        "radius_mm": 5.201509773137012,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 0,
+        "radius_mm": 2.053876447310501,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 1,
+        "radius_mm": 3.557630323225776,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 2,
+        "radius_mm": 4.593154690068888,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 3,
+        "radius_mm": 5.435017813950351,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 0,
+        "radius_mm": 2.588573234210293,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 1,
+        "radius_mm": 3.8909574024754954,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 2,
+        "radius_mm": 4.855965324373135,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 4.413033618774507,
+        "order": 3,
+        "radius_mm": 5.658909900891404,
+        "inside_roi": false
+      }
+    ],
+    "visibility": {
+      "red": true,
+      "center": false,
+      "blue": false
+    },
+    "both_side_peaks_visible": false,
+    "angular_scan_fsr": 0.23232251377123042,
+    "note": "Peak centres only; line tails, phase offset, illumination and collection acceptance also affect recorded signal."
+  },
+  {
+    "cavity_index": 1.46,
+    "focal_length_mm": 250.0,
+    "center_detuning_ghz": 7.5,
+    "water_angle_deg": 180,
+    "rings": [
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 0,
+        "radius_mm": 0.8414987468518293,
+        "inside_roi": true
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 1,
+        "radius_mm": 3.0241890954992985,
+        "inside_roi": false
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 2,
+        "radius_mm": 4.193486666613077,
+        "inside_roi": false
+      },
+      {
+        "component": "red",
+        "frequency_ghz": -6.2409719948793265,
+        "order": 3,
+        "radius_mm": 5.10166179402949,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 0,
+        "radius_mm": 2.053876447310501,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 1,
+        "radius_mm": 3.557630323225776,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 2,
+        "radius_mm": 4.593154690068888,
+        "inside_roi": false
+      },
+      {
+        "component": "center",
+        "frequency_ghz": 0.0,
+        "order": 3,
+        "radius_mm": 5.435017813950351,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 0,
+        "radius_mm": 2.780099343250343,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 1,
+        "radius_mm": 4.020945536425787,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 2,
+        "radius_mm": 4.960752496411623,
+        "inside_roi": false
+      },
+      {
+        "component": "blue",
+        "frequency_ghz": 6.2409719948793265,
+        "order": 3,
+        "radius_mm": 5.749099063010052,
+        "inside_roi": false
+      }
+    ],
+    "visibility": {
+      "red": true,
+      "center": false,
+      "blue": false
+    },
+    "both_side_peaks_visible": false,
+    "angular_scan_fsr": 0.23232251377123042,
+    "note": "Peak centres only; line tails, phase offset, illumination and collection acceptance also affect recorded signal."
+  }
+]

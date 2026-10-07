@@ -1,0 +1,433 @@
+{
+  "data_class": "simulation_audit_only",
+  "scope": "原包之外的本轮诊断；未预注册精度预算，不作为G2整体通过证据",
+  "environment": {
+    "python": "3.14.4 (tags/v3.14.4:23116f9, Apr  7 2026, 14:10:54) [MSC v.1944 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0"
+  },
+  "temperatures": [
+    {
+      "temperature_C": 20,
+      "n": 1.332106880692833,
+      "sound_m_s": 1482.346174920139,
+      "formula_B_GHz": 4.413033618774508,
+      "code_B_GHz": 4.413033618774507,
+      "formula_abs_difference_GHz": 8.881784197001252e-16,
+      "fit": {
+        "parameters": {
+          "shift_ghz": -2.2600975050775816e-16,
+          "brillouin_ghz": 4.413033618774507,
+          "brillouin_hwhm_ghz": 0.10701103697708836,
+          "intrinsic_central_fraction": 0.006541376326045565,
+          "amplitude": 1.0
+        },
+        "conditional_standard_errors": {
+          "shift_ghz": 0.00013169296337410826,
+          "brillouin_ghz": 0.00013137413161815796,
+          "brillouin_hwhm_ghz": 0.00014243111984318157,
+          "intrinsic_central_fraction": 5.528824416378458e-05,
+          "amplitude": 0.00023172504080604895
+        },
+        "chi2": 8.898226584697401e-28,
+        "success": true,
+        "at_bound": false,
+        "evaluations": 8,
+        "note": "Conditional on the specified instrument, laser, water angle distribution and elastic fraction; central optical weight remains phenomenological."
+      },
+      "fit_B_error_MHz": -8.881784197001252e-13
+    },
+    {
+      "temperature_C": 25,
+      "n": 1.331619187555735,
+      "sound_m_s": 1496.7013843102422,
+      "formula_B_GHz": 4.454138652720621,
+      "code_B_GHz": 4.454138652720621,
+      "formula_abs_difference_GHz": 0.0,
+      "fit": {
+        "parameters": {
+          "shift_ghz": -5.2563866966105944e-17,
+          "brillouin_ghz": 4.454138652720621,
+          "brillouin_hwhm_ghz": 0.10292222228946467,
+          "intrinsic_central_fraction": 0.010463242412022187,
+          "amplitude": 0.9999999999999999
+        },
+        "conditional_standard_errors": {
+          "shift_ghz": 0.00013059347895008885,
+          "brillouin_ghz": 0.00013062987588491394,
+          "brillouin_hwhm_ghz": 0.00014122420752154017,
+          "intrinsic_central_fraction": 5.5178136017595705e-05,
+          "amplitude": 0.00023171792339542552
+        },
+        "chi2": 1.7116163555874533e-27,
+        "success": true,
+        "at_bound": false,
+        "evaluations": 8,
+        "note": "Conditional on the specified instrument, laser, water angle distribution and elastic fraction; central optical weight remains phenomenological."
+      },
+      "fit_B_error_MHz": 0.0
+    },
+    {
+      "temperature_C": 30,
+      "n": 1.3310542755926458,
+      "sound_m_s": 1509.1537606487066,
+      "formula_B_GHz": 4.489291255615641,
+      "code_B_GHz": 4.489291255615641,
+      "formula_abs_difference_GHz": 0.0,
+      "fit": {
+        "parameters": {
+          "shift_ghz": 2.1694346678449655e-17,
+          "brillouin_ghz": 4.489291255615641,
+          "brillouin_hwhm_ghz": 0.09954410404395943,
+          "intrinsic_central_fraction": 0.014975412495984228,
+          "amplitude": 1.0
+        },
+        "conditional_standard_errors": {
+          "shift_ghz": 0.00012935952652800574,
+          "brillouin_ghz": 0.00013014810745382043,
+          "brillouin_hwhm_ghz": 0.00014009274364167078,
+          "intrinsic_central_fraction": 5.5076265852712145e-05,
+          "amplitude": 0.00023181386422784062
+        },
+        "chi2": 3.2567701953642007e-29,
+        "success": true,
+        "at_bound": false,
+        "evaluations": 8,
+        "note": "Conditional on the specified instrument, laser, water angle distribution and elastic fraction; central optical weight remains phenomenological."
+      },
+      "fit_B_error_MHz": 0.0
+    }
+  ],
+  "grids": [
+    {
+      "step_factor": 1,
+      "points": 12360,
+      "core_step_GHz": 0.0025,
+      "tail_step_GHz": 0.1,
+      "relative_L2_vs_previous": 0.0,
+      "relative_L2_vs_default": 0.0,
+      "fit_with_default_grid": {
+        "parameters": {
+          "shift_ghz": -2.2600975050775816e-16,
+          "brillouin_ghz": 4.413033618774507,
+          "brillouin_hwhm_ghz": 0.10701103697708836,
+          "intrinsic_central_fraction": 0.006541376326045565,
+          "amplitude": 1.0
+        },
+        "conditional_standard_errors": {
+          "shift_ghz": 0.00013169296337410826,
+          "brillouin_ghz": 0.00013137413161815796,
+          "brillouin_hwhm_ghz": 0.00014243111984318157,
+          "intrinsic_central_fraction": 5.528824416378458e-05,
+          "amplitude": 0.00023172504080604895
+        },
+        "chi2": 8.898226584697401e-28,
+        "success": true,
+        "at_bound": false,
+        "evaluations": 8,
+        "note": "Conditional on the specified instrument, laser, water angle distribution and elastic fraction; central optical weight remains phenomenological."
+      },
+      "B_error_MHz": 0.0
+    },
+    {
+      "step_factor": 2,
+      "points": 24720,
+      "core_step_GHz": 0.00125,
+      "tail_step_GHz": 0.05,
+      "relative_L2_vs_previous": 5.63630576884386e-07,
+      "relative_L2_vs_default": 5.63630576884386e-07,
+      "fit_with_default_grid": {
+        "parameters": {
+          "shift_ghz": -5.985260714326638e-09,
+          "brillouin_ghz": 4.413033539098261,
+          "brillouin_hwhm_ghz": 0.10701108781868496,
+          "intrinsic_central_fraction": 0.006541366426842176,
+          "amplitude": 1.000000119323581
+        },
+        "conditional_standard_errors": {
+          "shift_ghz": 0.00013169296261771976,
+          "brillouin_ghz": 0.00013137413072074707,
+          "brillouin_hwhm_ghz": 0.00014243111931547286,
+          "intrinsic_central_fraction": 5.528823796916124e-05,
+          "amplitude": 0.00023172504146614658
+        },
+        "chi2": 7.189068881135687e-08,
+        "success": true,
+        "at_bound": false,
+        "evaluations": 8,
+        "note": "Conditional on the specified instrument, laser, water angle distribution and elastic fraction; central optical weight remains phenomenological."
+      },
+      "B_error_MHz": -7.967624604532375e-05
+    },
+    {
+      "step_factor": 4,
+      "points": 49440,
+      "core_step_GHz": 0.000625,
+      "tail_step_GHz": 0.025,
+      "relative_L2_vs_previous": 1.398576304452571e-07,
+      "relative_L2_vs_default": 7.03483897788497e-07,
+      "fit_with_default_grid": {
+        "parameters": {
+          "shift_ghz": -7.48039672768798e-09,
+          "brillouin_ghz": 4.413033519178837,
+          "brillouin_hwhm_ghz": 0.10701110049848961,
+          "intrinsic_central_fraction": 0.006541363953397142,
+          "amplitude": 1.0000001491445962
+        },
+        "conditional_standard_errors": {
+          "shift_ghz": 0.00013169296224670174,
+          "brillouin_ghz": 0.0001313741305634615,
+          "brillouin_hwhm_ghz": 0.00014243111974196487,
+          "intrinsic_central_fraction": 5.52882364301965e-05,
+          "amplitude": 0.0002317250414103632
+        },
+        "chi2": 1.1200912138196901e-07,
+        "success": true,
+        "at_bound": false,
+        "evaluations": 8,
+        "note": "Conditional on the specified instrument, laser, water angle distribution and elastic fraction; central optical weight remains phenomenological."
+      },
+      "B_error_MHz": -9.959566948936072e-05
+    }
+  ],
+  "background_probes": [
+    {
+      "residual_background_electrons_per_pixel": -5,
+      "fit": {
+        "parameters": {
+          "shift_ghz": -0.0003550361476859685,
+          "brillouin_ghz": 4.413074829577996,
+          "brillouin_hwhm_ghz": 0.07797805839994704,
+          "intrinsic_central_fraction": 3.8608427898971863e-22,
+          "amplitude": 0.9389514381931449
+        },
+        "conditional_standard_errors": {
+          "shift_ghz": 0.00012945396356320142,
+          "brillouin_ghz": 0.00012917631308819905,
+          "brillouin_hwhm_ghz": 0.00013998830304005324,
+          "intrinsic_central_fraction": 5.9012810864797464e-05,
+          "amplitude": 0.00023122774133054703
+        },
+        "chi2": 180.51782335076933,
+        "success": true,
+        "at_bound": true,
+        "evaluations": 14,
+        "note": "Conditional on the specified instrument, laser, water angle distribution and elastic fraction; central optical weight remains phenomenological."
+      },
+      "B_error_MHz": 0.04121080348884476
+    },
+    {
+      "residual_background_electrons_per_pixel": -1,
+      "fit": {
+        "parameters": {
+          "shift_ghz": -7.513888144827406e-05,
+          "brillouin_ghz": 4.413044101479917,
+          "brillouin_hwhm_ghz": 0.10105039727105875,
+          "intrinsic_central_fraction": 0.005289804997018546,
+          "amplitude": 0.987652888471454
+        },
+        "conditional_standard_errors": {
+          "shift_ghz": 0.0001312437257061504,
+          "brillouin_ghz": 0.00013092387729946508,
+          "brillouin_hwhm_ghz": 0.00014191172489777212,
+          "intrinsic_central_fraction": 5.599778898020909e-05,
+          "amplitude": 0.00023163294300085468
+        },
+        "chi2": 7.027914416523225,
+        "success": true,
+        "at_bound": false,
+        "evaluations": 8,
+        "note": "Conditional on the specified instrument, laser, water angle distribution and elastic fraction; central optical weight remains phenomenological."
+      },
+      "B_error_MHz": 0.010482705410375104
+    },
+    {
+      "residual_background_electrons_per_pixel": 0,
+      "fit": {
+        "parameters": {
+          "shift_ghz": -2.2600975050775816e-16,
+          "brillouin_ghz": 4.413033618774507,
+          "brillouin_hwhm_ghz": 0.10701103697708836,
+          "intrinsic_central_fraction": 0.006541376326045565,
+          "amplitude": 1.0
+        },
+        "conditional_standard_errors": {
+          "shift_ghz": 0.00013169296337410826,
+          "brillouin_ghz": 0.00013137413161815796,
+          "brillouin_hwhm_ghz": 0.00014243111984318157,
+          "intrinsic_central_fraction": 5.528824416378458e-05,
+          "amplitude": 0.00023172504080604895
+        },
+        "chi2": 8.898226584697401e-28,
+        "success": true,
+        "at_bound": false,
+        "evaluations": 8,
+        "note": "Conditional on the specified instrument, laser, water angle distribution and elastic fraction; central optical weight remains phenomenological."
+      },
+      "B_error_MHz": 0.0
+    },
+    {
+      "residual_background_electrons_per_pixel": 1,
+      "fit": {
+        "parameters": {
+          "shift_ghz": 7.725772475377201e-05,
+          "brillouin_ghz": 4.413021325226175,
+          "brillouin_hwhm_ghz": 0.1130549788528863,
+          "intrinsic_central_fraction": 0.007751766739346157,
+          "amplitude": 1.0124034818627257
+        },
+        "conditional_standard_errors": {
+          "shift_ghz": 0.00013214379603337256,
+          "brillouin_ghz": 0.00013183063036013645,
+          "brillouin_hwhm_ghz": 0.000142967391663008,
+          "intrinsic_central_fraction": 5.459615750761814e-05,
+          "amplitude": 0.00023181365476698744
+        },
+        "chi2": 6.931470622962866,
+        "success": true,
+        "at_bound": false,
+        "evaluations": 8,
+        "note": "Conditional on the specified instrument, laser, water angle distribution and elastic fraction; central optical weight remains phenomenological."
+      },
+      "B_error_MHz": -0.012293548331321347
+    },
+    {
+      "residual_background_electrons_per_pixel": 5,
+      "fit": {
+        "parameters": {
+          "shift_ghz": 0.00040810166274298616,
+          "brillouin_ghz": 4.412951483839412,
+          "brillouin_hwhm_ghz": 0.13808423330574277,
+          "intrinsic_central_fraction": 0.012204098373003541,
+          "amplitude": 1.0625426747841396
+        },
+        "conditional_standard_errors": {
+          "shift_ghz": 0.00013396579299294764,
+          "brillouin_ghz": 0.00013372145587350808,
+          "brillouin_hwhm_ghz": 0.00014528843960144897,
+          "intrinsic_central_fraction": 5.1990809779369463e-05,
+          "amplitude": 0.00023213423906984825
+        },
+        "chi2": 168.4495725050117,
+        "success": true,
+        "at_bound": false,
+        "evaluations": 8,
+        "note": "Conditional on the specified instrument, laser, water angle distribution and elastic fraction; central optical weight remains phenomenological."
+      },
+      "B_error_MHz": -0.0821349350950129
+    }
+  ],
+  "fit_domain_probes": [
+    {
+      "angle_deg": 10,
+      "true_B_GHz": 0.5439365496810415,
+      "fit": {
+        "parameters": {
+          "shift_ghz": -0.4146109222401129,
+          "brillouin_ghz": 1.0000000000000002,
+          "brillouin_hwhm_ghz": 0.043389151873405515,
+          "intrinsic_central_fraction": 0.47593023437379517,
+          "amplitude": 1.0075695992319542
+        },
+        "conditional_standard_errors": {
+          "shift_ghz": 5.048088362489086e-05,
+          "brillouin_ghz": 8.198326995476546e-05,
+          "brillouin_hwhm_ghz": 0.00012772624157992527,
+          "intrinsic_central_fraction": 9.22047409504022e-05,
+          "amplitude": 9.869028872098593e-05
+        },
+        "chi2": 108673.69510950847,
+        "success": true,
+        "at_bound": true,
+        "evaluations": 22,
+        "note": "Conditional on the specified instrument, laser, water angle distribution and elastic fraction; central optical weight remains phenomenological."
+      }
+    },
+    {
+      "angle_deg": 60,
+      "true_B_GHz": 3.1204859974396624,
+      "fit": {
+        "parameters": {
+          "shift_ghz": -5.3839739196879794e-17,
+          "brillouin_ghz": 3.1204859974396624,
+          "brillouin_hwhm_ghz": 0.053505518488544165,
+          "intrinsic_central_fraction": 0.006541376326045558,
+          "amplitude": 1.0
+        },
+        "conditional_standard_errors": {
+          "shift_ghz": 5.821479718508922e-05,
+          "brillouin_ghz": 6.080551926039596e-05,
+          "brillouin_hwhm_ghz": 8.24813008246145e-05,
+          "intrinsic_central_fraction": 5.521319470087294e-05,
+          "amplitude": 0.00015662362311325004
+        },
+        "chi2": 1.768468466664975e-30,
+        "success": true,
+        "at_bound": false,
+        "evaluations": 14,
+        "note": "Conditional on the specified instrument, laser, water angle distribution and elastic fraction; central optical weight remains phenomenological."
+      }
+    },
+    {
+      "angle_deg": 90,
+      "true_B_GHz": 4.413033618774507,
+      "fit": {
+        "parameters": {
+          "shift_ghz": -2.2600975050775816e-16,
+          "brillouin_ghz": 4.413033618774507,
+          "brillouin_hwhm_ghz": 0.10701103697708836,
+          "intrinsic_central_fraction": 0.006541376326045565,
+          "amplitude": 1.0
+        },
+        "conditional_standard_errors": {
+          "shift_ghz": 0.00013169296337410826,
+          "brillouin_ghz": 0.00013137413161815796,
+          "brillouin_hwhm_ghz": 0.00014243111984318157,
+          "intrinsic_central_fraction": 5.528824416378458e-05,
+          "amplitude": 0.00023172504080604895
+        },
+        "chi2": 8.898226584697401e-28,
+        "success": true,
+        "at_bound": false,
+        "evaluations": 8,
+        "note": "Conditional on the specified instrument, laser, water angle distribution and elastic fraction; central optical weight remains phenomenological."
+      }
+    },
+    {
+      "angle_deg": 180,
+      "true_B_GHz": 6.2409719948793265,
+      "fit": {
+        "parameters": {
+          "shift_ghz": 3.2429834904194984e-17,
+          "brillouin_ghz": 6.2409719948793265,
+          "brillouin_hwhm_ghz": 0.21402207395417677,
+          "intrinsic_central_fraction": 0.00654137632604556,
+          "amplitude": 1.0
+        },
+        "conditional_standard_errors": {
+          "shift_ghz": 8.919255365489756e-05,
+          "brillouin_ghz": 8.733729739196208e-05,
+          "brillouin_hwhm_ghz": 0.00010932054549839688,
+          "intrinsic_central_fraction": 5.542584201283854e-05,
+          "amplitude": 0.00014342272862288236
+        },
+        "chi2": 3.6349381549535506e-30,
+        "success": true,
+        "at_bound": false,
+        "evaluations": 12,
+        "note": "Conditional on the specified instrument, laser, water angle distribution and elastic fraction; central optical weight remains phenomenological."
+      }
+    }
+  ],
+  "inverse_identifiability": {
+    "shape": [
+      350,
+      600
+    ],
+    "rank_tolerance": 8.79927589059281e-14,
+    "numerical_rank": 295,
+    "nullity_at_least": 250,
+    "numerical_nullity": 305,
+    "condition_ratio": 7.77730396660756e+16,
+    "note": "线性离散算子欠定；非负和平滑条件下仍不得宣称任意谱唯一恢复。"
+  }
+}

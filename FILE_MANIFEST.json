@@ -1,0 +1,1833 @@
+{
+  "date": "2026-10-07",
+  "excluded": [
+    "__pycache__",
+    "*.pyc"
+  ],
+  "files": [
+    {
+      "original_path": "89101E.pdf",
+      "repository_path": "02_综述与参考/89101E.pdf",
+      "bytes": 306926,
+      "original_sha256": "b6d44a053fd86c6cd8c6847525eea53e15cecca49b348b09bbdff3cfe2163886",
+      "repository_sha256": "b6d44a053fd86c6cd8c6847525eea53e15cecca49b348b09bbdff3cfe2163886",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/代码包验收报告.md",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/代码包验收报告.md",
+      "bytes": 20106,
+      "original_sha256": "2dec5a6c867a90d6d0fb1ec18626ca0cc2f9c7552b2b18bc90ad4ba505b815b7",
+      "repository_sha256": "2dec5a6c867a90d6d0fb1ec18626ca0cc2f9c7552b2b18bc90ad4ba505b815b7",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/依据摘录/液态水散射_实_p6.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/依据摘录/液态水散射_实_p6.png",
+      "bytes": 305278,
+      "original_sha256": "feb3bb7c8b8875bbf062b63bcdf999ac8d601002b01ceca3c144fd670ad9d846",
+      "repository_sha256": "feb3bb7c8b8875bbf062b63bcdf999ac8d601002b01ceca3c144fd670ad9d846",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/依据摘录/液态水散射_实_p7.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/依据摘录/液态水散射_实_p7.png",
+      "bytes": 331649,
+      "original_sha256": "5680a2de8e266ab4ae29909d1182447510fc54b5ed6d262864b56db6b56f31b3",
+      "repository_sha256": "5680a2de8e266ab4ae29909d1182447510fc54b5ed6d262864b56db6b56f31b3",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/依据摘录/液态水散射_实验器材与市售仪器_验收修订稿.txt",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/依据摘录/液态水散射_实验器材与市售仪器_验收修订稿.txt",
+      "bytes": 17683,
+      "original_sha256": "7dcd9a668305ae513087dd5273e80a0e1cc18401cf50bd4c5cf1eab339cf376e",
+      "repository_sha256": "7dcd9a668305ae513087dd5273e80a0e1cc18401cf50bd4c5cf1eab339cf376e",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/依据摘录/液态水散射_实验器材与市售仪器_验收修订稿_pdfium.txt",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/依据摘录/液态水散射_实验器材与市售仪器_验收修订稿_pdfium.txt",
+      "bytes": 52337,
+      "original_sha256": "a45e5a72034743d9674bdd2620532fc47067274e5dfeb6e10ece91612b2109e0",
+      "repository_sha256": "a45e5a72034743d9674bdd2620532fc47067274e5dfeb6e10ece91612b2109e0",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/依据摘录/液态水散射_物_p3.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/依据摘录/液态水散射_物_p3.png",
+      "bytes": 273405,
+      "original_sha256": "483ff5767cba5bdc4968a317fe9ffc5acff9f2e10332ba5e2675cf110359366f",
+      "repository_sha256": "483ff5767cba5bdc4968a317fe9ffc5acff9f2e10332ba5e2675cf110359366f",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/依据摘录/液态水散射_物_p4.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/依据摘录/液态水散射_物_p4.png",
+      "bytes": 261690,
+      "original_sha256": "59bb9236b3360005e4666f8d135dd332120d7038c29a30a3cf1a5057f75728bf",
+      "repository_sha256": "59bb9236b3360005e4666f8d135dd332120d7038c29a30a3cf1a5057f75728bf",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/依据摘录/液态水散射_物理机制与杂质影响_验收修订稿.txt",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/依据摘录/液态水散射_物理机制与杂质影响_验收修订稿.txt",
+      "bytes": 18718,
+      "original_sha256": "1c3447a7d5b020b9017d75064444a0049b539a17210eeb5ff2b61c5570e9e053",
+      "repository_sha256": "1c3447a7d5b020b9017d75064444a0049b539a17210eeb5ff2b61c5570e9e053",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/依据摘录/液态水散射_物理机制与杂质影响_验收修订稿_pdfium.txt",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/依据摘录/液态水散射_物理机制与杂质影响_验收修订稿_pdfium.txt",
+      "bytes": 59775,
+      "original_sha256": "b2871d20e00768f40c5a6a6deb8a0b5cb94bd26ed6690e0861ad93e502101876",
+      "repository_sha256": "b2871d20e00768f40c5a6a6deb8a0b5cb94bd26ed6690e0861ad93e502101876",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/全ZIP原样核对.json",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/全ZIP原样核对.json",
+      "bytes": 23866,
+      "original_sha256": "e915c84c3ec68c9f2de5bab0a8b7e15a50f83e8082e8064a7dd1023c1b03ea88",
+      "repository_sha256": "e915c84c3ec68c9f2de5bab0a8b7e15a50f83e8082e8064a7dd1023c1b03ea88",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/单元测试日志.txt",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/单元测试日志.txt",
+      "bytes": 3413,
+      "original_sha256": "161ebac5157f63093a532d3ad3f7b66a76e258a8e2f8cac01b38f3ee35b01f8f",
+      "repository_sha256": "161ebac5157f63093a532d3ad3f7b66a76e258a8e2f8cac01b38f3ee35b01f8f",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包完整性.json",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包完整性.json",
+      "bytes": 18171,
+      "original_sha256": "165bb1293b855d43b6af6007c02031097094a942eafa25d904a03f1ccc39f0f4",
+      "repository_sha256": "165bb1293b855d43b6af6007c02031097094a942eafa25d904a03f1ccc39f0f4",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws-1.5.5.dist-info/INSTALLER",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws-1.5.5.dist-info/INSTALLER",
+      "bytes": 4,
+      "original_sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+      "repository_sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws-1.5.5.dist-info/METADATA",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws-1.5.5.dist-info/METADATA",
+      "bytes": 6622,
+      "original_sha256": "cf357fe11585ee3671d2d5c502aaf2c19a1a39c5c5b9a6473dbf6f6294f90d72",
+      "repository_sha256": "cf357fe11585ee3671d2d5c502aaf2c19a1a39c5c5b9a6473dbf6f6294f90d72",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws-1.5.5.dist-info/RECORD",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws-1.5.5.dist-info/RECORD",
+      "bytes": 1731,
+      "original_sha256": "f60beb374fb0c0613af0fcd95ec666d936c5660fcc2b3a72920b2e3b53c0fdf2",
+      "repository_sha256": "f60beb374fb0c0613af0fcd95ec666d936c5660fcc2b3a72920b2e3b53c0fdf2",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws-1.5.5.dist-info/REQUESTED",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws-1.5.5.dist-info/REQUESTED",
+      "bytes": 0,
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "repository_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws-1.5.5.dist-info/WHEEL",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws-1.5.5.dist-info/WHEEL",
+      "bytes": 91,
+      "original_sha256": "69e6228a0d35958183cc1812f07c565ce837b95eb51bd8a33acba9fa4f68d6c9",
+      "repository_sha256": "69e6228a0d35958183cc1812f07c565ce837b95eb51bd8a33acba9fa4f68d6c9",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws-1.5.5.dist-info/licenses/LICENSE",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws-1.5.5.dist-info/licenses/LICENSE",
+      "bytes": 35120,
+      "original_sha256": "fe3eea6c599e23a00c08c5f5cb2320c30adc8f8687db5fcec9b79a662c53ff6b",
+      "repository_sha256": "fe3eea6c599e23a00c08c5f5cb2320c30adc8f8687db5fcec9b79a662c53ff6b",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws-1.5.5.dist-info/top_level.txt",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws-1.5.5.dist-info/top_level.txt",
+      "bytes": 6,
+      "original_sha256": "5ec0cb1f7b9bc2ff6587fe7ed59c069963b51487d01d7f1e2819ae0d25cd70cc",
+      "repository_sha256": "5ec0cb1f7b9bc2ff6587fe7ed59c069963b51487d01d7f1e2819ae0d25cd70cc",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws/VERSION",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws/VERSION",
+      "bytes": 6,
+      "original_sha256": "04c93b7e7635a43d0cb6d097f9af0a72a9973041d11847e521cc682f1668c605",
+      "repository_sha256": "04c93b7e7635a43d0cb6d097f9af0a72a9973041d11847e521cc682f1668c605",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws/__init__.py",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws/__init__.py",
+      "bytes": 9195,
+      "original_sha256": "915ebb7f0f7127174decc740e52d03e2c6135461575f6dc173bcf7849be77f1f",
+      "repository_sha256": "915ebb7f0f7127174decc740e52d03e2c6135461575f6dc173bcf7849be77f1f",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws/_iapws.py",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws/_iapws.py",
+      "bytes": 51863,
+      "original_sha256": "9e077afb6634e0a54c26206162959e1dd5fb560fb328fc2117f80c7f087cf4ea",
+      "repository_sha256": "9e077afb6634e0a54c26206162959e1dd5fb560fb328fc2117f80c7f087cf4ea",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws/_iapws97Constants.py",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws/_iapws97Constants.py",
+      "bytes": 68442,
+      "original_sha256": "0af0556e4448aa3d61ad96ccf6efcac552f43fb02d7c111f9245871dd59db8ee",
+      "repository_sha256": "0af0556e4448aa3d61ad96ccf6efcac552f43fb02d7c111f9245871dd59db8ee",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws/_utils.py",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws/_utils.py",
+      "bytes": 10157,
+      "original_sha256": "f946c8d31262517f2f6b8676261afebb24ea06db03b67bba2bc51837283eff76",
+      "repository_sha256": "f946c8d31262517f2f6b8676261afebb24ea06db03b67bba2bc51837283eff76",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws/ammonia.py",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws/ammonia.py",
+      "bytes": 21035,
+      "original_sha256": "620b1762ea8783d55f155d33b20d81b0f4b260788d96235f4363e62395b15bb3",
+      "repository_sha256": "620b1762ea8783d55f155d33b20d81b0f4b260788d96235f4363e62395b15bb3",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws/humidAir.py",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws/humidAir.py",
+      "bytes": 33710,
+      "original_sha256": "adc8e3a0dc339ac1f2eda132225adb9a3c0974506ba53deec353a775e43706fe",
+      "repository_sha256": "adc8e3a0dc339ac1f2eda132225adb9a3c0974506ba53deec353a775e43706fe",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws/iapws08.py",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws/iapws08.py",
+      "bytes": 24526,
+      "original_sha256": "0913addf889e8e35dc2a82b66e9f4791bc931806058af07e53380ac1318cdedd",
+      "repository_sha256": "0913addf889e8e35dc2a82b66e9f4791bc931806058af07e53380ac1318cdedd",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws/iapws95.py",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws/iapws95.py",
+      "bytes": 106695,
+      "original_sha256": "89edb7c0e3b77533319d253819cdb4c1da50775d2e7b324249574607d6790520",
+      "repository_sha256": "89edb7c0e3b77533319d253819cdb4c1da50775d2e7b324249574607d6790520",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws/iapws97.py",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/.water_deps/iapws/iapws97.py",
+      "bytes": 107602,
+      "original_sha256": "9272a239bbe9245ad71afa747b211e68a1fddea097966fb098e55bcb9b098f9e",
+      "repository_sha256": "9272a239bbe9245ad71afa747b211e68a1fddea097966fb098e55bcb9b098f9e",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/README.md",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/README.md",
+      "bytes": 1738,
+      "original_sha256": "4a3a17159f0bb793d25abdb7fc581584152906366844e396d6259ab9a1e30415",
+      "repository_sha256": "4a3a17159f0bb793d25abdb7fc581584152906366844e396d6259ab9a1e30415",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/README_水模型.md",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/README_水模型.md",
+      "bytes": 1738,
+      "original_sha256": "4a3a17159f0bb793d25abdb7fc581584152906366844e396d6259ab9a1e30415",
+      "repository_sha256": "4a3a17159f0bb793d25abdb7fc581584152906366844e396d6259ab9a1e30415",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/_验证/交付复核.json",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/_验证/交付复核.json",
+      "bytes": 1505,
+      "original_sha256": "36397db2896fec79fed85843f460f7e84c50d240ea414fc23121ee594f68fde0",
+      "repository_sha256": "36397db2896fec79fed85843f460f7e84c50d240ea414fc23121ee594f68fde0",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/_验证/自动检查日志.txt",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/_验证/自动检查日志.txt",
+      "bytes": 3413,
+      "original_sha256": "8dca20146f9099a935b8df069b1879d4d48bce45d1eb2e8e7a0465dc0f2f40f7",
+      "repository_sha256": "8dca20146f9099a935b8df069b1879d4d48bce45d1eb2e8e7a0465dc0f2f40f7",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/docs/superpowers/plans/2026-09-30-rb-fp-plan.md",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/docs/superpowers/plans/2026-09-30-rb-fp-plan.md",
+      "bytes": 2548,
+      "original_sha256": "80c46114b23684de34010637fb79db134bff93ebf589f7f8658ef926bb14f55c",
+      "repository_sha256": "80c46114b23684de34010637fb79db134bff93ebf589f7f8658ef926bb14f55c",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/docs/superpowers/plans/2026-10-01-water-rb-fp-plan.md",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/docs/superpowers/plans/2026-10-01-water-rb-fp-plan.md",
+      "bytes": 964,
+      "original_sha256": "f1db06b68b64a0bf51b08252e5b9cf9653e3f57b0b5e4329c04c4eef79ef9166",
+      "repository_sha256": "f1db06b68b64a0bf51b08252e5b9cf9653e3f57b0b5e4329c04c4eef79ef9166",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/docs/superpowers/specs/2026-09-30-rb-fp-design.md",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/docs/superpowers/specs/2026-09-30-rb-fp-design.md",
+      "bytes": 3664,
+      "original_sha256": "d527f9b7259c61448108c8f99a6722591a234b5d41554f3981b6d0c08b8676da",
+      "repository_sha256": "d527f9b7259c61448108c8f99a6722591a234b5d41554f3981b6d0c08b8676da",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/docs/superpowers/specs/2026-10-01-water-rb-fp-design.md",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/docs/superpowers/specs/2026-10-01-water-rb-fp-design.md",
+      "bytes": 2156,
+      "original_sha256": "f7b819dc69205db4e672186ac88955ff8dd47f030cb689ada2a4ccfec4b37e70",
+      "repository_sha256": "f7b819dc69205db4e672186ac88955ff8dd47f030cb689ada2a4ccfec4b37e70",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/AGENTS.md",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/AGENTS.md",
+      "bytes": 403,
+      "original_sha256": "6aee8e7e11862e3dc3fb60522937cc0f1764a67d6c7b13160c71073f73b84fe7",
+      "repository_sha256": "6aee8e7e11862e3dc3fb60522937cc0f1764a67d6c7b13160c71073f73b84fe7",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/README.md",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/README.md",
+      "bytes": 1531,
+      "original_sha256": "f6de260154c6dff9a1aceb4a91d342a05fda3c49f277862463a32cc77de9275a",
+      "repository_sha256": "f6de260154c6dff9a1aceb4a91d342a05fda3c49f277862463a32cc77de9275a",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/docs/superpowers/plans/2026-09-30-rb-fp-plan.md",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/docs/superpowers/plans/2026-09-30-rb-fp-plan.md",
+      "bytes": 2548,
+      "original_sha256": "80c46114b23684de34010637fb79db134bff93ebf589f7f8658ef926bb14f55c",
+      "repository_sha256": "80c46114b23684de34010637fb79db134bff93ebf589f7f8658ef926bb14f55c",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/docs/superpowers/specs/2026-09-30-rb-fp-design.md",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/docs/superpowers/specs/2026-09-30-rb-fp-design.md",
+      "bytes": 3664,
+      "original_sha256": "d527f9b7259c61448108c8f99a6722591a234b5d41554f3981b6d0c08b8676da",
+      "repository_sha256": "d527f9b7259c61448108c8f99a6722591a234b5d41554f3981b6d0c08b8676da",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/high_pressure_expected_image.npy",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/high_pressure_expected_image.npy",
+      "bytes": 4718720,
+      "original_sha256": "38443c756dbee173de3c95568b027f16f48349f3a410ff2738fd11d3533bfc78",
+      "repository_sha256": "38443c756dbee173de3c95568b027f16f48349f3a410ff2738fd11d3533bfc78",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/high_pressure_noisy_image.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/high_pressure_noisy_image.png",
+      "bytes": 465883,
+      "original_sha256": "f8839a357466866198ff8c4c6ea06cc284a37edceec9b1794162fb0c4cfcf914",
+      "repository_sha256": "f8839a357466866198ff8c4c6ea06cc284a37edceec9b1794162fb0c4cfcf914",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/high_pressure_observed_image_electrons.npy",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/high_pressure_observed_image_electrons.npy",
+      "bytes": 4718720,
+      "original_sha256": "85ac3989c567e4cc87146cd8318ba3a5912c2cf7e86dfcf420852ee52b414c25",
+      "repository_sha256": "85ac3989c567e4cc87146cd8318ba3a5912c2cf7e86dfcf420852ee52b414c25",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/high_pressure_profile.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/high_pressure_profile.csv",
+      "bytes": 44068,
+      "original_sha256": "162f25579cd84ed55beb5b47217bbd4cc02f1c82ec08966c239960de2884b137",
+      "repository_sha256": "162f25579cd84ed55beb5b47217bbd4cc02f1c82ec08966c239960de2884b137",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/high_pressure_spectrum.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/high_pressure_spectrum.csv",
+      "bytes": 304611,
+      "original_sha256": "ec644705c6780da7ca7129630799a9b08f500434d2ac3b2f1ce80f31e0b05cf7",
+      "repository_sha256": "ec644705c6780da7ca7129630799a9b08f500434d2ac3b2f1ce80f31e0b05cf7",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/high_pressure_wiener_control.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/high_pressure_wiener_control.csv",
+      "bytes": 305954,
+      "original_sha256": "89d3d1cfa22b1aba5b731fc6e4ea329c008787c0d207efbf7690eaa9f0b766c2",
+      "repository_sha256": "89d3d1cfa22b1aba5b731fc6e4ea329c008787c0d207efbf7690eaa9f0b766c2",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/instrument_and_convolution.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/instrument_and_convolution.png",
+      "bytes": 129800,
+      "original_sha256": "652a4f9bd84a896b682860679d42dc9f3475f5e1b9454f0126b158084ddf9072",
+      "repository_sha256": "652a4f9bd84a896b682860679d42dc9f3475f5e1b9454f0126b158084ddf9072",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/low_pressure_expected_image.npy",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/low_pressure_expected_image.npy",
+      "bytes": 4718720,
+      "original_sha256": "ca743fe8e115e08c656c347c6734b2461218598817cafbf0f62ee3d814e07cc7",
+      "repository_sha256": "ca743fe8e115e08c656c347c6734b2461218598817cafbf0f62ee3d814e07cc7",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/low_pressure_observed_image_electrons.npy",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/low_pressure_observed_image_electrons.npy",
+      "bytes": 4718720,
+      "original_sha256": "b4c8be003f638f562e10de01ba8cdffd4810390a00a8c0bef5dc6123db9ff3cc",
+      "repository_sha256": "b4c8be003f638f562e10de01ba8cdffd4810390a00a8c0bef5dc6123db9ff3cc",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/low_pressure_profile.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/low_pressure_profile.csv",
+      "bytes": 44068,
+      "original_sha256": "8f2d8c1e58f978c7631d6335955594c4af20c662d1884551cff39773eb59b25e",
+      "repository_sha256": "8f2d8c1e58f978c7631d6335955594c4af20c662d1884551cff39773eb59b25e",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/low_pressure_spectrum.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/low_pressure_spectrum.csv",
+      "bytes": 304611,
+      "original_sha256": "f25097c2e84a3d28e7db7d39573da2b65a47d0f96c80419c1904b28c66eb7d99",
+      "repository_sha256": "f25097c2e84a3d28e7db7d39573da2b65a47d0f96c80419c1904b28c66eb7d99",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/low_pressure_wiener_control.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/low_pressure_wiener_control.csv",
+      "bytes": 305712,
+      "original_sha256": "945d388226b4c8f46cbb93863a61180157c74984d70cc99c8f257177c6add2e9",
+      "repository_sha256": "945d388226b4c8f46cbb93863a61180157c74984d70cc99c8f257177c6add2e9",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/metrics.json",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/metrics.json",
+      "bytes": 34951,
+      "original_sha256": "af2044d07dbfe328661a68896109a5404b3849556196aaa7e9d014152e781950",
+      "repository_sha256": "af2044d07dbfe328661a68896109a5404b3849556196aaa7e9d014152e781950",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/monte_carlo_high_pressure.json",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/monte_carlo_high_pressure.json",
+      "bytes": 2709,
+      "original_sha256": "05cb89ec406aa682cd99daabcd39f9a2ee892cf9bd2ef43dbb948eca9d43dda9",
+      "repository_sha256": "05cb89ec406aa682cd99daabcd39f9a2ee892cf9bd2ef43dbb948eca9d43dda9",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/monte_carlo_low_pressure.json",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/monte_carlo_low_pressure.json",
+      "bytes": 1505,
+      "original_sha256": "5f0f1ac899570827e7e7f57e309a1bb1c4bdaf1c6f0b64de5b8e6b2f7df14244",
+      "repository_sha256": "5f0f1ac899570827e7e7f57e309a1bb1c4bdaf1c6f0b64de5b8e6b2f7df14244",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/overview.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/overview.png",
+      "bytes": 920162,
+      "original_sha256": "201bd133aa2b16def4fc20191b8917a6171fe00ec873db2e4ba20069811565b0",
+      "repository_sha256": "201bd133aa2b16def4fc20191b8917a6171fe00ec873db2e4ba20069811565b0",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/parameters.json",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/parameters.json",
+      "bytes": 1031,
+      "original_sha256": "22bb57d40356dd4ec575efc97240053874e6c9f1739e412d0df83397b261ef8a",
+      "repository_sha256": "22bb57d40356dd4ec575efc97240053874e6c9f1739e412d0df83397b261ef8a",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/residuals.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/residuals.png",
+      "bytes": 107490,
+      "original_sha256": "29a3c9b84fb8267ade7483b88fe588e3ae536de6c9cbe2a0a967cca03ccc9c35",
+      "repository_sha256": "29a3c9b84fb8267ade7483b88fe588e3ae536de6c9cbe2a0a967cca03ccc9c35",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/sensitivity.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/sensitivity.png",
+      "bytes": 286016,
+      "original_sha256": "28b249a4a20e72c050bfe69a250a54719782c428a731a51768d75c63723d3516",
+      "repository_sha256": "28b249a4a20e72c050bfe69a250a54719782c428a731a51768d75c63723d3516",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/sensitivity_detuning_plus_0p1GHz.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/sensitivity_detuning_plus_0p1GHz.csv",
+      "bytes": 30957,
+      "original_sha256": "2d7564d1645c29503fb545d195843560cfe998126effe1c7a572391e4a27e220",
+      "repository_sha256": "2d7564d1645c29503fb545d195843560cfe998126effe1c7a572391e4a27e220",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/sensitivity_finesse_assumed_25.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/sensitivity_finesse_assumed_25.csv",
+      "bytes": 30957,
+      "original_sha256": "11317a39c11f4fa52f96d568987bec1f5f29c48d7c51d2ca0f5fa83a3205039f",
+      "repository_sha256": "11317a39c11f4fa52f96d568987bec1f5f29c48d7c51d2ca0f5fa83a3205039f",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/sensitivity_focal_length_plus_1pct.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/sensitivity_focal_length_plus_1pct.csv",
+      "bytes": 30957,
+      "original_sha256": "f37892f79402127ec8ccccb2e20484d95337c76cf722f32447d9634bc09d7939",
+      "repository_sha256": "f37892f79402127ec8ccccb2e20484d95337c76cf722f32447d9634bc09d7939",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/sensitivity_low_counts_25.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/sensitivity_low_counts_25.csv",
+      "bytes": 30957,
+      "original_sha256": "39ac29da6405d1476e4e0804c3b9a2cb2f92f5b8c93578da4fca46d63e818fa3",
+      "repository_sha256": "39ac29da6405d1476e4e0804c3b9a2cb2f92f5b8c93578da4fca46d63e818fa3",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/sensitivity_nominal.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/sensitivity_nominal.csv",
+      "bytes": 30957,
+      "original_sha256": "e54c5eb916eb057852e8517e850b16c8891beaf7acfcee52ba9ec512f1af242c",
+      "repository_sha256": "e54c5eb916eb057852e8517e850b16c8891beaf7acfcee52ba9ec512f1af242c",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/sensitivity_psf_ignored.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/sensitivity_psf_ignored.csv",
+      "bytes": 30957,
+      "original_sha256": "460d81980a983e207874641ba4c4e2576b507351a4df9077eff8358965dec791",
+      "repository_sha256": "460d81980a983e207874641ba4c4e2576b507351a4df9077eff8358965dec791",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/three_peak_benchmark_expected_image.npy",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/three_peak_benchmark_expected_image.npy",
+      "bytes": 4718720,
+      "original_sha256": "268cf714916b26e201674db8704d3068f5f98bceadb43c8df270047a7d80e5eb",
+      "repository_sha256": "268cf714916b26e201674db8704d3068f5f98bceadb43c8df270047a7d80e5eb",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/three_peak_benchmark_observed_image_electrons.npy",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/three_peak_benchmark_observed_image_electrons.npy",
+      "bytes": 4718720,
+      "original_sha256": "a4e7eba4a15d2a86221879c5f5132c4f60823e5453a9b6891b8cda1a842340fe",
+      "repository_sha256": "a4e7eba4a15d2a86221879c5f5132c4f60823e5453a9b6891b8cda1a842340fe",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/three_peak_benchmark_profile.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/three_peak_benchmark_profile.csv",
+      "bytes": 44068,
+      "original_sha256": "21aa1b6c8d5437ebedb55bde5d6a8c640ca6dc7837deffb45c3f9030401d16f9",
+      "repository_sha256": "21aa1b6c8d5437ebedb55bde5d6a8c640ca6dc7837deffb45c3f9030401d16f9",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/three_peak_benchmark_spectrum.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/three_peak_benchmark_spectrum.csv",
+      "bytes": 305715,
+      "original_sha256": "462d89370334dd3f4bbe2340b149a092f302e6c5edd76829fbd002006605f479",
+      "repository_sha256": "462d89370334dd3f4bbe2340b149a092f302e6c5edd76829fbd002006605f479",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/three_peak_benchmark_wiener_control.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/three_peak_benchmark_wiener_control.csv",
+      "bytes": 305829,
+      "original_sha256": "e3eed5859ced2ae9f1b938ae680f60df9583e32eb8f84468e9106a8cf071000b",
+      "repository_sha256": "e3eed5859ced2ae9f1b938ae680f60df9583e32eb8f84468e9106a8cf071000b",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/wiener_control.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/wiener_control.png",
+      "bytes": 187379,
+      "original_sha256": "7bcf5a717a0097d652122ca767f140715ac366b3325380f2e9a8c654b26349af",
+      "repository_sha256": "7bcf5a717a0097d652122ca767f140715ac366b3325380f2e9a8c654b26349af",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/验证报告.md",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp/验证报告.md",
+      "bytes": 6102,
+      "original_sha256": "f171a4c461b72765d3043d82f01ec82e5363222ae4b439c70b0aa9e640c2e0d9",
+      "repository_sha256": "f171a4c461b72765d3043d82f01ec82e5363222ae4b439c70b0aa9e640c2e0d9",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp_simulation.zip",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/output/rb_fp_simulation.zip",
+      "bytes": 25107453,
+      "original_sha256": "ce36464593ba837b1f087c6047b72db11e32e31b7bae76ac6ab4a547cff0da4b",
+      "repository_sha256": "ce36464593ba837b1f087c6047b72db11e32e31b7bae76ac6ab4a547cff0da4b",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/reference/89101E.pdf",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/reference/89101E.pdf",
+      "bytes": 306926,
+      "original_sha256": "b6d44a053fd86c6cd8c6847525eea53e15cecca49b348b09bbdff3cfe2163886",
+      "repository_sha256": "b6d44a053fd86c6cd8c6847525eea53e15cecca49b348b09bbdff3cfe2163886",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/requirements.txt",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/requirements.txt",
+      "bytes": 39,
+      "original_sha256": "7cc847f469abd8e2960e6df3adb43d1912e58be89bded9007d9c3e1d363fd459",
+      "repository_sha256": "7cc847f469abd8e2960e6df3adb43d1912e58be89bded9007d9c3e1d363fd459",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/run_simulation.py",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/run_simulation.py",
+      "bytes": 28119,
+      "original_sha256": "f073755e8fd9d4d38efe1107de14c19e731a2bfd988e19b5050bd7a445106867",
+      "repository_sha256": "f073755e8fd9d4d38efe1107de14c19e731a2bfd988e19b5050bd7a445106867",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/simulation/__init__.py",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/simulation/__init__.py",
+      "bytes": 82,
+      "original_sha256": "0db7520bb136c25bfb384f72622c1ad0932955a1fd50d9dabbae060b2e56511f",
+      "repository_sha256": "0db7520bb136c25bfb384f72622c1ad0932955a1fd50d9dabbae060b2e56511f",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/simulation/imaging.py",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/simulation/imaging.py",
+      "bytes": 4776,
+      "original_sha256": "d0d2c077256a4a48450d6e6f500ad95275626275d69a82237838c841b3c2dd4c",
+      "repository_sha256": "d0d2c077256a4a48450d6e6f500ad95275626275d69a82237838c841b3c2dd4c",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/simulation/inverse.py",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/simulation/inverse.py",
+      "bytes": 5466,
+      "original_sha256": "93d64c6c18d631d048e3ce851557bbec1972a82c98d1d7e7afbcf679d6cdba96",
+      "repository_sha256": "93d64c6c18d631d048e3ce851557bbec1972a82c98d1d7e7afbcf679d6cdba96",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/simulation/physics.py",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/simulation/physics.py",
+      "bytes": 6819,
+      "original_sha256": "a9ab16a73ee6388953a951a9ec830206d298248a8266e46bf811b1b4cd776ede",
+      "repository_sha256": "a9ab16a73ee6388953a951a9ec830206d298248a8266e46bf811b1b4cd776ede",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/tests/test_simulation.py",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/tests/test_simulation.py",
+      "bytes": 8259,
+      "original_sha256": "e2a11ce47ff29282d4421c426632870c885082ce3912fa2fe00e13485dff01be",
+      "repository_sha256": "e2a11ce47ff29282d4421c426632870c885082ce3912fa2fe00e13485dff01be",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/tmp/pdfs/paper-contact.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/tmp/pdfs/paper-contact.png",
+      "bytes": 1206129,
+      "original_sha256": "7b31c67454bf168ba1f4f043f43ca9be7ab93574c7de5518c8a8e1911921fff7",
+      "repository_sha256": "7b31c67454bf168ba1f4f043f43ca9be7ab93574c7de5518c8a8e1911921fff7",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/tmp/pdfs/paper-page-1.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/tmp/pdfs/paper-page-1.png",
+      "bytes": 391808,
+      "original_sha256": "c6b8023000e8e9f96f9d7048dda8c6d671599525ddd73483f2a8c750b19f230a",
+      "repository_sha256": "c6b8023000e8e9f96f9d7048dda8c6d671599525ddd73483f2a8c750b19f230a",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/tmp/pdfs/paper-page-2.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/tmp/pdfs/paper-page-2.png",
+      "bytes": 296425,
+      "original_sha256": "158ef0d65cda8bf8951c56dd0ae92250bbcfdf96804cbbf41ff42e799a1f0aaf",
+      "repository_sha256": "158ef0d65cda8bf8951c56dd0ae92250bbcfdf96804cbbf41ff42e799a1f0aaf",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/tmp/pdfs/paper-page-3.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/tmp/pdfs/paper-page-3.png",
+      "bytes": 224355,
+      "original_sha256": "58566df1e399a008a7d1f0a9bf9a257d91a057193844bd60f54a3e3515a75175",
+      "repository_sha256": "58566df1e399a008a7d1f0a9bf9a257d91a057193844bd60f54a3e3515a75175",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/tmp/pdfs/paper-page-4.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/tmp/pdfs/paper-page-4.png",
+      "bytes": 326703,
+      "original_sha256": "8a806df2decdd9562e78a9fb44790e0eb2ec73ec54b4a16427b88dc66426ff15",
+      "repository_sha256": "8a806df2decdd9562e78a9fb44790e0eb2ec73ec54b4a16427b88dc66426ff15",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/tmp/pdfs/paper-page-5.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/tmp/pdfs/paper-page-5.png",
+      "bytes": 240694,
+      "original_sha256": "c94ea7b8cb947cc43e2292d708e4c6a2177a9b5cd556628e312d1b0e147df384",
+      "repository_sha256": "c94ea7b8cb947cc43e2292d708e4c6a2177a9b5cd556628e312d1b0e147df384",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/tmp/pdfs/paper-page-6.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/tmp/pdfs/paper-page-6.png",
+      "bytes": 267714,
+      "original_sha256": "72a37ab3f0bd2e39d552af2a2064d67a3d78bf9f4dfb9aac1e030d1fb107caaf",
+      "repository_sha256": "72a37ab3f0bd2e39d552af2a2064d67a3d78bf9f4dfb9aac1e030d1fb107caaf",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/tmp/pdfs/paper-page-7.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/tmp/pdfs/paper-page-7.png",
+      "bytes": 323021,
+      "original_sha256": "054b834c4f7dd11f819a02a44b9cf8b7e51557f3c8885d327852969efb5e9f88",
+      "repository_sha256": "054b834c4f7dd11f819a02a44b9cf8b7e51557f3c8885d327852969efb5e9f88",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/tmp/pdfs/paper-page-8.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/tmp/pdfs/paper-page-8.png",
+      "bytes": 166495,
+      "original_sha256": "781ee6a29c6c366ca08e6e4067ba1eb6a2b5372b84e47d0af2d6a4a7b3212d71",
+      "repository_sha256": "781ee6a29c6c366ca08e6e4067ba1eb6a2b5372b84e47d0af2d6a4a7b3212d71",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/交接_常压水中瑞利布里渊散射与空气中FP模拟修正_2026-10-01.md",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/交接_常压水中瑞利布里渊散射与空气中FP模拟修正_2026-10-01.md",
+      "bytes": 11451,
+      "original_sha256": "e74646813a77436c25ed34fd8cb1c0ba287adf38d57af6964a0e74b0098ca276",
+      "repository_sha256": "e74646813a77436c25ed34fd8cb1c0ba287adf38d57af6964a0e74b0098ca276",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/文件清单.json",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/文件清单.json",
+      "bytes": 9906,
+      "original_sha256": "57dfaad136d22c63125dc96d7eaa681a9de9e106fc0a3b0ee22a934c89f21095",
+      "repository_sha256": "57dfaad136d22c63125dc96d7eaa681a9de9e106fc0a3b0ee22a934c89f21095",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/说明_模型方法与结果.md",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/history/旧气体版完整交付/说明_模型方法与结果.md",
+      "bytes": 20637,
+      "original_sha256": "6b3ae7a9403d7f7f5312cb7079e87d0bf3928bb943d9469e4a014fd90cff6c42",
+      "repository_sha256": "6b3ae7a9403d7f7f5312cb7079e87d0bf3928bb943d9469e4a014fd90cff6c42",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/coverage_scans.json",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/coverage_scans.json",
+      "bytes": 81382,
+      "original_sha256": "d61690ad7ef04aa59498a6d79a098cbbaa116b084628794fcde5b336f70585f3",
+      "repository_sha256": "d61690ad7ef04aa59498a6d79a098cbbaa116b084628794fcde5b336f70585f3",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/metrics.json",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/metrics.json",
+      "bytes": 171114,
+      "original_sha256": "0077266ab07f038e324f3a06834d78c946a1f364a6e388f89bc3faa937308c59",
+      "repository_sha256": "0077266ab07f038e324f3a06834d78c946a1f364a6e388f89bc3faa937308c59",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/parameters.json",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/parameters.json",
+      "bytes": 1216,
+      "original_sha256": "b582c8d56e0aebd5aad4b537cc4e556be7c045f711c05b7fc4f686bce3c6cc30",
+      "repository_sha256": "b582c8d56e0aebd5aad4b537cc4e556be7c045f711c05b7fc4f686bce3c6cc30",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_180deg_expected_image.npy",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_180deg_expected_image.npy",
+      "bytes": 4718720,
+      "original_sha256": "8318333a0ac507787d21749d0f4965e49f24670c2c513a638f4a35cee9780061",
+      "repository_sha256": "8318333a0ac507787d21749d0f4965e49f24670c2c513a638f4a35cee9780061",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_180deg_folded_spectrum.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_180deg_folded_spectrum.csv",
+      "bytes": 459075,
+      "original_sha256": "4ba1a95bc4a123cdfd91172f76f004d58cffcf25532f83846623664b48f6654c",
+      "repository_sha256": "4ba1a95bc4a123cdfd91172f76f004d58cffcf25532f83846623664b48f6654c",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_180deg_observed_image_electrons.npy",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_180deg_observed_image_electrons.npy",
+      "bytes": 4718720,
+      "original_sha256": "6909fafe2df282be8a763b4f9f6cdb370151545dcad6fe0bcef342325f18726f",
+      "repository_sha256": "6909fafe2df282be8a763b4f9f6cdb370151545dcad6fe0bcef342325f18726f",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_180deg_radial_profile.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_180deg_radial_profile.csv",
+      "bytes": 52932,
+      "original_sha256": "3ecb182ea6b40840f954fd563584f9ea7ffbc6ed1c78694c6cef0f636a65b452",
+      "repository_sha256": "3ecb182ea6b40840f954fd563584f9ea7ffbc6ed1c78694c6cef0f636a65b452",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_180deg_unfolded_spectrum.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_180deg_unfolded_spectrum.csv",
+      "bytes": 1563656,
+      "original_sha256": "f9e448f48b4a01bab6fa8714b6775e4a486fe3d4c4801e382f451c0b71b83706",
+      "repository_sha256": "f9e448f48b4a01bab6fa8714b6775e4a486fe3d4c4801e382f451c0b71b83706",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_90deg_expected_image.npy",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_90deg_expected_image.npy",
+      "bytes": 4718720,
+      "original_sha256": "8fdd3eb39604d58590bc14353e333c223e2283d3d7e453790b5552b2ad19e10a",
+      "repository_sha256": "8fdd3eb39604d58590bc14353e333c223e2283d3d7e453790b5552b2ad19e10a",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_90deg_folded_spectrum.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_90deg_folded_spectrum.csv",
+      "bytes": 459075,
+      "original_sha256": "b0a40f5953c00029dc4a33f9ed3b1a7a0f5600316ee8ca754ac46e3a38b6ecf6",
+      "repository_sha256": "b0a40f5953c00029dc4a33f9ed3b1a7a0f5600316ee8ca754ac46e3a38b6ecf6",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_90deg_observed_image_electrons.npy",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_90deg_observed_image_electrons.npy",
+      "bytes": 4718720,
+      "original_sha256": "5ef114dfff2fb259107d62a207d7d5b50da8efad9d2027e54e8c0f6318580f94",
+      "repository_sha256": "5ef114dfff2fb259107d62a207d7d5b50da8efad9d2027e54e8c0f6318580f94",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_90deg_radial_profile.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_90deg_radial_profile.csv",
+      "bytes": 52932,
+      "original_sha256": "d4221dccd872899f43c1a92e16a07f9b04652a73d5e694b3d177f92f10efa31c",
+      "repository_sha256": "d4221dccd872899f43c1a92e16a07f9b04652a73d5e694b3d177f92f10efa31c",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_90deg_unfolded_spectrum.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_90deg_unfolded_spectrum.csv",
+      "bytes": 1563656,
+      "original_sha256": "38e81b5fdc08c2b94a174d2a0749f74a989d5367f462a1bed3c05ced8ae6d7d7",
+      "repository_sha256": "38e81b5fdc08c2b94a174d2a0749f74a989d5367f462a1bed3c05ced8ae6d7d7",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_angular_2deg_expected_image.npy",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_angular_2deg_expected_image.npy",
+      "bytes": 4718720,
+      "original_sha256": "49789a2ad9c5fd58332f3df55fbe5ef59762b4ff220af3e74f613490f4eca2c2",
+      "repository_sha256": "49789a2ad9c5fd58332f3df55fbe5ef59762b4ff220af3e74f613490f4eca2c2",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_angular_2deg_folded_spectrum.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_angular_2deg_folded_spectrum.csv",
+      "bytes": 459075,
+      "original_sha256": "a3a8865b0c45e6f33d9b9cc2b3e9f4068565aeb83def4cb471027d865501ee93",
+      "repository_sha256": "a3a8865b0c45e6f33d9b9cc2b3e9f4068565aeb83def4cb471027d865501ee93",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_angular_2deg_observed_image_electrons.npy",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_angular_2deg_observed_image_electrons.npy",
+      "bytes": 4718720,
+      "original_sha256": "8668bc16fb7a205d3bde81ec608334059be3300ec895a1e5f28a4c03cdfb6406",
+      "repository_sha256": "8668bc16fb7a205d3bde81ec608334059be3300ec895a1e5f28a4c03cdfb6406",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_angular_2deg_radial_profile.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_angular_2deg_radial_profile.csv",
+      "bytes": 52932,
+      "original_sha256": "b7d24edb974ae6123374c4a2bdac22f34e755af1cd5d6c3f6f049b38f5ae1573",
+      "repository_sha256": "b7d24edb974ae6123374c4a2bdac22f34e755af1cd5d6c3f6f049b38f5ae1573",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_angular_2deg_unfolded_spectrum.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_angular_2deg_unfolded_spectrum.csv",
+      "bytes": 1563656,
+      "original_sha256": "8c7d972d9a72a735a82b37bc6a983dd161557c2020fdc1ba4a1e084b81efd1e7",
+      "repository_sha256": "8c7d972d9a72a735a82b37bc6a983dd161557c2020fdc1ba4a1e084b81efd1e7",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_elastic_10percent_expected_image.npy",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_elastic_10percent_expected_image.npy",
+      "bytes": 4718720,
+      "original_sha256": "515a004874938257a36e385755641cb76065e7ab424673ac8ea721a0e224ddec",
+      "repository_sha256": "515a004874938257a36e385755641cb76065e7ab424673ac8ea721a0e224ddec",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_elastic_10percent_folded_spectrum.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_elastic_10percent_folded_spectrum.csv",
+      "bytes": 459075,
+      "original_sha256": "1d80ad57266b96e3130c0b677ebd53929a3b56e410c7be349ee2e2e9d0515735",
+      "repository_sha256": "1d80ad57266b96e3130c0b677ebd53929a3b56e410c7be349ee2e2e9d0515735",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_elastic_10percent_observed_image_electrons.npy",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_elastic_10percent_observed_image_electrons.npy",
+      "bytes": 4718720,
+      "original_sha256": "38609beee4120cc481605e4284a3f3de00978b11fefa11b628fb7ec5475aa2b6",
+      "repository_sha256": "38609beee4120cc481605e4284a3f3de00978b11fefa11b628fb7ec5475aa2b6",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_elastic_10percent_radial_profile.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_elastic_10percent_radial_profile.csv",
+      "bytes": 52932,
+      "original_sha256": "6e504b86d37438ebc50a3e2bddbd7f560db2f05fc8a53ceaae986cd2f05d5c2e",
+      "repository_sha256": "6e504b86d37438ebc50a3e2bddbd7f560db2f05fc8a53ceaae986cd2f05d5c2e",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_elastic_10percent_unfolded_spectrum.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_elastic_10percent_unfolded_spectrum.csv",
+      "bytes": 1563656,
+      "original_sha256": "1913d1eabadf7d83f99d2d1afb2c290c356a0d9800c3996560f512f8e09a4e3b",
+      "repository_sha256": "1913d1eabadf7d83f99d2d1afb2c290c356a0d9800c3996560f512f8e09a4e3b",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_fov_and_fsr.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_fov_and_fsr.png",
+      "bytes": 106062,
+      "original_sha256": "1eae0461283db47af23eff6976408fc30f894cc379d42f248c654bca4c2f6571",
+      "repository_sha256": "1eae0461283db47af23eff6976408fc30f894cc379d42f248c654bca4c2f6571",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_interference_images.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_interference_images.png",
+      "bytes": 1197627,
+      "original_sha256": "4676dfd37ed4809a52336b6e48576133aecc1789b23999ad053770be7c0dacf3",
+      "repository_sha256": "4676dfd37ed4809a52336b6e48576133aecc1789b23999ad053770be7c0dacf3",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_mismatch_sensitivity.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_mismatch_sensitivity.png",
+      "bytes": 70954,
+      "original_sha256": "113f99c8158683be8055bd1f44eefa26817eabe428fd14954bb8f1b64601243d",
+      "repository_sha256": "113f99c8158683be8055bd1f44eefa26817eabe428fd14954bb8f1b64601243d",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_spectra_and_recovery.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/water_spectra_and_recovery.png",
+      "bytes": 538947,
+      "original_sha256": "683fea0fe4326d88093b8b69a5778177f1487cc26cb1e7fc7c73abd707d969f3",
+      "repository_sha256": "683fea0fe4326d88093b8b69a5778177f1487cc26cb1e7fc7c73abd707d969f3",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/验证结果.md",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/output/water_rb_fp/验证结果.md",
+      "bytes": 3239,
+      "original_sha256": "094f415a348fffe2faee8d637affa5857da7238384358463ccfc0bb1c0527b89",
+      "repository_sha256": "094f415a348fffe2faee8d637affa5857da7238384358463ccfc0bb1c0527b89",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/reference/89101E.pdf",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/reference/89101E.pdf",
+      "bytes": 306926,
+      "original_sha256": "b6d44a053fd86c6cd8c6847525eea53e15cecca49b348b09bbdff3cfe2163886",
+      "repository_sha256": "b6d44a053fd86c6cd8c6847525eea53e15cecca49b348b09bbdff3cfe2163886",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/reference/paper_pages/paper-contact.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/reference/paper_pages/paper-contact.png",
+      "bytes": 1206129,
+      "original_sha256": "7b31c67454bf168ba1f4f043f43ca9be7ab93574c7de5518c8a8e1911921fff7",
+      "repository_sha256": "7b31c67454bf168ba1f4f043f43ca9be7ab93574c7de5518c8a8e1911921fff7",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/reference/paper_pages/paper-page-1.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/reference/paper_pages/paper-page-1.png",
+      "bytes": 391808,
+      "original_sha256": "c6b8023000e8e9f96f9d7048dda8c6d671599525ddd73483f2a8c750b19f230a",
+      "repository_sha256": "c6b8023000e8e9f96f9d7048dda8c6d671599525ddd73483f2a8c750b19f230a",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/reference/paper_pages/paper-page-2.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/reference/paper_pages/paper-page-2.png",
+      "bytes": 296425,
+      "original_sha256": "158ef0d65cda8bf8951c56dd0ae92250bbcfdf96804cbbf41ff42e799a1f0aaf",
+      "repository_sha256": "158ef0d65cda8bf8951c56dd0ae92250bbcfdf96804cbbf41ff42e799a1f0aaf",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/reference/paper_pages/paper-page-3.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/reference/paper_pages/paper-page-3.png",
+      "bytes": 224355,
+      "original_sha256": "58566df1e399a008a7d1f0a9bf9a257d91a057193844bd60f54a3e3515a75175",
+      "repository_sha256": "58566df1e399a008a7d1f0a9bf9a257d91a057193844bd60f54a3e3515a75175",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/reference/paper_pages/paper-page-4.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/reference/paper_pages/paper-page-4.png",
+      "bytes": 326703,
+      "original_sha256": "8a806df2decdd9562e78a9fb44790e0eb2ec73ec54b4a16427b88dc66426ff15",
+      "repository_sha256": "8a806df2decdd9562e78a9fb44790e0eb2ec73ec54b4a16427b88dc66426ff15",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/reference/paper_pages/paper-page-5.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/reference/paper_pages/paper-page-5.png",
+      "bytes": 240694,
+      "original_sha256": "c94ea7b8cb947cc43e2292d708e4c6a2177a9b5cd556628e312d1b0e147df384",
+      "repository_sha256": "c94ea7b8cb947cc43e2292d708e4c6a2177a9b5cd556628e312d1b0e147df384",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/reference/paper_pages/paper-page-6.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/reference/paper_pages/paper-page-6.png",
+      "bytes": 267714,
+      "original_sha256": "72a37ab3f0bd2e39d552af2a2064d67a3d78bf9f4dfb9aac1e030d1fb107caaf",
+      "repository_sha256": "72a37ab3f0bd2e39d552af2a2064d67a3d78bf9f4dfb9aac1e030d1fb107caaf",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/reference/paper_pages/paper-page-7.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/reference/paper_pages/paper-page-7.png",
+      "bytes": 323021,
+      "original_sha256": "054b834c4f7dd11f819a02a44b9cf8b7e51557f3c8885d327852969efb5e9f88",
+      "repository_sha256": "054b834c4f7dd11f819a02a44b9cf8b7e51557f3c8885d327852969efb5e9f88",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/reference/paper_pages/paper-page-8.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/reference/paper_pages/paper-page-8.png",
+      "bytes": 166495,
+      "original_sha256": "781ee6a29c6c366ca08e6e4067ba1eb6a2b5372b84e47d0af2d6a4a7b3212d71",
+      "repository_sha256": "781ee6a29c6c366ca08e6e4067ba1eb6a2b5372b84e47d0af2d6a4a7b3212d71",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/requirements_water.txt",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/requirements_water.txt",
+      "bytes": 155,
+      "original_sha256": "7cba433e289745c449f9f9430d5fc7d0b6d5384661785bc68742e428f632e692",
+      "repository_sha256": "7cba433e289745c449f9f9430d5fc7d0b6d5384661785bc68742e428f632e692",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/run_water_simulation.py",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/run_water_simulation.py",
+      "bytes": 29148,
+      "original_sha256": "f282c392b0e947e8713d5a38633f8fbbcd30ccae54270cd558ba60bb3f401794",
+      "repository_sha256": "f282c392b0e947e8713d5a38633f8fbbcd30ccae54270cd558ba60bb3f401794",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/simulation/__init__.py",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/simulation/__init__.py",
+      "bytes": 235,
+      "original_sha256": "3604ba3b2f139c4670c743a0bf2d423ad498adc93dd58cfe1b6d1fe04359b6f8",
+      "repository_sha256": "3604ba3b2f139c4670c743a0bf2d423ad498adc93dd58cfe1b6d1fe04359b6f8",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/simulation/imaging.py",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/simulation/imaging.py",
+      "bytes": 6508,
+      "original_sha256": "9714693eae56e9735f83ff6fd1f9e0095b4eb5c6d59ca79c37efbb3f865b1f00",
+      "repository_sha256": "9714693eae56e9735f83ff6fd1f9e0095b4eb5c6d59ca79c37efbb3f865b1f00",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/simulation/inverse.py",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/simulation/inverse.py",
+      "bytes": 6470,
+      "original_sha256": "f9f8b5c7f182e30820592e0ecca720c0524ca5d62eefe54fcfc24cfbd1614d8d",
+      "repository_sha256": "f9f8b5c7f182e30820592e0ecca720c0524ca5d62eefe54fcfc24cfbd1614d8d",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/simulation/physics.py",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/simulation/physics.py",
+      "bytes": 8985,
+      "original_sha256": "e1d39fd93cf969a1716c7957b7f856633e66d06c682a384233542df63e1cf627",
+      "repository_sha256": "e1d39fd93cf969a1716c7957b7f856633e66d06c682a384233542df63e1cf627",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/tests/test_simulation.py",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/tests/test_simulation.py",
+      "bytes": 9733,
+      "original_sha256": "ebf455dc2ff6e859aee3477760c4128c8187da56d1a7497f1555d3fcdbda0e22",
+      "repository_sha256": "ebf455dc2ff6e859aee3477760c4128c8187da56d1a7497f1555d3fcdbda0e22",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/tests/test_water.py",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/tests/test_water.py",
+      "bytes": 6096,
+      "original_sha256": "9fcb0fc98053ec5462cb75abf71a67b939e7795e7e151231fda5e6fcf981ff9d",
+      "repository_sha256": "9fcb0fc98053ec5462cb75abf71a67b939e7795e7e151231fda5e6fcf981ff9d",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/water_simulation/__init__.py",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/water_simulation/__init__.py",
+      "bytes": 258,
+      "original_sha256": "070766d2afabe0acf6cffc28d5c507c606b15b8da316c8457c82c0abad6f62c0",
+      "repository_sha256": "070766d2afabe0acf6cffc28d5c507c606b15b8da316c8457c82c0abad6f62c0",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/water_simulation/inverse.py",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/water_simulation/inverse.py",
+      "bytes": 3113,
+      "original_sha256": "ae8da81441ec7758d906a70cddeb4fc06b1dd09b86b7a687d6bf61b37cb26997",
+      "repository_sha256": "ae8da81441ec7758d906a70cddeb4fc06b1dd09b86b7a687d6bf61b37cb26997",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/water_simulation/physics.py",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/water_simulation/physics.py",
+      "bytes": 15287,
+      "original_sha256": "2a5dcdd8fc2110382ddc35b7d2235518a038cd9074971838d51059c21a11a0ec",
+      "repository_sha256": "2a5dcdd8fc2110382ddc35b7d2235518a038cd9074971838d51059c21a11a0ec",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/交接_常压水中瑞利布里渊散射与空气中FP模拟修正_2026-10-01.md",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/交接_常压水中瑞利布里渊散射与空气中FP模拟修正_2026-10-01.md",
+      "bytes": 11451,
+      "original_sha256": "e74646813a77436c25ed34fd8cb1c0ba287adf38d57af6964a0e74b0098ca276",
+      "repository_sha256": "e74646813a77436c25ed34fd8cb1c0ba287adf38d57af6964a0e74b0098ca276",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/文件清单.json",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/文件清单.json",
+      "bytes": 24872,
+      "original_sha256": "3c59d2f3ff2d267670adb5c8fa29d5a76fac12213ea16ba59f65a7eb5022cc9e",
+      "repository_sha256": "3c59d2f3ff2d267670adb5c8fa29d5a76fac12213ea16ba59f65a7eb5022cc9e",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/说明_常压水模型方法与结果.md",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/说明_常压水模型方法与结果.md",
+      "bytes": 14936,
+      "original_sha256": "67220b3558b66b1b16ee1db678eccd265ce1eded5205f6d809ce7b13621eb1c2",
+      "repository_sha256": "67220b3558b66b1b16ee1db678eccd265ce1eded5205f6d809ce7b13621eb1c2",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/运行水模拟.cmd",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/原包解压/常压水_瑞利布里渊_FP模拟_2026-10-01/运行水模拟.cmd",
+      "bytes": 384,
+      "original_sha256": "2cdff9372ceaa6b9e3e6f9792dd665ac14c75edaf0ac484344bc72a20c599cdc",
+      "repository_sha256": "2cdff9372ceaa6b9e3e6f9792dd665ac14c75edaf0ac484344bc72a20c599cdc",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/新旧结果对照.json",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/新旧结果对照.json",
+      "bytes": 4528,
+      "original_sha256": "610bc97061fcd01d5091c36f4a73a5389f49ecf97a7438666a8e01f165fe2711",
+      "repository_sha256": "610bc97061fcd01d5091c36f4a73a5389f49ecf97a7438666a8e01f165fe2711",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/本轮默认重跑/coverage_scans.json",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/本轮默认重跑/coverage_scans.json",
+      "bytes": 81382,
+      "original_sha256": "d61690ad7ef04aa59498a6d79a098cbbaa116b084628794fcde5b336f70585f3",
+      "repository_sha256": "d61690ad7ef04aa59498a6d79a098cbbaa116b084628794fcde5b336f70585f3",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/本轮默认重跑/metrics.json",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/本轮默认重跑/metrics.json",
+      "bytes": 171115,
+      "original_sha256": "cab0bf70d97babe8c50fb1463a346a808bfc54333764a3bad27bce6c15e537ce",
+      "repository_sha256": "cab0bf70d97babe8c50fb1463a346a808bfc54333764a3bad27bce6c15e537ce",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/本轮默认重跑/parameters.json",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/本轮默认重跑/parameters.json",
+      "bytes": 1216,
+      "original_sha256": "b582c8d56e0aebd5aad4b537cc4e556be7c045f711c05b7fc4f686bce3c6cc30",
+      "repository_sha256": "b582c8d56e0aebd5aad4b537cc4e556be7c045f711c05b7fc4f686bce3c6cc30",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/本轮默认重跑/water_180deg_expected_image.npy",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/本轮默认重跑/water_180deg_expected_image.npy",
+      "bytes": 4718720,
+      "original_sha256": "8318333a0ac507787d21749d0f4965e49f24670c2c513a638f4a35cee9780061",
+      "repository_sha256": "8318333a0ac507787d21749d0f4965e49f24670c2c513a638f4a35cee9780061",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/本轮默认重跑/water_180deg_folded_spectrum.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/本轮默认重跑/water_180deg_folded_spectrum.csv",
+      "bytes": 459075,
+      "original_sha256": "4ba1a95bc4a123cdfd91172f76f004d58cffcf25532f83846623664b48f6654c",
+      "repository_sha256": "4ba1a95bc4a123cdfd91172f76f004d58cffcf25532f83846623664b48f6654c",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/本轮默认重跑/water_180deg_observed_image_electrons.npy",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/本轮默认重跑/water_180deg_observed_image_electrons.npy",
+      "bytes": 4718720,
+      "original_sha256": "6909fafe2df282be8a763b4f9f6cdb370151545dcad6fe0bcef342325f18726f",
+      "repository_sha256": "6909fafe2df282be8a763b4f9f6cdb370151545dcad6fe0bcef342325f18726f",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/本轮默认重跑/water_180deg_radial_profile.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/本轮默认重跑/water_180deg_radial_profile.csv",
+      "bytes": 52932,
+      "original_sha256": "3ecb182ea6b40840f954fd563584f9ea7ffbc6ed1c78694c6cef0f636a65b452",
+      "repository_sha256": "3ecb182ea6b40840f954fd563584f9ea7ffbc6ed1c78694c6cef0f636a65b452",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/本轮默认重跑/water_180deg_unfolded_spectrum.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/本轮默认重跑/water_180deg_unfolded_spectrum.csv",
+      "bytes": 1563656,
+      "original_sha256": "f9e448f48b4a01bab6fa8714b6775e4a486fe3d4c4801e382f451c0b71b83706",
+      "repository_sha256": "f9e448f48b4a01bab6fa8714b6775e4a486fe3d4c4801e382f451c0b71b83706",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/本轮默认重跑/water_90deg_expected_image.npy",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/本轮默认重跑/water_90deg_expected_image.npy",
+      "bytes": 4718720,
+      "original_sha256": "8fdd3eb39604d58590bc14353e333c223e2283d3d7e453790b5552b2ad19e10a",
+      "repository_sha256": "8fdd3eb39604d58590bc14353e333c223e2283d3d7e453790b5552b2ad19e10a",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/本轮默认重跑/water_90deg_folded_spectrum.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/本轮默认重跑/water_90deg_folded_spectrum.csv",
+      "bytes": 459075,
+      "original_sha256": "b0a40f5953c00029dc4a33f9ed3b1a7a0f5600316ee8ca754ac46e3a38b6ecf6",
+      "repository_sha256": "b0a40f5953c00029dc4a33f9ed3b1a7a0f5600316ee8ca754ac46e3a38b6ecf6",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/本轮默认重跑/water_90deg_observed_image_electrons.npy",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/本轮默认重跑/water_90deg_observed_image_electrons.npy",
+      "bytes": 4718720,
+      "original_sha256": "5ef114dfff2fb259107d62a207d7d5b50da8efad9d2027e54e8c0f6318580f94",
+      "repository_sha256": "5ef114dfff2fb259107d62a207d7d5b50da8efad9d2027e54e8c0f6318580f94",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/本轮默认重跑/water_90deg_radial_profile.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/本轮默认重跑/water_90deg_radial_profile.csv",
+      "bytes": 52932,
+      "original_sha256": "d4221dccd872899f43c1a92e16a07f9b04652a73d5e694b3d177f92f10efa31c",
+      "repository_sha256": "d4221dccd872899f43c1a92e16a07f9b04652a73d5e694b3d177f92f10efa31c",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/本轮默认重跑/water_90deg_unfolded_spectrum.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/本轮默认重跑/water_90deg_unfolded_spectrum.csv",
+      "bytes": 1563656,
+      "original_sha256": "38e81b5fdc08c2b94a174d2a0749f74a989d5367f462a1bed3c05ced8ae6d7d7",
+      "repository_sha256": "38e81b5fdc08c2b94a174d2a0749f74a989d5367f462a1bed3c05ced8ae6d7d7",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/本轮默认重跑/water_angular_2deg_expected_image.npy",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/本轮默认重跑/water_angular_2deg_expected_image.npy",
+      "bytes": 4718720,
+      "original_sha256": "49789a2ad9c5fd58332f3df55fbe5ef59762b4ff220af3e74f613490f4eca2c2",
+      "repository_sha256": "49789a2ad9c5fd58332f3df55fbe5ef59762b4ff220af3e74f613490f4eca2c2",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/本轮默认重跑/water_angular_2deg_folded_spectrum.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/本轮默认重跑/water_angular_2deg_folded_spectrum.csv",
+      "bytes": 459075,
+      "original_sha256": "a3a8865b0c45e6f33d9b9cc2b3e9f4068565aeb83def4cb471027d865501ee93",
+      "repository_sha256": "a3a8865b0c45e6f33d9b9cc2b3e9f4068565aeb83def4cb471027d865501ee93",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/本轮默认重跑/water_angular_2deg_observed_image_electrons.npy",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/本轮默认重跑/water_angular_2deg_observed_image_electrons.npy",
+      "bytes": 4718720,
+      "original_sha256": "8668bc16fb7a205d3bde81ec608334059be3300ec895a1e5f28a4c03cdfb6406",
+      "repository_sha256": "8668bc16fb7a205d3bde81ec608334059be3300ec895a1e5f28a4c03cdfb6406",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/本轮默认重跑/water_angular_2deg_radial_profile.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/本轮默认重跑/water_angular_2deg_radial_profile.csv",
+      "bytes": 52932,
+      "original_sha256": "b7d24edb974ae6123374c4a2bdac22f34e755af1cd5d6c3f6f049b38f5ae1573",
+      "repository_sha256": "b7d24edb974ae6123374c4a2bdac22f34e755af1cd5d6c3f6f049b38f5ae1573",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/本轮默认重跑/water_angular_2deg_unfolded_spectrum.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/本轮默认重跑/water_angular_2deg_unfolded_spectrum.csv",
+      "bytes": 1563656,
+      "original_sha256": "8c7d972d9a72a735a82b37bc6a983dd161557c2020fdc1ba4a1e084b81efd1e7",
+      "repository_sha256": "8c7d972d9a72a735a82b37bc6a983dd161557c2020fdc1ba4a1e084b81efd1e7",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/本轮默认重跑/water_elastic_10percent_expected_image.npy",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/本轮默认重跑/water_elastic_10percent_expected_image.npy",
+      "bytes": 4718720,
+      "original_sha256": "515a004874938257a36e385755641cb76065e7ab424673ac8ea721a0e224ddec",
+      "repository_sha256": "515a004874938257a36e385755641cb76065e7ab424673ac8ea721a0e224ddec",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/本轮默认重跑/water_elastic_10percent_folded_spectrum.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/本轮默认重跑/water_elastic_10percent_folded_spectrum.csv",
+      "bytes": 459075,
+      "original_sha256": "1d80ad57266b96e3130c0b677ebd53929a3b56e410c7be349ee2e2e9d0515735",
+      "repository_sha256": "1d80ad57266b96e3130c0b677ebd53929a3b56e410c7be349ee2e2e9d0515735",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/本轮默认重跑/water_elastic_10percent_observed_image_electrons.npy",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/本轮默认重跑/water_elastic_10percent_observed_image_electrons.npy",
+      "bytes": 4718720,
+      "original_sha256": "38609beee4120cc481605e4284a3f3de00978b11fefa11b628fb7ec5475aa2b6",
+      "repository_sha256": "38609beee4120cc481605e4284a3f3de00978b11fefa11b628fb7ec5475aa2b6",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/本轮默认重跑/water_elastic_10percent_radial_profile.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/本轮默认重跑/water_elastic_10percent_radial_profile.csv",
+      "bytes": 52932,
+      "original_sha256": "6e504b86d37438ebc50a3e2bddbd7f560db2f05fc8a53ceaae986cd2f05d5c2e",
+      "repository_sha256": "6e504b86d37438ebc50a3e2bddbd7f560db2f05fc8a53ceaae986cd2f05d5c2e",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/本轮默认重跑/water_elastic_10percent_unfolded_spectrum.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/本轮默认重跑/water_elastic_10percent_unfolded_spectrum.csv",
+      "bytes": 1563656,
+      "original_sha256": "1913d1eabadf7d83f99d2d1afb2c290c356a0d9800c3996560f512f8e09a4e3b",
+      "repository_sha256": "1913d1eabadf7d83f99d2d1afb2c290c356a0d9800c3996560f512f8e09a4e3b",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/本轮默认重跑/water_fov_and_fsr.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/本轮默认重跑/water_fov_and_fsr.png",
+      "bytes": 106062,
+      "original_sha256": "1eae0461283db47af23eff6976408fc30f894cc379d42f248c654bca4c2f6571",
+      "repository_sha256": "1eae0461283db47af23eff6976408fc30f894cc379d42f248c654bca4c2f6571",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/本轮默认重跑/water_interference_images.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/本轮默认重跑/water_interference_images.png",
+      "bytes": 1197627,
+      "original_sha256": "4676dfd37ed4809a52336b6e48576133aecc1789b23999ad053770be7c0dacf3",
+      "repository_sha256": "4676dfd37ed4809a52336b6e48576133aecc1789b23999ad053770be7c0dacf3",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/本轮默认重跑/water_mismatch_sensitivity.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/本轮默认重跑/water_mismatch_sensitivity.png",
+      "bytes": 70954,
+      "original_sha256": "113f99c8158683be8055bd1f44eefa26817eabe428fd14954bb8f1b64601243d",
+      "repository_sha256": "113f99c8158683be8055bd1f44eefa26817eabe428fd14954bb8f1b64601243d",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/本轮默认重跑/water_spectra_and_recovery.png",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/本轮默认重跑/water_spectra_and_recovery.png",
+      "bytes": 538947,
+      "original_sha256": "683fea0fe4326d88093b8b69a5778177f1487cc26cb1e7fc7c73abd707d969f3",
+      "repository_sha256": "683fea0fe4326d88093b8b69a5778177f1487cc26cb1e7fc7c73abd707d969f3",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/本轮默认重跑/验证结果.md",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/本轮默认重跑/验证结果.md",
+      "bytes": 3239,
+      "original_sha256": "6fa59856a031c1041a8ae45245827e77396d00f563e1edaedd324233708bdea2",
+      "repository_sha256": "6fa59856a031c1041a8ae45245827e77396d00f563e1edaedd324233708bdea2",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/补充诊断日志.txt",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/补充诊断日志.txt",
+      "bytes": 202,
+      "original_sha256": "6891e29d4c6d925ec8edd23cf94bff4ad1c2420e75d60fc46429dce5b5de2b9a",
+      "repository_sha256": "6891e29d4c6d925ec8edd23cf94bff4ad1c2420e75d60fc46429dce5b5de2b9a",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/补充诊断结果.json",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/补充诊断结果.json",
+      "bytes": 17079,
+      "original_sha256": "9976d61ef6dd29707be2f70797c66f59fd06a34ec7a20140717c09aa7575d2e5",
+      "repository_sha256": "9976d61ef6dd29707be2f70797c66f59fd06a34ec7a20140717c09aa7575d2e5",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/规划逐项验收.csv",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/规划逐项验收.csv",
+      "bytes": 2226,
+      "original_sha256": "3fe047b544c9f3cb4d1048509876fe4effa9b94040a35e6e73c688686d9965e4",
+      "repository_sha256": "3fe047b544c9f3cb4d1048509876fe4effa9b94040a35e6e73c688686d9965e4",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/验收补充检查.py",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/验收补充检查.py",
+      "bytes": 6245,
+      "original_sha256": "9f1c8ddb058f02607abd262ecf2a4179189a323f9e85c06fffc8c47bab4c6f90",
+      "repository_sha256": "34acb63fad0133d8241c17b8ced676714e9e58a17245a8020f12c0c354a688f3",
+      "change_note": "仅调整原始ZIP位置以适配分类目录；计算逻辑不变。"
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/验收证据清单.json",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/验收证据清单.json",
+      "bytes": 52555,
+      "original_sha256": "741d7b1567bccc50228b2de7b3011ab4f0d1c7602962c4278509b1de59c778f6",
+      "repository_sha256": "741d7b1567bccc50228b2de7b3011ab4f0d1c7602962c4278509b1de59c778f6",
+      "change_note": ""
+    },
+    {
+      "original_path": "代码包验收_2026-10-07/默认重跑日志.txt",
+      "repository_path": "03_模拟与验收/代码包验收_2026-10-07/默认重跑日志.txt",
+      "bytes": 724,
+      "original_sha256": "7888fb8e7560c81a2026ee6a1a6e06e47eae7139ddf227e5fbb888c2dc135210",
+      "repository_sha256": "7888fb8e7560c81a2026ee6a1a6e06e47eae7139ddf227e5fbb888c2dc135210",
+      "change_note": ""
+    },
+    {
+      "original_path": "仪器选型准备_2026-10-07/仪器组合与选型建议.md",
+      "repository_path": "04_仪器选型/仪器选型准备_2026-10-07/仪器组合与选型建议.md",
+      "bytes": 19934,
+      "original_sha256": "8ac09d966c4d44092131c4194e05fd9565c5390b6a4807f9752d2230e352b846",
+      "repository_sha256": "8ac09d966c4d44092131c4194e05fd9565c5390b6a4807f9752d2230e352b846",
+      "change_note": ""
+    },
+    {
+      "original_path": "仪器选型准备_2026-10-07/文件核查.json",
+      "repository_path": "04_仪器选型/仪器选型准备_2026-10-07/文件核查.json",
+      "bytes": 547,
+      "original_sha256": "768fe02959b666fd23a56b122f2ce8df0f10fff45f27ca18d3d36e7fccf3e3b1",
+      "repository_sha256": "768fe02959b666fd23a56b122f2ce8df0f10fff45f27ca18d3d36e7fccf3e3b1",
+      "change_note": ""
+    },
+    {
+      "original_path": "仪器选型准备_2026-10-07/设备询参与比较模板.md",
+      "repository_path": "04_仪器选型/仪器选型准备_2026-10-07/设备询参与比较模板.md",
+      "bytes": 5025,
+      "original_sha256": "8528023c9900a35a20fd65f9345694a66e36c1e0c761d88b2bc14d149b3117e2",
+      "repository_sha256": "8528023c9900a35a20fd65f9345694a66e36c1e0c761d88b2bc14d149b3117e2",
+      "change_note": ""
+    },
+    {
+      "original_path": "仪器选型准备_2026-10-07/选型量级计算.py",
+      "repository_path": "04_仪器选型/仪器选型准备_2026-10-07/选型量级计算.py",
+      "bytes": 3039,
+      "original_sha256": "9c5072172d9b2571bbe6ae3d84207a87a92b0ee63a2f93d18683d9b73d97a172",
+      "repository_sha256": "68d136054acac72a65bc02d06b5f1a0682d8973cf77f2e6504f112c50c1fca4c",
+      "change_note": "仅调整随包物性依赖位置以适配分类目录；计算逻辑不变。"
+    },
+    {
+      "original_path": "仪器选型准备_2026-10-07/选型量级计算结果.json",
+      "repository_path": "04_仪器选型/仪器选型准备_2026-10-07/选型量级计算结果.json",
+      "bytes": 7119,
+      "original_sha256": "277f9a9714fd77ef8516044a26638281deeab0883e86da286f2a2488184ed256",
+      "repository_sha256": "277f9a9714fd77ef8516044a26638281deeab0883e86da286f2a2488184ed256",
+      "change_note": ""
+    },
+    {
+      "original_path": "常压水_瑞利布里渊_FP模拟_2026-10-01_注释版.zip",
+      "repository_path": "05_原始归档/常压水_瑞利布里渊_FP模拟_2026-10-01_注释版.zip",
+      "bytes": 91966277,
+      "original_sha256": "628c2fb0605d5e259235c65a808f2cddbe354d9deee6f709a66a1468e25df717",
+      "repository_sha256": "628c2fb0605d5e259235c65a808f2cddbe354d9deee6f709a66a1468e25df717",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料.zip",
+      "repository_path": "05_原始归档/本科生水散射研究_全期规划执行资料.zip",
+      "bytes": 14301492,
+      "original_sha256": "40639c8fdf83e0b1ada80598e236fe267367fb55c2020754a4e2477163cd77e3",
+      "repository_sha256": "40639c8fdf83e0b1ada80598e236fe267367fb55c2020754a4e2477163cd77e3",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/image.png",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/image.png",
+      "bytes": 953793,
+      "original_sha256": "4f58304896f0229f60340cc79d54357912f27ccfc4a726683618598d86c662b8",
+      "repository_sha256": "4f58304896f0229f60340cc79d54357912f27ccfc4a726683618598d86c662b8",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/一页任务书.md",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/一页任务书.md",
+      "bytes": 1292,
+      "original_sha256": "aaabe58c7f77cda71ae0b13d9ddf41390955c72c143faea5179d61f51e8c379c",
+      "repository_sha256": "aaabe58c7f77cda71ae0b13d9ddf41390955c72c143faea5179d61f51e8c379c",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/交付检查.md",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/交付检查.md",
+      "bytes": 738,
+      "original_sha256": "1c6c7e62a49052c0d87abb62afedbf4e90201ddb48aa69b977f1e378243fcada",
+      "repository_sha256": "1c6c7e62a49052c0d87abb62afedbf4e90201ddb48aa69b977f1e378243fcada",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/开始使用.md",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/开始使用.md",
+      "bytes": 1519,
+      "original_sha256": "5dcc33325b96d7ce5212d05be2f4faf3996af9813d3d404a3600564a63c10731",
+      "repository_sha256": "5dcc33325b96d7ce5212d05be2f4faf3996af9813d3d404a3600564a63c10731",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/执行表/01_阶段任务追踪.csv",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/执行表/01_阶段任务追踪.csv",
+      "bytes": 3919,
+      "original_sha256": "57c8619400679a4d9234c2075883f66225b6a061e7eab2813dcffcb609306aad",
+      "repository_sha256": "57c8619400679a4d9234c2075883f66225b6a061e7eab2813dcffcb609306aad",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/执行表/02_设备条件核查.csv",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/执行表/02_设备条件核查.csv",
+      "bytes": 1189,
+      "original_sha256": "20bd7bfdfc8589cb2c9865fbbf163b261febf759fdaa30f5269a4d71f2844d9f",
+      "repository_sha256": "20bd7bfdfc8589cb2c9865fbbf163b261febf759fdaa30f5269a4d71f2844d9f",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/执行表/03_预算与报价.csv",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/执行表/03_预算与报价.csv",
+      "bytes": 500,
+      "original_sha256": "797167bc5dc7bc86480151b15484afa5695462b5fd47b52fe5579de2d0a9243b",
+      "repository_sha256": "797167bc5dc7bc86480151b15484afa5695462b5fd47b52fe5579de2d0a9243b",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/执行表/04_参数与单位.csv",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/执行表/04_参数与单位.csv",
+      "bytes": 989,
+      "original_sha256": "26eba56234cb6f090ac3cfda25cba69de7220d0de3b3c635dc776fc1bd8f655a",
+      "repository_sha256": "26eba56234cb6f090ac3cfda25cba69de7220d0de3b3c635dc776fc1bd8f655a",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/执行表/05_样品谱采集计划45条.csv",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/执行表/05_样品谱采集计划45条.csv",
+      "bytes": 1705,
+      "original_sha256": "35d3fdeffceac21ef58409d369061952de96e87790e25207a7c10e526de92d47",
+      "repository_sha256": "35d3fdeffceac21ef58409d369061952de96e87790e25207a7c10e526de92d47",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/执行表/06_样品谱原始记录.csv",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/执行表/06_样品谱原始记录.csv",
+      "bytes": 355,
+      "original_sha256": "5e193c96484ed17095be0c89a47aa6206e72d3e2df9e71aa0e583d423279a35b",
+      "repository_sha256": "5e193c96484ed17095be0c89a47aa6206e72d3e2df9e71aa0e583d423279a35b",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/执行表/07_参考背景记录.csv",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/执行表/07_参考背景记录.csv",
+      "bytes": 192,
+      "original_sha256": "0775decc5be59452f02d01a7c5f6a4594b5e33148178b6eec67468afd0abd54b",
+      "repository_sha256": "0775decc5be59452f02d01a7c5f6a4594b5e33148178b6eec67468afd0abd54b",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/执行表/08_拟合与验证结果.csv",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/执行表/08_拟合与验证结果.csv",
+      "bytes": 352,
+      "original_sha256": "8a120c8bfa9169e55be587c7b24de53b311dfc80ec8645c4e2133549730725d2",
+      "repository_sha256": "8a120c8bfa9169e55be587c7b24de53b311dfc80ec8645c4e2133549730725d2",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/执行表/09_会议与决策.csv",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/执行表/09_会议与决策.csv",
+      "bytes": 136,
+      "original_sha256": "9228e9f53fe8affb86974b9c8c16f32a3a0d6f21e946ab6f8f866b6cabe40551",
+      "repository_sha256": "9228e9f53fe8affb86974b9c8c16f32a3a0d6f21e946ab6f8f866b6cabe40551",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/执行表/10_模型验证计划.csv",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/执行表/10_模型验证计划.csv",
+      "bytes": 1092,
+      "original_sha256": "7f5947b86c9a3bea5a0fed82f8e807a158197dfd650f195c91212f7a0ca0cf95",
+      "repository_sha256": "7f5947b86c9a3bea5a0fed82f8e807a158197dfd650f195c91212f7a0ca0cf95",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/执行表/11_未决事项与变更.csv",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/执行表/11_未决事项与变更.csv",
+      "bytes": 724,
+      "original_sha256": "07dabcc96045cd2fd9050d697cf50c01829ea1919eb403dcca4598f55e107bab",
+      "repository_sha256": "07dabcc96045cd2fd9050d697cf50c01829ea1919eb403dcca4598f55e107bab",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/数据工作区/00_配置/用途说明.txt",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/数据工作区/00_配置/用途说明.txt",
+      "bytes": 102,
+      "original_sha256": "e1dc7d01ddce3e9c81c562eba2f9db0ee2db82cbb9762f1be0d931221edd9d3d",
+      "repository_sha256": "e1dc7d01ddce3e9c81c562eba2f9db0ee2db82cbb9762f1be0d931221edd9d3d",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/数据工作区/01_原始数据/用途说明.txt",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/数据工作区/01_原始数据/用途说明.txt",
+      "bytes": 105,
+      "original_sha256": "a95c11d52dbca0f70c83ac33e83472c44447ca8c9e86a088b1f5fa2cbcfb8d96",
+      "repository_sha256": "a95c11d52dbca0f70c83ac33e83472c44447ca8c9e86a088b1f5fa2cbcfb8d96",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/数据工作区/02_参考背景/用途说明.txt",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/数据工作区/02_参考背景/用途说明.txt",
+      "bytes": 105,
+      "original_sha256": "a95c11d52dbca0f70c83ac33e83472c44447ca8c9e86a088b1f5fa2cbcfb8d96",
+      "repository_sha256": "a95c11d52dbca0f70c83ac33e83472c44447ca8c9e86a088b1f5fa2cbcfb8d96",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/数据工作区/03_处理结果/用途说明.txt",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/数据工作区/03_处理结果/用途说明.txt",
+      "bytes": 102,
+      "original_sha256": "e1dc7d01ddce3e9c81c562eba2f9db0ee2db82cbb9762f1be0d931221edd9d3d",
+      "repository_sha256": "e1dc7d01ddce3e9c81c562eba2f9db0ee2db82cbb9762f1be0d931221edd9d3d",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/数据工作区/04_图表/用途说明.txt",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/数据工作区/04_图表/用途说明.txt",
+      "bytes": 102,
+      "original_sha256": "e1dc7d01ddce3e9c81c562eba2f9db0ee2db82cbb9762f1be0d931221edd9d3d",
+      "repository_sha256": "e1dc7d01ddce3e9c81c562eba2f9db0ee2db82cbb9762f1be0d931221edd9d3d",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/数据工作区/05_报告/用途说明.txt",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/数据工作区/05_报告/用途说明.txt",
+      "bytes": 102,
+      "original_sha256": "e1dc7d01ddce3e9c81c562eba2f9db0ee2db82cbb9762f1be0d931221edd9d3d",
+      "repository_sha256": "e1dc7d01ddce3e9c81c562eba2f9db0ee2db82cbb9762f1be0d931221edd9d3d",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/数据工作区/06_会议/用途说明.txt",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/数据工作区/06_会议/用途说明.txt",
+      "bytes": 102,
+      "original_sha256": "e1dc7d01ddce3e9c81c562eba2f9db0ee2db82cbb9762f1be0d931221edd9d3d",
+      "repository_sha256": "e1dc7d01ddce3e9c81c562eba2f9db0ee2db82cbb9762f1be0d931221edd9d3d",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/核心文献全文/R1_Kabakova2024.pdf",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/核心文献全文/R1_Kabakova2024.pdf",
+      "bytes": 5845996,
+      "original_sha256": "3b8093643d3127ae1fd1e2e28f100ae087e5d1db15c322b8a71c4a5f226af84f",
+      "repository_sha256": "3b8093643d3127ae1fd1e2e28f100ae087e5d1db15c322b8a71c4a5f226af84f",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/核心文献全文/R2_Mountain1966.pdf",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/核心文献全文/R2_Mountain1966.pdf",
+      "bytes": 288678,
+      "original_sha256": "a197a6312450246128c5d5ec1312ffb32505bc32d4cc54f03c0bca6a4ab010a5",
+      "repository_sha256": "a197a6312450246128c5d5ec1312ffb32505bc32d4cc54f03c0bca6a4ab010a5",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/核心文献全文/R3_Koestel2024.pdf",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/核心文献全文/R3_Koestel2024.pdf",
+      "bytes": 2178929,
+      "original_sha256": "8d4e65814fed667f385290b25d71c77c2025b4b0c81a5c5853a70aa8371d834d",
+      "repository_sha256": "8d4e65814fed667f385290b25d71c77c2025b4b0c81a5c5853a70aa8371d834d",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/核心文献全文/R4_Yan2020.pdf",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/核心文献全文/R4_Yan2020.pdf",
+      "bytes": 1490956,
+      "original_sha256": "701910a1fb58dacc32e931c54fab6c5d3edf059ce68710991c69f4a91b7d41ab",
+      "repository_sha256": "701910a1fb58dacc32e931c54fab6c5d3edf059ce68710991c69f4a91b7d41ab",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/核心文献全文/R5_Consensus2025.html",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/核心文献全文/R5_Consensus2025.html",
+      "bytes": 628175,
+      "original_sha256": "6d2f3dfbcd04218c7cfb9e53929d7fb8dd6a0af727aa3ebeab61b67fe0efd940",
+      "repository_sha256": "6d2f3dfbcd04218c7cfb9e53929d7fb8dd6a0af727aa3ebeab61b67fe0efd940",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/核心文献全文/R5_Consensus2025_补充资料.pdf",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/核心文献全文/R5_Consensus2025_补充资料.pdf",
+      "bytes": 2115364,
+      "original_sha256": "09693dc49a434d7e397ef95459131c34b77d0511ab5f32c7e5eb30dbc06cbcaa",
+      "repository_sha256": "09693dc49a434d7e397ef95459131c34b77d0511ab5f32c7e5eb30dbc06cbcaa",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/核心文献全文/R6_Testi2026.pdf",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/核心文献全文/R6_Testi2026.pdf",
+      "bytes": 4372923,
+      "original_sha256": "8705cb014805bc1f69f3078e3e4d7f51b5a32a4819968b5fb6dd1bc7de7fd148",
+      "repository_sha256": "8705cb014805bc1f69f3078e3e4d7f51b5a32a4819968b5fb6dd1bc7de7fd148",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/核心文献全文/来源说明.md",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/核心文献全文/来源说明.md",
+      "bytes": 767,
+      "original_sha256": "24b28b2b8c2f42ddd9e7fe3f59af4d059b6e6108b13ff6768db83d8cd89c7574",
+      "repository_sha256": "24b28b2b8c2f42ddd9e7fe3f59af4d059b6e6108b13ff6768db83d8cd89c7574",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/核心文献阅读卡.md",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/核心文献阅读卡.md",
+      "bytes": 4654,
+      "original_sha256": "d1c5aa3e94577e571821eaf2e3415243cf5a83205b1174116e56249de05324b8",
+      "repository_sha256": "d1c5aa3e94577e571821eaf2e3415243cf5a83205b1174116e56249de05324b8",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/液态水散射本科生研究_全期规划与执行手册.pdf",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/液态水散射本科生研究_全期规划与执行手册.pdf",
+      "bytes": 358544,
+      "original_sha256": "83ba53e3b0851459252a64ac8410dafbaa9245a7d5a7d6deaffb6817ec6a43c0",
+      "repository_sha256": "83ba53e3b0851459252a64ac8410dafbaa9245a7d5a7d6deaffb6817ec6a43c0",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/液态水散射本科生研究_全期规划与执行手册.tex",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/液态水散射本科生研究_全期规划与执行手册.tex",
+      "bytes": 22688,
+      "original_sha256": "6fadf422400ec8a9d6b852fa4399b6bd4d1b2af583c834854ff5e6ca80721955",
+      "repository_sha256": "6fadf422400ec8a9d6b852fa4399b6bd4d1b2af583c834854ff5e6ca80721955",
+      "change_note": ""
+    },
+    {
+      "original_path": "本科生水散射研究_全期规划执行资料/资料清单.json",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/资料清单.json",
+      "bytes": 244,
+      "original_sha256": "72feb65c625c31e900599e4140437c272eb33daa9096b3f947c712636d3f444b",
+      "repository_sha256": "72feb65c625c31e900599e4140437c272eb33daa9096b3f947c712636d3f444b",
+      "change_note": ""
+    },
+    {
+      "original_path": "液态水散射_实验器材与市售仪器_验收修订稿.pdf",
+      "repository_path": "02_综述与参考/液态水散射_实验器材与市售仪器_验收修订稿.pdf",
+      "bytes": 499877,
+      "original_sha256": "d470d552436b394bb5216464da2a327b1fd902a6198395353bdaef419cb36e77",
+      "repository_sha256": "d470d552436b394bb5216464da2a327b1fd902a6198395353bdaef419cb36e77",
+      "change_note": ""
+    },
+    {
+      "original_path": "液态水散射_物理机制与杂质影响_验收修订稿.pdf",
+      "repository_path": "02_综述与参考/液态水散射_物理机制与杂质影响_验收修订稿.pdf",
+      "bytes": 503824,
+      "original_sha256": "4743e81f3c1b4d021ceb3acdf7581bedd43b1a6000c4ec7882e155b0f8d9d2d7",
+      "repository_sha256": "4743e81f3c1b4d021ceb3acdf7581bedd43b1a6000c4ec7882e155b0f8d9d2d7",
+      "change_note": ""
+    },
+    {
+      "original_path": "研究启动_入口.md",
+      "repository_path": "01_研究规划/研究启动_入口.md",
+      "bytes": 3028,
+      "original_sha256": "23aa65eeb96fe133a06cde449653947eeb94ca601e9df8d4b010ef31e12063bf",
+      "repository_sha256": "ddc5453e878c45ccc3ed45c7567863c34dc51f85f64520c5b74aae231f2cb539",
+      "change_note": "调整入口中的相对链接；原叙述保留。"
+    },
+    {
+      "original_path": "项目启动提示词.md",
+      "repository_path": "01_研究规划/项目启动提示词.md",
+      "bytes": 6165,
+      "original_sha256": "dc02168b25620642791f517d602f97e71ff946c635cdfe3e96fb81db75a92547",
+      "repository_sha256": "dc02168b25620642791f517d602f97e71ff946c635cdfe3e96fb81db75a92547",
+      "change_note": ""
+    }
+  ]
+}

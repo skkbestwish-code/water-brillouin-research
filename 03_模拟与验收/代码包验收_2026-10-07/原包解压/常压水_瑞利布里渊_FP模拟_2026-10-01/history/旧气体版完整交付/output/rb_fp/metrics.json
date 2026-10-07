@@ -1,0 +1,1105 @@
+{
+  "configuration": {
+    "instrument": {
+      "fsr_ghz": 15.0,
+      "finesse": 30.0,
+      "wavelength_nm": 632.8,
+      "focal_length_mm": 100.0,
+      "center_detuning_ghz": 2.5,
+      "illumination_radius_mm": 2.0
+    },
+    "camera": {
+      "size": 768,
+      "pixel_um": 4.0,
+      "roi_mm": 1.4,
+      "radial_step_um": 1.0,
+      "psf_sigma_um": 4.0,
+      "subpixels": 4
+    },
+    "gas": {
+      "temperature_k": 300.0,
+      "pressure_bar": 0.02,
+      "molar_mass_kg": 0.0280134,
+      "scattering_angle_deg": 90.0,
+      "velocity_ms": 20.0,
+      "gamma": 1.4,
+      "shear_viscosity_pa_s": 1.78e-05,
+      "bulk_viscosity_pa_s": 0.0,
+      "thermal_conductivity_w_mk": 0.026,
+      "wavelength_nm": 632.8
+    },
+    "laser_fwhm_ghz": 0.01,
+    "laser_modes": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "gain_electrons": 2000.0,
+    "background_electrons": 20.0,
+    "read_noise_electrons": 3.0,
+    "seed": 20260930,
+    "truth_grid_size": 3000,
+    "inverse_grid_size": 600,
+    "fit_grid_size": 2400,
+    "monte_carlo_replicates": 12,
+    "low_count_gain": 25.0
+  },
+  "instrument_derived": {
+    "optical_length_mm": 9.993081933333333,
+    "airy_coefficient": 365.0897772957676,
+    "ideal_reflectivity": 0.9006629392509028,
+    "fwhm_ghz": 0.5,
+    "nu0_thz": 473.7554646017699,
+    "reference_ring_radii_mm": [
+      0.3248699972649119,
+      0.859545632589352,
+      1.1713910667846879
+    ]
+  },
+  "software": {
+    "python": "3.14.4 (tags/v3.14.4:23116f9, Apr  7 2026, 14:10:54) [MSC v.1944 64 bit (AMD64)]",
+    "numpy": "2.4.4",
+    "scipy": "1.17.1",
+    "matplotlib": "3.10.9"
+  },
+  "cases": {
+    "low_pressure": {
+      "physics": {
+        "wavevector_m_inv": 14041981.473319741,
+        "thermal_std_ms": 298.3972446478945,
+        "sound_ms": 353.06838127880775,
+        "density_kg_m3": 0.022461583938359345,
+        "cp_j_kgk": 1038.81068215698,
+        "thermal_diffusivity_m2_s": 0.0011142857142857141,
+        "y": 0.018961460741645557,
+        "sigma_ghz": 0.6668733096646885,
+        "shift_ghz": 0.044697015245673044,
+        "brillouin_ghz": 0.7890551410391986,
+        "rayleigh_hwhm_ghz": 34.96821677100686,
+        "brillouin_hwhm_ghz": 23.572908910486227,
+        "central_weight": 0.28571428571428564,
+        "side_weight": 0.35714285714285715,
+        "model": "knudsen",
+        "gas": {
+          "temperature_k": 300.0,
+          "pressure_bar": 0.02,
+          "molar_mass_kg": 0.0280134,
+          "scattering_angle_deg": 90.0,
+          "velocity_ms": 20.0,
+          "gamma": 1.4,
+          "shear_viscosity_pa_s": 1.78e-05,
+          "bulk_viscosity_pa_s": 0.0,
+          "thermal_conductivity_w_mk": 0.026,
+          "wavelength_nm": 632.8
+        }
+      },
+      "nonparametric": {
+        "relative_l2": 0.002488354485989319,
+        "recovered_area": 0.9999351779068422,
+        "chi2": 0.9746739593221514,
+        "alpha": 10.0,
+        "converged": true,
+        "discrepancy_reached": true,
+        "regularization_path": [
+          {
+            "alpha": 1e-05,
+            "chi2": 0.9189123082203485,
+            "roughness": 295.29892471580405
+          },
+          {
+            "alpha": 0.0001,
+            "chi2": 0.9242603350027745,
+            "roughness": 114.55907739442937
+          },
+          {
+            "alpha": 0.001,
+            "chi2": 0.9340105200411664,
+            "roughness": 40.22447799148143
+          },
+          {
+            "alpha": 0.01,
+            "chi2": 0.9435262262618916,
+            "roughness": 12.332370494459827
+          },
+          {
+            "alpha": 0.1,
+            "chi2": 0.9490720406632688,
+            "roughness": 8.757363254706561
+          },
+          {
+            "alpha": 1.0,
+            "chi2": 0.9581658553767499,
+            "roughness": 8.119073967373936
+          },
+          {
+            "alpha": 10.0,
+            "chi2": 0.9746739593221514,
+            "roughness": 7.992171373819538
+          },
+          {
+            "alpha": 100.0,
+            "chi2": 1.1955856866152907,
+            "roughness": 7.895823722127843
+          },
+          {
+            "alpha": 1000.0,
+            "chi2": 11.923065812739226,
+            "roughness": 7.39496913947251
+          }
+        ]
+      },
+      "parametric": {
+        "parameters": {
+          "shift_ghz": 0.04474268993132066,
+          "sigma_ghz": 0.6672346073028567,
+          "amplitude": 0.9998237791225523
+        },
+        "conditional_standard_errors": {
+          "shift_ghz": 0.00019842193449921483,
+          "sigma_ghz": 0.0002014678440875436,
+          "amplitude": 0.00020613511083350392
+        },
+        "success": true,
+        "message": "`ftol` termination condition is satisfied.",
+        "evaluations": 6,
+        "chi2": 1.0331842558746807,
+        "at_bound": false,
+        "kind": "knudsen"
+      },
+      "image_operator_max_abs_error": 6.106226635438361e-16
+    },
+    "high_pressure": {
+      "physics": {
+        "wavevector_m_inv": 14041981.473319741,
+        "thermal_std_ms": 298.3972446478945,
+        "sound_ms": 353.06838127880775,
+        "density_kg_m3": 22.461583938359347,
+        "cp_j_kgk": 1038.81068215698,
+        "thermal_diffusivity_m2_s": 1.1142857142857139e-06,
+        "y": 18.961460741645556,
+        "sigma_ghz": 0.6668733096646885,
+        "shift_ghz": 0.044697015245673044,
+        "brillouin_ghz": 0.7890551410391986,
+        "rayleigh_hwhm_ghz": 0.034968216771006845,
+        "brillouin_hwhm_ghz": 0.02357290891048622,
+        "central_weight": 0.28571428571428564,
+        "side_weight": 0.35714285714285715,
+        "model": "hydrodynamic",
+        "gas": {
+          "temperature_k": 300.0,
+          "pressure_bar": 20.0,
+          "molar_mass_kg": 0.0280134,
+          "scattering_angle_deg": 90.0,
+          "velocity_ms": 20.0,
+          "gamma": 1.4,
+          "shear_viscosity_pa_s": 1.78e-05,
+          "bulk_viscosity_pa_s": 0.0,
+          "thermal_conductivity_w_mk": 0.026,
+          "wavelength_nm": 632.8
+        }
+      },
+      "nonparametric": {
+        "relative_l2": 0.5285110178408736,
+        "recovered_area": 0.9998021645206603,
+        "matched_peaks": [
+          {
+            "true_ghz": -0.7443581257935256,
+            "recovered_ghz": -0.75,
+            "error_mhz": -5.64187420647444
+          },
+          {
+            "true_ghz": 0.044697015245673044,
+            "recovered_ghz": 0.05,
+            "error_mhz": 5.302984754326959
+          },
+          {
+            "true_ghz": 0.8337521562848716,
+            "recovered_ghz": 0.8250000000000001,
+            "error_mhz": -8.752156284871582
+          }
+        ],
+        "chi2": 0.9229656737401912,
+        "alpha": 0.0001,
+        "converged": true,
+        "discrepancy_reached": true,
+        "regularization_path": [
+          {
+            "alpha": 1e-05,
+            "chi2": 0.8036372884570725,
+            "roughness": 1567.3540851498617
+          },
+          {
+            "alpha": 0.0001,
+            "chi2": 0.9229656737401912,
+            "roughness": 1146.9148916801346
+          },
+          {
+            "alpha": 0.001,
+            "chi2": 1.547928477639694,
+            "roughness": 792.7466116263987
+          },
+          {
+            "alpha": 0.01,
+            "chi2": 4.759466880370856,
+            "roughness": 573.0158098302381
+          },
+          {
+            "alpha": 0.1,
+            "chi2": 24.72745853136132,
+            "roughness": 358.03698915200255
+          },
+          {
+            "alpha": 1.0,
+            "chi2": 104.69951416130893,
+            "roughness": 200.614286190209
+          },
+          {
+            "alpha": 10.0,
+            "chi2": 437.09776580076505,
+            "roughness": 90.81040680633735
+          },
+          {
+            "alpha": 100.0,
+            "chi2": 946.9484397117735,
+            "roughness": 31.16968573885415
+          },
+          {
+            "alpha": 1000.0,
+            "chi2": 1634.9471457955124,
+            "roughness": 13.414657369216615
+          }
+        ]
+      },
+      "parametric": {
+        "parameters": {
+          "shift_ghz": 0.04470049152055032,
+          "brillouin_ghz": 0.7891389992469563,
+          "rayleigh_hwhm_ghz": 0.035035099702037796,
+          "brillouin_hwhm_ghz": 0.023764324266036804,
+          "amplitude": 0.9998216275265484
+        },
+        "conditional_standard_errors": {
+          "shift_ghz": 0.00013662663592654318,
+          "brillouin_ghz": 0.00013539330510959689,
+          "rayleigh_hwhm_ghz": 0.0002926613767619075,
+          "brillouin_hwhm_ghz": 0.00014728330995586063,
+          "amplitude": 0.00021024377495961326
+        },
+        "success": true,
+        "message": "`ftol` termination condition is satisfied.",
+        "evaluations": 8,
+        "chi2": 0.9119472206087667,
+        "at_bound": false,
+        "kind": "hydrodynamic"
+      },
+      "image_operator_max_abs_error": 6.661338147750939e-16
+    },
+    "three_peak_benchmark": {
+      "physics": {
+        "model": "algorithm benchmark",
+        "sigma_ghz": 0.16,
+        "centers_ghz": [
+          0.08,
+          -0.72,
+          0.88
+        ],
+        "weights": [
+          0.2857142857142857,
+          0.35714285714285715,
+          0.35714285714285715
+        ]
+      },
+      "nonparametric": {
+        "relative_l2": 0.035843387439152566,
+        "recovered_area": 1.0004932099515602,
+        "matched_peaks": [
+          {
+            "true_ghz": 0.08,
+            "recovered_ghz": 0.07500000000000001,
+            "error_mhz": -4.99999999999999
+          },
+          {
+            "true_ghz": -0.72,
+            "recovered_ghz": -0.7250000000000001,
+            "error_mhz": -5.0000000000001155
+          },
+          {
+            "true_ghz": 0.88,
+            "recovered_ghz": 0.875,
+            "error_mhz": -5.000000000000004
+          }
+        ],
+        "chi2": 0.7982639768577905,
+        "alpha": 0.01,
+        "converged": true,
+        "discrepancy_reached": true,
+        "regularization_path": [
+          {
+            "alpha": 1e-05,
+            "chi2": 0.7493579367360971,
+            "roughness": 333.3608075888406
+          },
+          {
+            "alpha": 0.0001,
+            "chi2": 0.754128391696509,
+            "roughness": 192.33265199680827
+          },
+          {
+            "alpha": 0.001,
+            "chi2": 0.7617128879707094,
+            "roughness": 171.5835532167243
+          },
+          {
+            "alpha": 0.01,
+            "chi2": 0.7982639768577905,
+            "roughness": 159.78748961864525
+          },
+          {
+            "alpha": 0.1,
+            "chi2": 1.0951239487168396,
+            "roughness": 151.7794722922927
+          },
+          {
+            "alpha": 1.0,
+            "chi2": 10.502007982568045,
+            "roughness": 127.41910066366233
+          },
+          {
+            "alpha": 10.0,
+            "chi2": 134.80470690010472,
+            "roughness": 65.28866729416958
+          },
+          {
+            "alpha": 100.0,
+            "chi2": 399.55849651705716,
+            "roughness": 26.978397800657984
+          },
+          {
+            "alpha": 1000.0,
+            "chi2": 918.1602726373417,
+            "roughness": 12.781151602283671
+          }
+        ]
+      },
+      "parametric": null,
+      "image_operator_max_abs_error": 1.0547118733938987e-15
+    }
+  },
+  "sensitivity": {
+    "nominal": {
+      "relative_l2": 0.5285110178408736,
+      "recovered_area": 0.9998021645206603,
+      "chi2": 0.9229656737401912,
+      "alpha": 0.0001,
+      "discrepancy_reached": true,
+      "parametric": {
+        "parameters": {
+          "shift_ghz": 0.04470049152055032,
+          "brillouin_ghz": 0.7891389992469563,
+          "rayleigh_hwhm_ghz": 0.035035099702037796,
+          "brillouin_hwhm_ghz": 0.023764324266036804,
+          "amplitude": 0.9998216275265484
+        },
+        "conditional_standard_errors": {
+          "shift_ghz": 0.00013662663592654318,
+          "brillouin_ghz": 0.00013539330510959689,
+          "rayleigh_hwhm_ghz": 0.0002926613767619075,
+          "brillouin_hwhm_ghz": 0.00014728330995586063,
+          "amplitude": 0.00021024377495961326
+        },
+        "success": true,
+        "message": "`ftol` termination condition is satisfied.",
+        "evaluations": 8,
+        "chi2": 0.9119472206087667,
+        "at_bound": false,
+        "kind": "hydrodynamic"
+      },
+      "assumed_instrument": {
+        "fsr_ghz": 15.0,
+        "finesse": 30.0,
+        "wavelength_nm": 632.8,
+        "focal_length_mm": 100.0,
+        "center_detuning_ghz": 2.5,
+        "illumination_radius_mm": 2.0
+      },
+      "assumed_camera": {
+        "size": 768,
+        "pixel_um": 4.0,
+        "roi_mm": 1.4,
+        "radial_step_um": 1.0,
+        "psf_sigma_um": 4.0,
+        "subpixels": 4
+      },
+      "gain": 2000.0
+    },
+    "low_counts_25": {
+      "relative_l2": 0.6038350693904937,
+      "recovered_area": 1.006542634594359,
+      "chi2": 1.1041635041017297,
+      "alpha": 1e-05,
+      "discrepancy_reached": false,
+      "parametric": {
+        "parameters": {
+          "shift_ghz": 0.046630940485139535,
+          "brillouin_ghz": 0.7886663039903751,
+          "rayleigh_hwhm_ghz": 0.030813964180819584,
+          "brillouin_hwhm_ghz": 0.024291431726623403,
+          "amplitude": 0.9949390518002822
+        },
+        "conditional_standard_errors": {
+          "shift_ghz": 0.0034182122061552495,
+          "brillouin_ghz": 0.0032206503005430963,
+          "rayleigh_hwhm_ghz": 0.006921609162235638,
+          "brillouin_hwhm_ghz": 0.004123728623284425,
+          "amplitude": 0.005823674812080558
+        },
+        "success": true,
+        "message": "`ftol` termination condition is satisfied.",
+        "evaluations": 9,
+        "chi2": 1.1354963163035336,
+        "at_bound": false,
+        "kind": "hydrodynamic"
+      },
+      "assumed_instrument": {
+        "fsr_ghz": 15.0,
+        "finesse": 30.0,
+        "wavelength_nm": 632.8,
+        "focal_length_mm": 100.0,
+        "center_detuning_ghz": 2.5,
+        "illumination_radius_mm": 2.0
+      },
+      "assumed_camera": {
+        "size": 768,
+        "pixel_um": 4.0,
+        "roi_mm": 1.4,
+        "radial_step_um": 1.0,
+        "psf_sigma_um": 4.0,
+        "subpixels": 4
+      },
+      "gain": 25.0
+    },
+    "focal_length_plus_1pct": {
+      "relative_l2": 0.9187635003037861,
+      "recovered_area": 0.9293387282047084,
+      "chi2": 5091.85778928014,
+      "alpha": 1e-05,
+      "discrepancy_reached": false,
+      "parametric": {
+        "parameters": {
+          "shift_ghz": -0.1845059236191444,
+          "brillouin_ghz": 0.7024316639756355,
+          "rayleigh_hwhm_ghz": 0.10382596061854861,
+          "brillouin_hwhm_ghz": 0.09336696994642552,
+          "amplitude": 0.9270189317805853
+        },
+        "conditional_standard_errors": {
+          "shift_ghz": 0.0001810183650403315,
+          "brillouin_ghz": 0.0002088190575741646,
+          "rayleigh_hwhm_ghz": 0.0004442930370573499,
+          "brillouin_hwhm_ghz": 0.00020162507919374543,
+          "amplitude": 0.0002068608475802119
+        },
+        "success": true,
+        "message": "`ftol` termination condition is satisfied.",
+        "evaluations": 14,
+        "chi2": 5694.266487722077,
+        "at_bound": false,
+        "kind": "hydrodynamic"
+      },
+      "assumed_instrument": {
+        "fsr_ghz": 15.0,
+        "finesse": 30.0,
+        "wavelength_nm": 632.8,
+        "focal_length_mm": 101.0,
+        "center_detuning_ghz": 2.5,
+        "illumination_radius_mm": 2.0
+      },
+      "assumed_camera": {
+        "size": 768,
+        "pixel_um": 4.0,
+        "roi_mm": 1.4,
+        "radial_step_um": 1.0,
+        "psf_sigma_um": 4.0,
+        "subpixels": 4
+      },
+      "gain": 2000.0
+    },
+    "finesse_assumed_25": {
+      "relative_l2": 0.32714536466293276,
+      "recovered_area": 0.8386932957916458,
+      "chi2": 79.39180876908823,
+      "alpha": 1e-05,
+      "discrepancy_reached": false,
+      "parametric": {
+        "parameters": {
+          "shift_ghz": 0.04677105573425342,
+          "brillouin_ghz": 0.7843479081870154,
+          "rayleigh_hwhm_ghz": 0.006618170196030397,
+          "brillouin_hwhm_ghz": 0.002129811292481195,
+          "amplitude": 0.8392382492558573
+        },
+        "conditional_standard_errors": {
+          "shift_ghz": 0.00024511490100745994,
+          "brillouin_ghz": 0.00030851908061040924,
+          "rayleigh_hwhm_ghz": 0.0003282753741168915,
+          "brillouin_hwhm_ghz": 0.00013730643928817977,
+          "amplitude": 0.00017601738476255926
+        },
+        "success": false,
+        "message": "The maximum number of function evaluations is exceeded.",
+        "evaluations": 300,
+        "chi2": 95.13421322214717,
+        "at_bound": false,
+        "kind": "hydrodynamic"
+      },
+      "assumed_instrument": {
+        "fsr_ghz": 15.0,
+        "finesse": 25,
+        "wavelength_nm": 632.8,
+        "focal_length_mm": 100.0,
+        "center_detuning_ghz": 2.5,
+        "illumination_radius_mm": 2.0
+      },
+      "assumed_camera": {
+        "size": 768,
+        "pixel_um": 4.0,
+        "roi_mm": 1.4,
+        "radial_step_um": 1.0,
+        "psf_sigma_um": 4.0,
+        "subpixels": 4
+      },
+      "gain": 2000.0
+    },
+    "psf_ignored": {
+      "relative_l2": 0.7412712001533488,
+      "recovered_area": 0.9980139401749248,
+      "chi2": 192.5896876611433,
+      "alpha": 1e-05,
+      "discrepancy_reached": false,
+      "parametric": {
+        "parameters": {
+          "shift_ghz": 0.044756181816331994,
+          "brillouin_ghz": 0.7851562895951827,
+          "rayleigh_hwhm_ghz": 0.07000517379457265,
+          "brillouin_hwhm_ghz": 0.06041124582324837,
+          "amplitude": 1.0053804620322389
+        },
+        "conditional_standard_errors": {
+          "shift_ghz": 0.0001353285279878148,
+          "brillouin_ghz": 0.00013393129483561182,
+          "rayleigh_hwhm_ghz": 0.0002818739748140865,
+          "brillouin_hwhm_ghz": 0.0001452950503159936,
+          "amplitude": 0.00021151321028772135
+        },
+        "success": true,
+        "message": "`ftol` termination condition is satisfied.",
+        "evaluations": 7,
+        "chi2": 259.3095840612286,
+        "at_bound": false,
+        "kind": "hydrodynamic"
+      },
+      "assumed_instrument": {
+        "fsr_ghz": 15.0,
+        "finesse": 30.0,
+        "wavelength_nm": 632.8,
+        "focal_length_mm": 100.0,
+        "center_detuning_ghz": 2.5,
+        "illumination_radius_mm": 2.0
+      },
+      "assumed_camera": {
+        "size": 768,
+        "pixel_um": 4.0,
+        "roi_mm": 1.4,
+        "radial_step_um": 1.0,
+        "psf_sigma_um": 0,
+        "subpixels": 4
+      },
+      "gain": 2000.0
+    },
+    "detuning_plus_0p1GHz": {
+      "relative_l2": 0.9563712374028559,
+      "recovered_area": 0.999802111753047,
+      "chi2": 0.9232128027914082,
+      "alpha": 0.0001,
+      "discrepancy_reached": true,
+      "parametric": {
+        "parameters": {
+          "shift_ghz": -0.055301708149528235,
+          "brillouin_ghz": 0.7891388603543222,
+          "rayleigh_hwhm_ghz": 0.03503521671636951,
+          "brillouin_hwhm_ghz": 0.02376439462086619,
+          "amplitude": 0.9998215888445491
+        },
+        "conditional_standard_errors": {
+          "shift_ghz": 0.00013662667553027263,
+          "brillouin_ghz": 0.0001353933423307596,
+          "rayleigh_hwhm_ghz": 0.00029266151184202286,
+          "brillouin_hwhm_ghz": 0.00014728334017280432,
+          "amplitude": 0.00021024377311100158
+        },
+        "success": true,
+        "message": "`ftol` termination condition is satisfied.",
+        "evaluations": 8,
+        "chi2": 0.9121787742277381,
+        "at_bound": false,
+        "kind": "hydrodynamic"
+      },
+      "assumed_instrument": {
+        "fsr_ghz": 15.0,
+        "finesse": 30.0,
+        "wavelength_nm": 632.8,
+        "focal_length_mm": 100.0,
+        "center_detuning_ghz": 2.6,
+        "illumination_radius_mm": 2.0
+      },
+      "assumed_camera": {
+        "size": 768,
+        "pixel_um": 4.0,
+        "roi_mm": 1.4,
+        "radial_step_um": 1.0,
+        "psf_sigma_um": 4.0,
+        "subpixels": 4
+      },
+      "gain": 2000.0
+    }
+  },
+  "monte_carlo": {
+    "low_pressure": {
+      "replicates": 12,
+      "parameter_statistics": {
+        "shift_ghz": {
+          "mean": 0.04472427978263536,
+          "std": 0.0002272290192732392
+        },
+        "sigma_ghz": {
+          "mean": 0.6669600576185934,
+          "std": 0.00023953026686707432
+        },
+        "amplitude": {
+          "mean": 0.999943851519097,
+          "std": 0.00015916468019545855
+        }
+      },
+      "note": "Empirical noise scatter, conditional on known laser/instrument and exact limiting line family; not full experimental uncertainty."
+    },
+    "high_pressure": {
+      "replicates": 12,
+      "parameter_statistics": {
+        "shift_ghz": {
+          "mean": 0.04468170125928356,
+          "std": 0.00010479030717524075
+        },
+        "brillouin_ghz": {
+          "mean": 0.7890285957974847,
+          "std": 0.00011169373468984995
+        },
+        "rayleigh_hwhm_ghz": {
+          "mean": 0.034972081917882133,
+          "std": 0.0002976520867122578
+        },
+        "brillouin_hwhm_ghz": {
+          "mean": 0.023519317582017547,
+          "std": 0.00012957622717694553
+        },
+        "amplitude": {
+          "mean": 0.9999984405470954,
+          "std": 0.00015415611960719055
+        }
+      },
+      "note": "Empirical noise scatter, conditional on known laser/instrument and exact limiting line family; not full experimental uncertainty."
+    }
+  },
+  "numerical_checks": {
+    "convolution_approximation": {
+      "relative_l2_small_angle": 0.0007705398859483576,
+      "relative_l2_fft_interpolation": 2.881530825888464e-06
+    },
+    "high_pressure_frequency_quadrature_relative_l2": 3.423298669201215e-09,
+    "camera_quadrature_relative_l2": 0.00017586556451826618
+  },
+  "wiener_control": {
+    "low_pressure": {
+      "relative_l2": 0.03671972268217675,
+      "recovered_area": 1.0001073778093184,
+      "regularizer": 0.0001,
+      "chi2": 0.9879975409870028,
+      "negative_area": 0.026528289437949975,
+      "noise_sigma": 0.001,
+      "selection": "generalized cross-validation",
+      "gcv": 1.045295622041917,
+      "regularization_path": [
+        {
+          "regularizer": 1e-10,
+          "chi2": 0.9379781719926076,
+          "effective_dof": 215.42889118575573,
+          "gcv": 1.0887260531197578
+        },
+        {
+          "regularizer": 3.1622776601683795e-10,
+          "chi2": 0.9416809875058604,
+          "effective_dof": 204.42481486225412,
+          "gcv": 1.0844360787132086
+        },
+        {
+          "regularizer": 1e-09,
+          "chi2": 0.9449220179333423,
+          "effective_dof": 193.42073854604573,
+          "gcv": 1.0796521517400526
+        },
+        {
+          "regularizer": 3.1622776601683795e-09,
+          "chi2": 0.9479058983667494,
+          "effective_dof": 182.41666225291138,
+          "gcv": 1.0746182069141368
+        },
+        {
+          "regularizer": 1e-08,
+          "chi2": 0.9511396302095151,
+          "effective_dof": 171.412586032751,
+          "gcv": 1.069910815151131
+        },
+        {
+          "regularizer": 3.162277660168379e-08,
+          "chi2": 0.9547155670234387,
+          "effective_dof": 160.40851004335826,
+          "gcv": 1.0656259344266923
+        },
+        {
+          "regularizer": 1e-07,
+          "chi2": 0.9586266391808319,
+          "effective_dof": 149.40443478371907,
+          "gcv": 1.0617463887334795
+        },
+        {
+          "regularizer": 3.162277660168379e-07,
+          "chi2": 0.9628553244303351,
+          "effective_dof": 138.40036183176363,
+          "gcv": 1.0582439671170343
+        },
+        {
+          "regularizer": 1e-06,
+          "chi2": 0.9673607191734434,
+          "effective_dof": 127.39629617733797,
+          "gcv": 1.0550657514441453
+        },
+        {
+          "regularizer": 3.162277660168379e-06,
+          "chi2": 0.9720053398975691,
+          "effective_dof": 116.39225359965687,
+          "gcv": 1.0520558441538743
+        },
+        {
+          "regularizer": 1e-05,
+          "chi2": 0.9768571569558826,
+          "effective_dof": 105.38828399633877,
+          "gcv": 1.0492837351854905
+        },
+        {
+          "regularizer": 3.1622776601683795e-05,
+          "chi2": 0.9822093774100403,
+          "effective_dof": 94.38454515110986,
+          "gcv": 1.0470569694298484
+        },
+        {
+          "regularizer": 0.0001,
+          "chi2": 0.9879975409870028,
+          "effective_dof": 83.38153595595148,
+          "gcv": 1.045295622041917
+        },
+        {
+          "regularizer": 0.00031622776601683794,
+          "chi2": 0.9990259558244,
+          "effective_dof": 72.38083340637162,
+          "gcv": 1.0490353370894372
+        },
+        {
+          "regularizer": 0.001,
+          "chi2": 1.069191695750347,
+          "effective_dof": 61.38741801334484,
+          "gcv": 1.1143289639043763
+        },
+        {
+          "regularizer": 0.0031622776601683794,
+          "chi2": 1.7246868698683975,
+          "effective_dof": 50.416975917499215,
+          "gcv": 1.7841506246348589
+        },
+        {
+          "regularizer": 0.01,
+          "chi2": 7.964627396253071,
+          "effective_dof": 39.51848264311763,
+          "gcv": 8.178680910248607
+        },
+        {
+          "regularizer": 0.03162277660168379,
+          "chi2": 62.7807090552768,
+          "effective_dof": 28.840764454655996,
+          "gcv": 64.00543743370093
+        },
+        {
+          "regularizer": 0.1,
+          "chi2": 448.0623585661673,
+          "effective_dof": 18.8005903203837,
+          "gcv": 453.7314854228286
+        }
+      ],
+      "note": "Ideal uniformly sampled frequency-domain convolution; excludes camera, pixel integration and illumination. Not the observed ring-image inverse."
+    },
+    "high_pressure": {
+      "relative_l2": 0.5209478767210388,
+      "recovered_area": 0.9997280335980077,
+      "regularizer": 1e-06,
+      "chi2": 0.9443089693484641,
+      "negative_area": 0.37724055691867414,
+      "noise_sigma": 0.001,
+      "selection": "generalized cross-validation",
+      "gcv": 1.0299240320532905,
+      "regularization_path": [
+        {
+          "regularizer": 1e-10,
+          "chi2": 0.9075437947174587,
+          "effective_dof": 215.42889118575573,
+          "gcv": 1.0534003915646064
+        },
+        {
+          "regularizer": 3.1622776601683795e-10,
+          "chi2": 0.910629072313281,
+          "effective_dof": 204.42481486225412,
+          "gcv": 1.0486768167181624
+        },
+        {
+          "regularizer": 1e-09,
+          "chi2": 0.9143809114863167,
+          "effective_dof": 193.42073854604573,
+          "gcv": 1.0447563924432477
+        },
+        {
+          "regularizer": 3.1622776601683795e-09,
+          "chi2": 0.918775155234247,
+          "effective_dof": 182.41666225291138,
+          "gcv": 1.0415933813433034
+        },
+        {
+          "regularizer": 1e-08,
+          "chi2": 0.9232638856109304,
+          "effective_dof": 171.412586032751,
+          "gcv": 1.0385541565921277
+        },
+        {
+          "regularizer": 3.162277660168379e-08,
+          "chi2": 0.9277726047028719,
+          "effective_dof": 160.40851004335826,
+          "gcv": 1.0355529782596622
+        },
+        {
+          "regularizer": 1e-07,
+          "chi2": 0.932741357891385,
+          "effective_dof": 149.40443478371907,
+          "gcv": 1.033076620121681
+        },
+        {
+          "regularizer": 3.162277660168379e-07,
+          "chi2": 0.9380628654748713,
+          "effective_dof": 138.40036183176363,
+          "gcv": 1.030995356184609
+        },
+        {
+          "regularizer": 1e-06,
+          "chi2": 0.9443089693484641,
+          "effective_dof": 127.39629617733797,
+          "gcv": 1.0299240320532905
+        },
+        {
+          "regularizer": 3.162277660168379e-06,
+          "chi2": 0.9563926035816089,
+          "effective_dof": 116.39225359965687,
+          "gcv": 1.035157304804111
+        },
+        {
+          "regularizer": 1e-05,
+          "chi2": 0.9887338777860699,
+          "effective_dof": 105.38828399633877,
+          "gcv": 1.062041025139007
+        },
+        {
+          "regularizer": 3.1622776601683795e-05,
+          "chi2": 1.102308086072503,
+          "effective_dof": 94.38454515110986,
+          "gcv": 1.1750848551502469
+        },
+        {
+          "regularizer": 0.0001,
+          "chi2": 1.579583318938151,
+          "effective_dof": 83.38153595595148,
+          "gcv": 1.6711899164111492
+        },
+        {
+          "regularizer": 0.00031622776601683794,
+          "chi2": 3.190054162509114,
+          "effective_dof": 72.38083340637162,
+          "gcv": 3.349742340718048
+        },
+        {
+          "regularizer": 0.001,
+          "chi2": 7.95079619518363,
+          "effective_dof": 61.38741801334484,
+          "gcv": 8.286449026501389
+        },
+        {
+          "regularizer": 0.0031622776601683794,
+          "chi2": 26.887951656934835,
+          "effective_dof": 50.416975917499215,
+          "gcv": 27.81499446768137
+        },
+        {
+          "regularizer": 0.01,
+          "chi2": 99.68374214397527,
+          "effective_dof": 39.51848264311763,
+          "gcv": 102.36279468875358
+        },
+        {
+          "regularizer": 0.03162277660168379,
+          "chi2": 296.65554562218125,
+          "effective_dof": 28.840764454655996,
+          "gcv": 302.4427129034632
+        },
+        {
+          "regularizer": 0.1,
+          "chi2": 835.147160182323,
+          "effective_dof": 18.8005903203837,
+          "gcv": 845.713892925071
+        }
+      ],
+      "note": "Ideal uniformly sampled frequency-domain convolution; excludes camera, pixel integration and illumination. Not the observed ring-image inverse."
+    },
+    "three_peak_benchmark": {
+      "relative_l2": 0.04935224508940176,
+      "recovered_area": 1.0004341700035946,
+      "regularizer": 3.1622776601683795e-05,
+      "chi2": 1.0371414080892536,
+      "negative_area": 0.04533817601674561,
+      "noise_sigma": 0.001,
+      "selection": "generalized cross-validation",
+      "gcv": 1.1056157318388058,
+      "regularization_path": [
+        {
+          "regularizer": 1e-10,
+          "chi2": 0.9858569609357375,
+          "effective_dof": 215.42889118575573,
+          "gcv": 1.1442997183399954
+        },
+        {
+          "regularizer": 3.1622776601683795e-10,
+          "chi2": 0.9916024631283765,
+          "effective_dof": 204.42481486225412,
+          "gcv": 1.1419254514264083
+        },
+        {
+          "regularizer": 1e-09,
+          "chi2": 0.9973584553504103,
+          "effective_dof": 193.42073854604573,
+          "gcv": 1.1395651513447604
+        },
+        {
+          "regularizer": 3.1622776601683795e-09,
+          "chi2": 1.0023852595544747,
+          "effective_dof": 182.41666225291138,
+          "gcv": 1.136380153468382
+        },
+        {
+          "regularizer": 1e-08,
+          "chi2": 1.0069441849198906,
+          "effective_dof": 171.412586032751,
+          "gcv": 1.1326838242057236
+        },
+        {
+          "regularizer": 3.162277660168379e-08,
+          "chi2": 1.0115243426052671,
+          "effective_dof": 160.40851004335826,
+          "gcv": 1.1290342485403513
+        },
+        {
+          "regularizer": 1e-07,
+          "chi2": 1.0163165121358242,
+          "effective_dof": 149.40443478371907,
+          "gcv": 1.1256419782914722
+        },
+        {
+          "regularizer": 3.162277660168379e-07,
+          "chi2": 1.0210878442609856,
+          "effective_dof": 138.40036183176363,
+          "gcv": 1.1222454959420096
+        },
+        {
+          "regularizer": 1e-06,
+          "chi2": 1.0252982360988936,
+          "effective_dof": 127.39629617733797,
+          "gcv": 1.1182561297799418
+        },
+        {
+          "regularizer": 3.162277660168379e-06,
+          "chi2": 1.0289350855926462,
+          "effective_dof": 116.39225359965687,
+          "gcv": 1.1136740978879653
+        },
+        {
+          "regularizer": 1e-05,
+          "chi2": 1.03245603437932,
+          "effective_dof": 105.38828399633877,
+          "gcv": 1.1090048493315778
+        },
+        {
+          "regularizer": 3.1622776601683795e-05,
+          "chi2": 1.0371414080892536,
+          "effective_dof": 94.38454515110986,
+          "gcv": 1.1056157318388058
+        },
+        {
+          "regularizer": 0.0001,
+          "chi2": 1.0516241856754742,
+          "effective_dof": 83.38153595595148,
+          "gcv": 1.1126122401294822
+        },
+        {
+          "regularizer": 0.00031622776601683794,
+          "chi2": 1.1490230282167746,
+          "effective_dof": 72.38083340637162,
+          "gcv": 1.2065409839469463
+        },
+        {
+          "regularizer": 0.001,
+          "chi2": 1.9175332432721592,
+          "effective_dof": 61.38741801334484,
+          "gcv": 1.9984843136366741
+        },
+        {
+          "regularizer": 0.0031622776601683794,
+          "chi2": 7.3471796228765545,
+          "effective_dof": 50.416975917499215,
+          "gcv": 7.60049568560811
+        },
+        {
+          "regularizer": 0.01,
+          "chi2": 35.650399184163426,
+          "effective_dof": 39.51848264311763,
+          "gcv": 36.6085222501971
+        },
+        {
+          "regularizer": 0.03162277660168379,
+          "chi2": 146.2754853039152,
+          "effective_dof": 28.840764454655996,
+          "gcv": 149.12903284447788
+        },
+        {
+          "regularizer": 0.1,
+          "chi2": 592.4764880677217,
+          "effective_dof": 18.8005903203837,
+          "gcv": 599.9728204559044
+        }
+      ],
+      "note": "Ideal uniformly sampled frequency-domain convolution; excludes camera, pixel integration and illumination. Not the observed ring-image inverse."
+    }
+  },
+  "runtime_seconds": 12.31259349999982
+}

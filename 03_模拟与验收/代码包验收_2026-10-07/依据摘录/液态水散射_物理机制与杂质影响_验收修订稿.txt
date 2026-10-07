@@ -1,0 +1,785 @@
+
+[PDF页 1]
+၁෿ඣೋ০҃৚ძ೛ഝ
+ᇅa໾ྟіᆘაᄖᇉ႕ཙ
+෬ರ௹ğ 2026 ୍ 10 ᄅ 6 ರ
+ᅋေ
+ೋ০–Ҁྐ༏bᇏနಣቆ
+ᅨ
+ࠣ
+ษંᄖ
+ॺ
+ّ
+ਈb
+ቔჰ
+ඍb
+Սğ၁෿ඣĠೋ০–؇
+ଢ੣
+1 ႄ࿽ 2
+2Ԥ 2
+3๤၂ 3
+4ᇶေ໓ངཌ෬ 5
+5႕ཙ 8
+6؇ק12
+7ඍ 13
+8ཟ 14
+9ં 16
+ҕॉ໓ང 17
+Ұඪૼ 19
+1
+
+[PDF页 2]
+۠ר
+1 ႄ࿽
+ੀุđ
+Ⴟ
+ࠞ
+ޡ
+ఏট [1, 2, 3]b
+ఃೋ০–࿹
+ᇗஆb
+၂҄
+๝ᆦӻb
+ᇅ–௶ཌіղ–ࢠ–֥
+గ
+೛
+ട၎a
+ਫ਼஥ᇂ਽րህ૊໓ᅣษંb
+2Ԥ
+2.1ݼ
+ڿ߶߄
+׈ࢺ
+၂Ϯ၁ุđหљ൞
+ᅨ
+༢ [2]b
+֩
+ಃ
+࿐ཙႋđਆᆀӵք҂๝
+ྐ༏b
+2.2ڂ
+đ
+ٳ
+௶ཌb
+৯࿐೛ഝa
+bCummins ა Gammonູၳ
+җჅӣή໪ಙ႕ཙ [2]ொ৖৘ં
+ࠏ
+ᇅཨാb
+2
+
+[PDF页 3]
+۠ר
+2.3აല࿐ԮѬ
+௔ੱ
+ӱb
+ބGHz༢
+აฐҩ༢๤ਆҧཙႋb
+bഡᆇॢೆഝѯӉູ 𝜆0đඣ
+ᅼഝੱູ 𝑛ູ 𝜃đᄵ
+𝑞 = 4𝜋𝑛
+𝜆0
+sin 𝜃
+2 ,
+𝜈𝐵 = 𝑐𝑠𝑞
+2𝜋 = 2𝑛𝑐 𝑠
+𝜆0
+sin 𝜃
+2 .
+(2.1)
+ᆃ৚ 𝜈𝐵एູ 2𝜈𝐵b𝜃ᇉଽ҆
+࣍ڸ
+bൔ (2.1)߄
+႕ཙ [2, 9, 16]b
+3๤၂
+3.1৯࿐
+ၹሰ 𝑆(𝑞,𝜔)đ
+ିਈ
+ཟԮѬല࿐ଆbMountain৯࿐
+৳༢ [1]b
+රbഡ௔ੱொ
+၍ູ 𝜈ඔཿູ
+𝐿 (𝜈; 𝜈𝑐, ℎ) = 1
+𝜋
+ℎ
+(𝜈 − 𝜈𝑐)2 + ℎ2 ,
+𝑆(𝜈) ≃ 𝐴𝑅 𝐿(𝜈; 0, ℎ𝑅) + 𝐴− 𝐿(𝜈; −𝜈𝐵, ℎ𝐵)
++ 𝐴+𝐿(𝜈; 𝜈𝐵, ℎ𝐵).
+(3.1)
+ൔᇏ ℎ ູၛ Hz϶ॺđ 𝐴b೏ 𝑆࿐೛ഝ
+௶đ ᄵ𝐴𝑅a𝐴− ა 𝐴+Ⴎൌҩ௶
+бđ္҂ିᄝ 𝑆ᇏᇗ
+ඣሑ෿
+ੰb
+3.2 ಣঔ೛აല࿐ቅୄ
+਷ 𝐷𝑇 = 𝜅/( 𝜌𝑐 𝑝) ູಣঔ೛ੱđ𝜌đ𝜅ੱđ𝑐 𝑝 ა 𝑐𝑣 ູᇉਈбಣಸđ𝛾 = 𝑐 𝑝/𝑐𝑣b
+ğ
+3
+
+[PDF页 4]
+۠ר
+𝑎𝑅 = 𝐷𝑇 𝑞2,
+𝑎 𝐵 = 𝑞2
+2
+[ 4𝜂/3 + 𝜁
+𝜌 + ( 𝛾 − 1)𝐷𝑇
+]
+.
+(3.2)
+ఃᇏ 𝜂 ა 𝜁đ𝑎𝑅 ა 𝑎 𝐵௔
+϶ॺb೏Ⴈ௴๙௔ੱ 𝜈϶ॺູ ℎ = 𝑎/(2𝜋)đಆॺ 𝑊 = 2ℎ = 𝑎/𝜋b
+֤֞
+𝑊𝑅 = 𝐷𝑇 𝑞2
+𝜋 ,
+𝑊𝐵 = 𝑞2
+2𝜋
+[ 4𝜂/3 + 𝜁
+𝜌 + ( 𝛾 − 1)𝐷𝑇
+]
+.
+(3.3)
+ࡧ
+Ⴈӿ
+შଆ྘bЧ໓ҐႨൔ (3.2)–(3.3)ၬĠ໓ངᇏ๝଀ Γࠇ
+ߐ޺ࢤ[3, 11, 12]b
+3.3 Landau–Placzekࡱ
+ၬູ
+𝑅LP = 𝐴𝑅
+𝐴− + 𝐴+
+,
+𝑅LP = 𝛾 − 1රĎ.
+(3.4)
+֞
+౵თႭఃླေ
+රb ၹՎđ ൌဒᆴა𝛾 − 1ൌ
+ࣟ[2, 7]b
+ᄝӈ࿢ඣჿ 4 ℃đุளᅮ༢ඔ 𝛼 𝑝ൔ 𝑐 𝑝 − 𝑐𝑣 = 𝑇 𝛼2
+𝑝/( 𝜌 𝜒𝑇 )č𝜒𝑇
+໑࿢෪ੱđ𝑐 𝑝, 𝑐𝑣࿐ѯӉ
+༯đ(𝜕𝜀/𝜕𝑇 ) 𝑝 = (𝜕𝜀/𝜕𝑇 )𝜌 − 𝜌𝛼 𝑝 (𝜕𝜀/𝜕 𝜌)𝑇Ⴎ𝛼 𝑝 = 0֞
+ܒࢲ
+[2, 7, 13]b
+3.4 ӿშଆ྘აቅୄཾᆒሰଆ྘
+ൈෛല࿐࿢
+b Mountain
+༢္ॖିэ
+߄[3]b
+༯૭ඍb Ⴈ𝜔𝜏ğ𝜔𝜏
+ჹཬႿ 1࣍ࢤ1Ġ ჹնႿ1ܴ
+4
+
+[PDF页 5]
+۠ר
+๝Ⴟֆ
+൰ଁb
+༅ [8, 11]ࢠ
+௔ੱa௶ཌቋնᆴ
+ሱႮ
+ᇅӮ৫b
+3.5ࢸ
+ሺཟԥିଆਈ 𝑀 ′ଆਈ 𝑀 ′′ཟ๝
+ර༯đ Ⴕ
+[32, 33]
+𝑀 ′ ≃ 𝜌
+( 2𝜋𝜈 𝐵
+𝑞
+) 2
+,
+𝑀 ′′ ≃ 𝜌(2𝜋)2𝜈𝐵𝑊𝐵
+𝑞2 , 𝑀 ′′
+𝑀 ′ ≃ 𝑊𝐵
+𝜈𝐵
+.
+(3.5)
+ᆃ৚ 𝑊𝐵 ൞ၛ Hzսೆb ሺཟଆਈડቀ
+𝑀 = 𝐾 + 4𝐺/3đ ఃᇏ𝐾a𝐺֥GHz ሺཟଆਈđ ѩ҂
+ਬđ ္҂ି
+ูս GHzෘ
+ൔ [32, 33]b
+4ᇶေ໓ངཌ෬
+4.1აಣ৯࿐૭ඍ
+ᆷ
+౦ྙ[2]Чေ
+൤b
+Zykovaᄝ 2017ਔ 249–365 Kೋ০–षᅋေᆷԛđൌဒ
+ҐႨ 0.1 GHzݔࢲ
+ٳ[7]ಣ৯࿐૭ඍđ ֌҂ିຓ๷ູ෮
+ӿშb
+ؓ
+đၛь
+b
+4.2ҩਈ
+Fryᄝ 2002ਔ 1–35 ℃؍
+ૼཁ [4]႕ཙല෎đ
+႕ཙല࿐ଆൔ൰ଁb
+5
+
+[PDF页 6]
+۠ר
+Xuᄝ 2003ڣࠣ
+؇[5]bᆃ่ਫ਼ཌ൐ 𝜁໾
+ൻೆbHeᄝ 2012؇[6]ਔਸ਼
+ࠣ
+b
+a϶ॺა
+ཌॺა𝑞2ჰ
+Ⴕၩၬb
+4.3іᆘ
+௝
+ਈbWangႿ 2023đ๙
+ਔൌဒᆣऌ[9]ປᆜ௶ྙ၇
+௶b
+Koestel ა Walther ᄝ 2024 ୍Ⴈ 530 nm֥179◦ਔ13a0–36 ppt
+၇ঠ [10]ބTropic
+Marin Pro ReefቔՂ NaClԛ 1.8–35 ℃҆
+ಏཿՖ 308 K ೡ૭ᇀ 271.4 Kčჿ −1.75 ℃Ď đਆԩ໑౵іඍ҂၂ᇁĠЧሸඍЌ਽ᆃ၂ҵၳđ҂
+ሑ෿ა
+ൌb
+ݔ
+ဆಯ
+b
+4.4৯࿐
+Y ahyaᄝ 2020ሰఏჷbᄝ 280–303 K
+ჿ 1–2 psྛб
+ࢠ[8]ሰ
+๭ཞb
+໓ᇏၛ 𝜁ၬb҂๝ଆ
+҂сᄝ
+э
+b
+Eichlerᄝ 2025೛ഝҩਈඣᇀ 1.6 GPa֐
+ჿ 0.5 GPaཬᆴ [11]іૼđ𝜂 ა 𝜁б২ѩ
+࿢གྷའॖႨႿ
+b
+6
+
+[PDF页 7]
+۠ר
+2017ა 2020a2025௶Գ१
+ᅶ෱
+b
+4.5ఓൕ
+Testiᄝ 2026ྟđѩ০
+ކ[12]ඔ
+ྟ္
+॥ᇅb
+4.6௔ല෎
+௝oဢ௖ಯ൞၁
+৏౵bCunsolo ა Nardone ᄝ 1996ਔჿ 30 ℃ ᇀ-26 ℃э೛ഝ
+ੀ
+༅ਔཌྷႋ೤೛ [25]ڿ
+৯࿐Գ१b
+Masciovecchioᄝ 2004࣮260–340 K৏౵
+ིႋ [24]bCunsolo֩1999ྟ Xᄵ
+؈ݖ֥[28]๝ᆦӻϜѯ
+ࡼTHzܻ࡮GHzෘb
+ӿშԳ१ൈđႋ๝ൈб
+֮
+აଆ྘၇ঠđ҂ି
+ྛູb
+4.7ӱ
+ਔਸ਼၂ো໾ྟྐ༏bDavitt֩
+2010ӱ [31]bᆃো
+ҕඔଢѓb
+Pallares֩2014ਔല
+ࢠ[26]b2016ܒ
+ᇀჿ-120 MPa߄[27]ҩॖ
+௝၂
+෮Ⴕಣ৯࿐ਈb
+ࠣ
+༯
+b
+7
+
+[PDF页 8]
+۠ר
+4.8oඣӿშp
+ࠇX
+p đ္҂ၩ
+ඔb
+Zeißler֩2026Ղඣა LiClࢌ֥ࡗ
+൤ [29]ቔႨႿඪૼ๙
+ં໓đ္҂ିႨః๼ொᆒ௶ᇏ
+ูսൔ (3.2)೛༢ඔb
+၂്҄
+൤b
+4.9؇
+Ⴈ๯აཋᇅ
+б [2, 7]ၬĠ҂ି
+ۚڂࢠ
+აཌॺ [4, 5, 8, 10]Ġ๤
+აѯ൏
+ა࿷ቆӮ [9, 10, 18, 19]ຓᇏန೛
+ഝ
+৏აല෎೤೛ [24, 25, 28]Ⴈ
+GHz ა THz
+࿢ [11, 26, 27, 31]ӱ ቔູሑ෿ঔᅚĠ҂ูսӈ࿢
+ൌҩ
+ࠀ
+؇
+[2, 20, 21, 23,
+31]
+֥
+ིႋਈ҂ॖᅶϬ
+৯࿐ა๙
+ҵၳ
+[8, 29]קࡗ
+ၬေ၂ᇁ
+5႕ཙ
+5.1໾৘໙ี
+эᅼഝੱa ല
+ਬ௔
+ଽ
+ᄝ໾ྟb
+ࣟ
+Ⴛ
+8
+
+[PDF页 9]
+۠ר
+൤
+ಆ҆௶ཌb
+ྐ༏
+э໾ྟĠᄹ
+ᅨઋ೛
+ഝ
+৫ᅼ
+ഝੱྐ༏
+ุა॒
+৬
+ᇏနત೛ഝa
+఼೛ഝ
+ࣥ
+ྐ༏
+೛గஞ ᅼഝੱ҂नᄋĠ
+߄
+ಸఖ৥
+ൎ
+э໾ྟĠॖ
+႐
+ܻ
+Ⴕ
+໾ྐ༏
+૫
+ࣟ
+ѯ൏Ġ఼
+ྟແ҆
+ӱaҩਈ໊ᇂაཙ
+༅
+ླႄႨཌྷႋ
+॥ᇅ္҂ିูս໾ྟҩਈ [2, 18, 19, 20, 21, 22, 23, 30, 31]b
+5.2ಣ࿐ྐ༏
+Cummins ა Gammonิྜ [2]֥Davitt֩2010
+௜
+ቔູ௔ੱҕॉđ෱ѩ҂
+؇[31]ބ
+Ⴈ๯b
+౯ྙ॒৬đᄝ
+ࣥ𝑎 ა௜၍ঔ೛༢ඔ 𝐷 𝑝 ડቀ Stokes–Einstein༢Ġֆ
+ੱູ 𝐷 𝑝𝑞2[22]ğ
+𝐷 𝑝 = 𝑘B𝑇
+6𝜋𝜂𝑎 ,
+𝑎 𝑝 = 𝐷 𝑝𝑞2, 𝑊 𝑝 = 𝐷 𝑝𝑞2
+𝜋 .
+(5.1)
+ൔᇏ 𝑊 𝑝 ູၛ Hz॒৬೛ഝಆॺđ𝑎 𝑝֥𝑞2 ѓ
+౯ྙིႋđՎൈ҂ି
+ඔսіಆ॒҆৬b
+đ౼ 𝑇 ჿ 298 Ka𝜂 ჿ 0.89 mPacsࣥ50 nmaᆇॢѯӉ 532 nma𝑛 ჿ
+1.333࢘90°֤֞𝑞 ჿ 2.23 × 107 m−1đ𝐷 𝑝 ჿ 4.9 × 10−12 m2/sႋ𝑊 𝑝 ჿ 0.8 kHzb
+9
+
+[PDF页 10]
+۠ר
+ಣঔ೛ੱ 𝐷𝑇 ჿ 1.4 × 10−7 m2/sđᄵ๝၂ѯ൏༯ 𝑊𝑅 ჿ 22 MHzҵ
+۬IAPWSෘ [13, 14, 15, 16, 22]b
+ၹՎđMHz೐
+ॖҩྟbཬ॒
+֥RayleighҵĠ҂ିႮ॒৬ඔഒь๷
+గஞb
+đ ѩ
+Ϝᇏန
+ཨാb
+5.3ѩթ
+эਈ𝐶ངğ
+𝛿𝜀 ≃
+( 𝜕𝜀
+𝜕 𝜌
+)
+𝑇 ,𝐶
+𝛿𝜌 +
+( 𝜕𝜀
+𝜕𝑇
+)
+𝜌,𝐶
+𝛿𝑇
++
+( 𝜕𝜀
+𝜕𝐶
+)
+𝜌,𝑇
+𝛿𝐶.
+(5.2)
+ҭཛbൔ (5.2)ཌྟіղđѩ҂ଏಪ෮
+৫bZhang ა Hu2009๼ொ
+؇[17]b
+Zhangຶଽđ ૡ
+֝[18]၂҄ᆷԛđ҂๝࿷ቆ
+೛ഝđNaClሰ೛ഝ
+ࡆ[19]Ϝఃሹ
+b
+ಣঔ
+࿷ᇕaൌ
+৖
+b
+֥𝑛ӫູᄮലĠ ᄝᇏ
+໊a
+߄[9, 10, 18, 19]b
+5.4੻
+ު
+࿐೛ഝbZhang֩1998
+ҐႨ Mie೛ഝ [20]࣮
+҃৚ძ༂ҵb
+10
+
+[PDF页 11]
+۠ר
+Duval֩2012 ୍ህ૊Ⴈೋ০–࣮LiCl ა NaClӱđѩഡᇂ
+đ
+൤ູ
+ᅨઋ [21]b
+aሇ
+đ҂ିϜ෮Ⴕᇏန
+b೏
+ဢ௖đ๝
+ൌဒb
+5.5ࣟ
+b USGSႿඣᇏ
+႕ཙ [30]bЧ໓ႄႨ
+ಠb
+ೆ෮ҩ GHzؿ
+ॖ
+Ұඣჷa
+ஆԢđ္
+ၹ෍b
+bAmo ა Tominaga
+Կa ၙԿa1-ѤԿa2-ۡLandau⚶Placzekሰᇕো
+ᅨઋ৳༢ఏট [34]ଆൔაՂඣಣଆ
+ሰ
+b
+5.6ྙሑ
+ٚ
+୑ྟі
+ൕູ
+𝑆mix(𝜈) =
+∫
+𝑝(𝑞)𝑆(𝑞, 𝜈) d𝑞,
+∫
+𝑝(𝑞) d𝑞 = 1. (5.3)
+ൔᇏ p(𝑞)ᇗ೛ഝൻᄎଆ྘b
+Mattarelli֩2022đѩ
+ང [23]ொҵඔ
+ඣb
+აၘᆩಷᇉ
+bᄝЌӻֆՑ
+ྟb
+11
+
+[PDF页 12]
+۠ר
+5.7൤
+৖೛
+ੲაຂగԩ৘a ಸ
+ط
+ჿඏb
+ԩ৘৥ൎbᆺႵಒ
+б
+ၩၬb
+6؇ק
+6.1໊აല෎
+Ⴎൔ (2.1)ࢨ
+ԮѬğ
+( 𝜎𝑐𝑠
+𝑐𝑠
+) 2
+≃
+( 𝜎𝜆
+𝜆0
+) 2
++
+( 𝜎𝜈
+𝜈𝐵
+) 2
++
+( 𝜎𝑛
+𝑛
+) 2
++
+[ 1
+2 cot 𝜃
+2 𝜎𝜃
+] 2
+.
+(6.1)
+ҵཛbᆃ൞ൔ (2.1)༂ҵԮѬđ҂
+b
+҃đ҂ିऌՎ
+Ղඣđ IAPWSҕॉ
+[13, 16]षᇿૼb
+6.2აಣঔ೛ੱ
+ಒູЧᆘಣঔ೛ଆđ౏ః 𝑊𝑅৖đൔ (3.3)ԛ 𝐷𝑇 = 𝜋𝑊𝑅/𝑞2ࣉ
+၂҄౰ 𝜅ླေ 𝜌ބ𝑐 𝑝ҩ
+b
+ჿ
+ॺᇂྐ
+bIAPWSҕॉᆴ҂
+ൻԛ [13, 15]b
+6.3؇
+ᄝൔ (3.2)–(3.3)ॖཿູ
+𝜁 = 𝜌
+[ 2𝜋𝑊𝐵
+𝑞2 − ( 𝛾 − 1)𝐷𝑇
+]
+− 4
+3 𝜂. (6.2)
+12
+
+[PDF页 13]
+۠ר
+ൔ (6.2)іૼđ𝜁টሱ𝑊𝐵đ ္টሱ𝑞a𝜌a𝜂a
+𝛾ބ𝐷𝑇ྛ
+ර [11]࡟֥ׄ
+Ұb
+IAPWS؇[14]Ⴈoඣ
+ປӮ 𝜁b೏Ϝ 𝜁ູ 𝜂֥
+ކ𝜁Ұֆ
+໾৘ၩၬb
+6.4აॖя്ྟ
+Ұਆҧ၂ᇁྟĠ
+၂Ҫ୅
+ቔቋᇔ໾ྟ༂ҵb
+֥
+đҕඔಯॖି҂ື၂bॖҐႨ௩૫රಖaҕ
+Фॖ
+֥׿𝜂 ა 𝜁ԛಆ҆ҕඔb
+6.5ࠩ
+bႨປ
+࢘
+၂҄
+൤b
+໾ྟҕඔொҵb৘ંყҩა
+ѩ
+ູ๝၂ᇕoሙಒp b
+7ඍ
+7.1ቔႨ
+ೡ૭ Fabry–Pérot௶ྐ༏ሇ
+༅ൈႋૼಒඔऌ൞௔ੱೡ૭a
+ჿඏb
+7.2 ඣᇏ೛ഝ௶აॢగᇏ၎ఖཙႋ
+ട၎స
+ॖၛіൕູ
+𝑦 𝑗 =
+∫
+𝐾 𝑗 (𝜈)𝑆water(𝜈) d𝜈 + 𝑏 𝑗 + 𝜖 𝑗 . (7.1)
+13
+
+[PDF页 14]
+۠ר
+ఃᇏ 𝐾 𝑗ฐҩིႋđ𝑏 𝑗đ𝜖 𝑗 ູᄮലbᆃ၂၂ົ
+൐𝑞੻đ
+ؓ𝑆water(𝑞, 𝜈)௔ੱቕ
+ཙႋ
+ቔཌྟ௔ੱቕѓb
+7.3ဆ
+ݦ
+bKoestel ა
+Waltherර [10]đTestiކ[12]๝ေ౰൞
+Ⴎᆞᄵ
+b
+༢bKoestel ა Waltherඣ҃৚
+؇[10]෮Ⴈ໑
+৫௔ੱҕॉb
+8ཟ
+8.1টჷಯླૼಒ
+ҩਈa ဢ
+ҕ
+൤b
+8.2၇ঠཙႋᆩ്
+රđ
+ຶଽೡ૭
+ંđ֌҂ି
+৫཮ሙb
+8.3ဒ
+ൈ
+अ҆
+ࠇڂކ
+b
+8.4ଢѓ
+Чᆘ௶ଆ྘đᄜႨЇ
+ല
+ಣ
+ิ౼b
+14
+
+[PDF页 15]
+۠ר
+ഒҕඔb
+ೂ
+ંb
+8.5໙ี
+ൈđ҃৚
+Ġ೏
+b
+ିაսіྟඣඔऌ၂ᇁĤᆃ
+༢bᆺႵඔऌॖ
+ൌဒҌႵၩၬb
+ۡ
+ھ
+ჹb
+ቔ
+ྐ༏ᅚ
+षb
+ᆇॢѯӉa
+֥Hz/϶
+ॺ/ҵb2025ູ҃৚ძҩਈิ
+ࡏ[32]ՂඣൈđႋЌ਽ᆃུॖሔිေ౰đѩοඣဢ໙ี౼ചఃᇏ૫ཟള໾Ӯ
+ཛଢb
+8.6ഡ
+၂҄ຉᅚൈđ ॖ
+đ҂๝࿷ቆӮ
+ࠒ
+ࡌ
+p b
+ੲa
+ᅶđ
+൮༵ཋᇅ
+b
+֥ק
+ьໃ
+҂Ϝ໭ཁᇷҵၳіඍູປಆીႵ໾৘
+ቔႨb
+15
+
+[PDF页 16]
+۠ר
+9ં
+ೋ০–ԛ೘
+ູᆰ
+b
+గஞॖཁᇷ
+ݼ
+భཟଆ
+೛
+ඨ྽b
+16
+
+[PDF页 17]
+۠ר
+ҕॉ໓ང
+[1] MOUNTAIN R D. Spectral distribution of scattered light in a simple fluid[J]. Reviews of Modern Physics,
+1966, 38(1): 205–214. DOI: 10.1103/RevModPhys.38.205.
+[2] CUMMINS H Z, GAMMON R W. Rayleigh and Brillouin scattering in liquids: The Landau–Placzek ratio[J].
+The Journal of Chemical Physics, 1966, 44(7): 2785–2796. DOI: 10.1063/1.1727126.
+[3] MOUNTAIN R D. Thermal relaxation and Brillouin scattering in liquids[J]. Journal of Research of the National
+Bureau of Standards Section A, 1966, 70A(3): 207–220. DOI: 10.6028/jres.070A.017.
+[4] FRY E S, KATZ J W, LIU D, et al. Temperature dependence of the Brillouin linewidth in water[J]. Journal of
+Modern Optics, 2002, 49(3–4): 411–418. DOI: 10.1080/09500340110088551.
+[5] XU J, REN X, GONG W, et al. Measurement of the bulk viscosity of liquid by Brillouin scattering[J]. Applied
+Optics, 2003, 42(33): 6704–6709. DOI: 10.1364/AO.42.006704.
+[6] HE X, WEI H, SHI J, et al. Experimental measurement of bulk viscosity of water based on stimulated Brillouin
+scattering[J]. Optics Communications, 2012, 285(20): 4120–4124. DOI: 10.1016/j.optcom.2012.05.062.
+[7] ZYKOV A V A, KARPEGINA Y A, MALINOVSKY V K, et al. Temperature dependence of the Landau-
+Placzek ratio in liquid water[J]. Physical Review E, 2017, 96: 042608. DOI: 10.1103/PhysRevE.96.042608.
+[8] YAHYA A, TAN L, PERTICAROLI S, et al. Molecular origins of bulk viscosity in liquid water[J]. Physical
+Chemistry Chemical Physics, 2020, 22(17): 9494–9502. DOI: 10.1039/D0CP01560A.
+[9] W ANG Y Q, ZHANG J H, ZHENG Y C, et al. Brillouin scattering spectrum for liquid detection and applica-
+tions in oceanography[J]. Opto-Electronic Advances, 2023, 6(1): 220016. DOI: 10.29026/oea.2023.220016.
+іರ௹ູ 2022 ୍ 8 ᄅ 26ႄႨb
+[10] KOESTEL D, W ALTHER T. The Brillouin linewidth in water as a function of temperature and salinity: The
+missing empirical relationship[J]. Applied Physics B, 2024, 130: 53. DOI: 10.1007/s00340-024-08189-x.
+[11] EICHLER J, STEFANSKI J, MARTIN ROCA J, et al. Shear and bulk viscosities of water up to 1.6 GPa and
+anomaly in the structural relaxation time[J]. Physical Review Letters, 2025, 134: 134101. DOI: 10.1103/Phys-
+RevLett.134.134101.۠arXiv:2603.17793࠹
+ඔb
+[12] TESTI C, PONTECORVO E, BARTOLI C, et al. Stabilized real-time Brillouin microscopy reveals frac-
+tal organization of protein condensates in living cells[J]. Nature Communications, 2026, 17: 2387. DOI:
+10.1038/s41467-026-68984-2.b
+[13] IAPWS. Revised release on the IAPWS formulation 1995 for the thermodynamic properties of ordinary water
+substance for general and scientific use[R]. R6-95(2018), 2018.ሧਘ.
+[14] IAPWS. Release on the IAPWS formulation 2008 for the viscosity of ordinary water substance[R]. R12-08,
+2008.ሧਘ.
+[15] IAPWS. Release on the IAPWS formulation 2011 for the thermal conductivity of ordinary water substance[R].
+R15-11, 2011.ሧਘ.
+[16] IAPWS. Release on the refractive index of ordinary water substance as a function of wavelength, temperature
+and pressure[R]. R9-97, 1997.ࡱ.
+[17] ZHANG X, HU L. Estimating scattering of pure water from density fluctuation of the refractive index[J]. Optics
+Express, 2009, 17(3): 1671–1678. DOI: 10.1364/OE.17.001671.
+[18] ZHANG X, HU L, HE M X. Scattering by pure seawater: Effect of salinity[J]. Optics Express, 2009, 17(7):
+5698–5710. DOI: 10.1364/OE.17.005698.
+[19] ZHANG X, HU L, TW ARDOWSKI M S, et al. Scattering by solutions of major sea salts[J]. Optics Express,
+2009, 17(22): 19580–19585. DOI: 10.1364/OE.17.019580.
+[20] ZHANG X, LEWIS M, JOHNSON B. Influence of bubbles on scattering of light in the ocean[J]. Applied
+Optics, 1998, 37(27): 6525–6536. DOI: 10.1364/AO.37.006525.
+17
+
+[PDF页 18]
+۠ר
+[21] DUV AL E, ADICHTCHEV S, SIROTKIN S, et al. Long-lived submicrometric bubbles in very diluted
+alkali halide water solutions[J]. Physical Chemistry Chemical Physics, 2012, 14(12): 4125–4132. DOI:
+10.1039/C2CP22858K.
+[22] PECORA R. Doppler Shifts in Light Scattering from Pure Liquids and Polymer Solutions[J]. The Journal of
+Chemical Physics, 1964, 40(6): 1604–1614. DOI: 10.1063/1.1725368.
+[23] MATTARELLI M, CAPPONI G, PASSERI A A, et al. Disentanglement of Multiple Scattering Contribution
+in Brillouin Microscopy[J]. ACS Photonics, 2022, 9(6): 2087–2091. DOI: 10.1021/acsphotonics.2c00322. ቔ
+ี଀ູ Brillouin imaging in turbid samples: the removal of multiple scattering contributionؓނ
+ο 2022 ୍ႄႨb
+[24] MASCIOVECCHIO C, SANTUCCI S C, GESSINI A, et al. Structural Relaxation in Liquid Water by Inelastic
+UV Scattering[J]. Physical Review Letters, 2004, 92(25): 255507. DOI: 10.1103/PhysRevLett.92.255507.
+[25] CUNSOLO A, NARDONE M. Velocity dispersion and viscous relaxation in supercooled water[J]. The Journal
+of Chemical Physics, 1996, 105(10): 3911–3917. DOI: 10.1063/1.472263.
+[26] PALLARES G, EL MEKKI AZOUZI M, GONZÁLEZ M A, et al. Anomalies in bulk supercooled water at
+negative pressure[J]. Proceedings of the National Academy of Sciences, 2014, 111(22): 7936–7941. DOI:
+10.1073/pnas.1323366111. 2013ა 2014၂Ցb
+[27] PALLARES G, GONZALEZ M A, ABASCAL J L F, et al. Equation of state for water and its line of den-
+sity maxima down to -120 MPa[J]. Physical Chemistry Chemical Physics, 2016, 18(8): 5896–5900. DOI:
+10.1039/C5CP07580G.
+[28] CUNSOLO A, RUOCCO G, SETTE F, et al. Experimental Determination of the Structural Relaxation in Liquid
+Water[J]. Physical Review Letters, 1999, 82(4): 775–778. DOI: 10.1103/PhysRevLett.82.775. ჰ໓ਸ਼Ⴕ 1999
+୍ा༂ğPhysical Review Letters, 82: 2810đDOI: 10.1103/PhysRevLett.82.2810࠹گ
+ඔb
+[29] ZEISSLER R, PABST F, BLOCHOWICZ T. A fresh perspective on water dynamics in aqueous lithium chloride
+solutions[J]. Chemical Physics Letters, 2026, 885: 142602. DOI: 10.1016/j.cplett.2025.142602. DOIݣ
+2025ູ2026Ġ2025ี଀ູ A Fresh Perspective on Water Dynamics in Aqueous
+Salt Solutionsb
+[30] BOOTH A, FLECK J, PELLERIN B A, et al. Field techniques for fluorescence measurements targeting dis-
+solved organic matter, hydrocarbons, and wastewater in environmental waters: Principles and guidelines for
+instrument selection, operation and maintenance, quality assurance, and data reporting[R]. U.S. Geological
+Survey, Techniques and Methods 1-D11, 2023. DOI: 10.3133/tm1D11.
+[31] DA VITT K, ROLLEY E, CAUPIN F, et al. Equation of state of water under negative pressure[J]. The Journal
+of Chemical Physics, 2010, 133(17): 174507. DOI: 10.1063/1.3495971.
+[32] Bouvet Pierre; Bevilacqua Carlo; Ambekar Y ogeshwari et al.. Consensus statement on Brillouin light scattering
+microscopy of biological materials. Nature Photonics, 2025, 19: 681-691. DOI: 10.1038/s41566-025-01681-6.
+[33] Kabakova Irina; Zhang Jitao; Xiang Yuchen et al.. Brillouin microscopy. Nature Reviews Methods Primers,
+2024, 4: 8. DOI: 10.1038/s43586-023-00286-z.
+[34] Amo Yuko; Tominaga Y asunori. The Landau ⚶Placzek ratio of water ⚶alcohol binary mixtures. Chemical
+Physics Letters, 2000, 332: 521 ⚶524. DOI: 10.1016/S0009-2614(00)01292-6.
+18
+
+[PDF页 19]
+۠ר
+Ұඪૼ
+෬ರ௹ູ2026 ୍ 10 ᄅ 6ಆ
+෬ຶಡliquid wateraRayleigh–BrillouinaLandau–Placzek ratioalinewidthabulk viscositya
+supercooled waterasalinityadustabubblesބmultiple scattering܄
+ਙೆ 29 ௉ં໓ა 5܋34 ཛট
+ჷbՎՑྍᄹ 3ඣ–b
+29 ௉ં໓ᇏđ15षಆ໓ PDFđ1Ҁԉሧਘđ2 ௉
+ઋđ11്໓ང[32]ሸඍ [33]љοಆ
+໓ຩ်აಆ໓ PDF࣮[34]ઋটჷູ [2, 19]Ġ
+Ⴕᅋေটჷູ [1, 4, 5, 6, 7, 20, 22, 24, 25, 28]bIAPWSࡱ[13, 14, 15, 16]ࠣUSGSࡱ[30] ၘ
+bྍ
+đჰঔᅚϱሧਘЇЌ਽ູ৥ൎϱЧb
+॒৬ა
+ۚ
+ຶđन҂ቔູЧज़ีၘ
+b
+19

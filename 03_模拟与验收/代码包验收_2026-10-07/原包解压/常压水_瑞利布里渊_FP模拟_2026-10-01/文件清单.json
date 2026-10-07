@@ -1,0 +1,672 @@
+[
+  {
+    "path": "交接_常压水中瑞利布里渊散射与空气中FP模拟修正_2026-10-01.md",
+    "bytes": 11451,
+    "sha256": "E74646813A77436C25ED34FD8CB1C0BA287ADF38D57AF6964A0E74B0098CA276"
+  },
+  {
+    "path": "说明_常压水模型方法与结果.md",
+    "bytes": 14936,
+    "sha256": "67220B3558B66B1B16EE1DB678ECCD265CE1EDED5205F6D809CE7B13621EB1C2"
+  },
+  {
+    "path": "运行水模拟.cmd",
+    "bytes": 384,
+    "sha256": "2CDFF9372CEAA6B9E3E6F9792DD665AC14C75EDAF0AC484344BC72A20C599CDC"
+  },
+  {
+    "path": "README_水模型.md",
+    "bytes": 1738,
+    "sha256": "4A3A17159F0BB793D25ABDB7FC581584152906366844E396D6259AB9A1E30415"
+  },
+  {
+    "path": "README.md",
+    "bytes": 1738,
+    "sha256": "4A3A17159F0BB793D25ABDB7FC581584152906366844E396D6259AB9A1E30415"
+  },
+  {
+    "path": "requirements_water.txt",
+    "bytes": 155,
+    "sha256": "7CBA433E289745C449F9F9430D5FC7D0B6D5384661785BC68742E428F632E692"
+  },
+  {
+    "path": "run_water_simulation.py",
+    "bytes": 29148,
+    "sha256": "F282C392B0E947E8713D5A38633F8FBBCD30CCAE54270CD558BA60BB3F401794"
+  },
+  {
+    "path": ".water_deps\\iapws\\__init__.py",
+    "bytes": 9195,
+    "sha256": "915EBB7F0F7127174DECC740E52D03E2C6135461575F6DC173BCF7849BE77F1F"
+  },
+  {
+    "path": ".water_deps\\iapws\\_iapws.py",
+    "bytes": 51863,
+    "sha256": "9E077AFB6634E0A54C26206162959E1DD5FB560FB328FC2117F80C7F087CF4EA"
+  },
+  {
+    "path": ".water_deps\\iapws\\_iapws97Constants.py",
+    "bytes": 68442,
+    "sha256": "0AF0556E4448AA3D61AD96CCF6EFCAC552F43FB02D7C111F9245871DD59DB8EE"
+  },
+  {
+    "path": ".water_deps\\iapws\\_utils.py",
+    "bytes": 10157,
+    "sha256": "F946C8D31262517F2F6B8676261AFEBB24EA06DB03B67BBA2BC51837283EFF76"
+  },
+  {
+    "path": ".water_deps\\iapws\\ammonia.py",
+    "bytes": 21035,
+    "sha256": "620B1762EA8783D55F155D33B20D81B0F4B260788D96235F4363E62395B15BB3"
+  },
+  {
+    "path": ".water_deps\\iapws\\humidAir.py",
+    "bytes": 33710,
+    "sha256": "ADC8E3A0DC339AC1F2EDA132225ADB9A3C0974506BA53DEEC353A775E43706FE"
+  },
+  {
+    "path": ".water_deps\\iapws\\iapws08.py",
+    "bytes": 24526,
+    "sha256": "0913ADDF889E8E35DC2A82B66E9F4791BC931806058AF07E53380AC1318CDEDD"
+  },
+  {
+    "path": ".water_deps\\iapws\\iapws95.py",
+    "bytes": 106695,
+    "sha256": "89EDB7C0E3B77533319D253819CDB4C1DA50775D2E7B324249574607D6790520"
+  },
+  {
+    "path": ".water_deps\\iapws\\iapws97.py",
+    "bytes": 107602,
+    "sha256": "9272A239BBE9245AD71AFA747B211E68A1FDDEA097966FB098E55BCB9B098F9E"
+  },
+  {
+    "path": ".water_deps\\iapws\\VERSION",
+    "bytes": 6,
+    "sha256": "04C93B7E7635A43D0CB6D097F9AF0A72A9973041D11847E521CC682F1668C605"
+  },
+  {
+    "path": ".water_deps\\iapws-1.5.5.dist-info\\INSTALLER",
+    "bytes": 4,
+    "sha256": "CEEBAE7B8927A3227E5303CF5E0F1F7B34BB542AD7250AC03FBCDE36EC2F1508"
+  },
+  {
+    "path": ".water_deps\\iapws-1.5.5.dist-info\\METADATA",
+    "bytes": 6622,
+    "sha256": "CF357FE11585EE3671D2D5C502AAF2C19A1A39C5C5B9A6473DBF6F6294F90D72"
+  },
+  {
+    "path": ".water_deps\\iapws-1.5.5.dist-info\\RECORD",
+    "bytes": 1731,
+    "sha256": "F60BEB374FB0C0613AF0FCD95EC666D936C5660FCC2B3A72920B2E3B53C0FDF2"
+  },
+  {
+    "path": ".water_deps\\iapws-1.5.5.dist-info\\REQUESTED",
+    "bytes": 0,
+    "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+  },
+  {
+    "path": ".water_deps\\iapws-1.5.5.dist-info\\top_level.txt",
+    "bytes": 6,
+    "sha256": "5EC0CB1F7B9BC2FF6587FE7ED59C069963B51487D01D7F1E2819AE0D25CD70CC"
+  },
+  {
+    "path": ".water_deps\\iapws-1.5.5.dist-info\\WHEEL",
+    "bytes": 91,
+    "sha256": "69E6228A0D35958183CC1812F07C565CE837B95EB51BD8A33ACBA9FA4F68D6C9"
+  },
+  {
+    "path": ".water_deps\\iapws-1.5.5.dist-info\\licenses\\LICENSE",
+    "bytes": 35120,
+    "sha256": "FE3EEA6C599E23A00C08C5F5CB2320C30ADC8F8687DB5FCEC9B79A662C53FF6B"
+  },
+  {
+    "path": "docs\\superpowers\\plans\\2026-09-30-rb-fp-plan.md",
+    "bytes": 2548,
+    "sha256": "80C46114B23684DE34010637FB79DB134BFF93EBF589F7F8658EF926BB14F55C"
+  },
+  {
+    "path": "docs\\superpowers\\plans\\2026-10-01-water-rb-fp-plan.md",
+    "bytes": 964,
+    "sha256": "F1DB06B68B64A0BF51B08252E5B9CF9653E3F57B0B5E4329C04C4EEF79EF9166"
+  },
+  {
+    "path": "docs\\superpowers\\specs\\2026-09-30-rb-fp-design.md",
+    "bytes": 3664,
+    "sha256": "D527F9B7259C61448108C8F99A6722591A234B5D41554F3981B6D0C08B8676DA"
+  },
+  {
+    "path": "docs\\superpowers\\specs\\2026-10-01-water-rb-fp-design.md",
+    "bytes": 2156,
+    "sha256": "F7B819DC69205DB4E672186AC88955FF8DD47F030CB689ADA2A4CCFEC4B37E70"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\交接_常压水中瑞利布里渊散射与空气中FP模拟修正_2026-10-01.md",
+    "bytes": 11451,
+    "sha256": "E74646813A77436C25ED34FD8CB1C0BA287ADF38D57AF6964A0E74B0098CA276"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\说明_模型方法与结果.md",
+    "bytes": 20637,
+    "sha256": "6B3AE7A9403D7F7F5312CB7079E87D0BF3928BB943D9469E4A014FD90CFF6C42"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\文件清单.json",
+    "bytes": 9906,
+    "sha256": "57DFAAD136D22C63125DC96D7EAA681A9DE9E106FC0A3B0EE22A934C89F21095"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\AGENTS.md",
+    "bytes": 403,
+    "sha256": "6AEE8E7E11862E3DC3FB60522937CC0F1764A67D6C7B13160C71073F73B84FE7"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\README.md",
+    "bytes": 1531,
+    "sha256": "F6DE260154C6DFF9A1ACEB4A91D342A05FDA3C49F277862463A32CC77DE9275A"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\requirements.txt",
+    "bytes": 39,
+    "sha256": "7CC847F469ABD8E2960E6DF3ADB43D1912E58BE89BDED9007D9C3E1D363FD459"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\run_simulation.py",
+    "bytes": 28119,
+    "sha256": "F073755E8FD9D4D38EFE1107DE14C19E731A2BFD988E19B5050BD7A445106867"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\docs\\superpowers\\plans\\2026-09-30-rb-fp-plan.md",
+    "bytes": 2548,
+    "sha256": "80C46114B23684DE34010637FB79DB134BFF93EBF589F7F8658EF926BB14F55C"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\docs\\superpowers\\specs\\2026-09-30-rb-fp-design.md",
+    "bytes": 3664,
+    "sha256": "D527F9B7259C61448108C8F99A6722591A234B5D41554F3981B6D0C08B8676DA"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\output\\rb_fp_simulation.zip",
+    "bytes": 25107453,
+    "sha256": "CE36464593BA837B1F087C6047B72DB11E32E31B7BAE76AC6AB4A547CFF0DA4B"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\output\\rb_fp\\验证报告.md",
+    "bytes": 6102,
+    "sha256": "F171A4C461B72765D3043D82F01EC82E5363222AE4B439C70B0AA9E640C2E0D9"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\output\\rb_fp\\high_pressure_expected_image.npy",
+    "bytes": 4718720,
+    "sha256": "38443C756DBEE173DE3C95568B027F16F48349F3A410FF2738FD11D3533BFC78"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\output\\rb_fp\\high_pressure_noisy_image.png",
+    "bytes": 465883,
+    "sha256": "F8839A357466866198FF8C4C6EA06CC284A37EDCEEC9B1794162FB0C4CFCF914"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\output\\rb_fp\\high_pressure_observed_image_electrons.npy",
+    "bytes": 4718720,
+    "sha256": "85AC3989C567E4CC87146CD8318BA3A5912C2CF7E86DFCF420852EE52B414C25"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\output\\rb_fp\\high_pressure_profile.csv",
+    "bytes": 44068,
+    "sha256": "162F25579CD84ED55BEB5B47217BBD4CC02F1C82EC08966C239960DE2884B137"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\output\\rb_fp\\high_pressure_spectrum.csv",
+    "bytes": 304611,
+    "sha256": "EC644705C6780DA7CA7129630799A9B08F500434D2AC3B2F1CE80F31E0B05CF7"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\output\\rb_fp\\high_pressure_wiener_control.csv",
+    "bytes": 305954,
+    "sha256": "89D3D1CFA22B1ABA5B731FC6E4EA329C008787C0D207EFBF7690EAA9F0B766C2"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\output\\rb_fp\\instrument_and_convolution.png",
+    "bytes": 129800,
+    "sha256": "652A4F9BD84A896B682860679D42DC9F3475F5E1B9454F0126B158084DDF9072"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\output\\rb_fp\\low_pressure_expected_image.npy",
+    "bytes": 4718720,
+    "sha256": "CA743FE8E115E08C656C347C6734B2461218598817CAFBF0F62EE3D814E07CC7"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\output\\rb_fp\\low_pressure_observed_image_electrons.npy",
+    "bytes": 4718720,
+    "sha256": "B4C8BE003F638F562E10DE01BA8CDFFD4810390A00A8C0BEF5DC6123DB9FF3CC"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\output\\rb_fp\\low_pressure_profile.csv",
+    "bytes": 44068,
+    "sha256": "8F2D8C1E58F978C7631D6335955594C4AF20C662D1884551CFF39773EB59B25E"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\output\\rb_fp\\low_pressure_spectrum.csv",
+    "bytes": 304611,
+    "sha256": "F25097C2E84A3D28E7DB7D39573DA2B65A47D0F96C80419C1904B28C66EB7D99"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\output\\rb_fp\\low_pressure_wiener_control.csv",
+    "bytes": 305712,
+    "sha256": "945D388226B4C8F46CBB93863A61180157C74984D70CC99C8F257177C6ADD2E9"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\output\\rb_fp\\metrics.json",
+    "bytes": 34951,
+    "sha256": "AF2044D07DBFE328661A68896109A5404B3849556196AAA7E9D014152E781950"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\output\\rb_fp\\monte_carlo_high_pressure.json",
+    "bytes": 2709,
+    "sha256": "05CB89EC406AA682CD99DAABCD39F9A2EE892CF9BD2EF43DBB948ECA9D43DDA9"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\output\\rb_fp\\monte_carlo_low_pressure.json",
+    "bytes": 1505,
+    "sha256": "5F0F1AC899570827E7E7F57E309A1BB1C4BDAF1C6F0B64DE5B8E6B2F7DF14244"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\output\\rb_fp\\overview.png",
+    "bytes": 920162,
+    "sha256": "201BD133AA2B16DEF4FC20191B8917A6171FE00EC873DB2E4BA20069811565B0"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\output\\rb_fp\\parameters.json",
+    "bytes": 1031,
+    "sha256": "22BB57D40356DD4EC575EFC97240053874E6C9F1739E412D0DF83397B261EF8A"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\output\\rb_fp\\residuals.png",
+    "bytes": 107490,
+    "sha256": "29A3C9B84FB8267ADE7483B88FE588E3AE536DE6C9CBE2A0A967CCA03CCC9C35"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\output\\rb_fp\\sensitivity_detuning_plus_0p1GHz.csv",
+    "bytes": 30957,
+    "sha256": "2D7564D1645C29503FB545D195843560CFE998126EFFE1C7A572391E4A27E220"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\output\\rb_fp\\sensitivity_finesse_assumed_25.csv",
+    "bytes": 30957,
+    "sha256": "11317A39C11F4FA52F96D568987BEC1F5F29C48D7C51D2CA0F5FA83A3205039F"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\output\\rb_fp\\sensitivity_focal_length_plus_1pct.csv",
+    "bytes": 30957,
+    "sha256": "F37892F79402127EC8CCCCB2E20484D95337C76CF722F32447D9634BC09D7939"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\output\\rb_fp\\sensitivity_low_counts_25.csv",
+    "bytes": 30957,
+    "sha256": "39AC29DA6405D1476E4E0804C3B9A2CB2F92F5B8C93578DA4FCA46D63E818FA3"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\output\\rb_fp\\sensitivity_nominal.csv",
+    "bytes": 30957,
+    "sha256": "E54C5EB916EB057852E8517E850B16C8891BEAF7ACFCEE52BA9EC512F1AF242C"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\output\\rb_fp\\sensitivity_psf_ignored.csv",
+    "bytes": 30957,
+    "sha256": "460D81980A983E207874641BA4C4E2576B507351A4DF9077EFF8358965DEC791"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\output\\rb_fp\\sensitivity.png",
+    "bytes": 286016,
+    "sha256": "28B249A4A20E72C050BFE69A250A54719782C428A731A51768D75C63723D3516"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\output\\rb_fp\\three_peak_benchmark_expected_image.npy",
+    "bytes": 4718720,
+    "sha256": "268CF714916B26E201674DB8704D3068F5F98BCEADB43C8DF270047A7D80E5EB"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\output\\rb_fp\\three_peak_benchmark_observed_image_electrons.npy",
+    "bytes": 4718720,
+    "sha256": "A4E7EBA4A15D2A86221879C5F5132C4F60823E5453A9B6891B8CDA1A842340FE"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\output\\rb_fp\\three_peak_benchmark_profile.csv",
+    "bytes": 44068,
+    "sha256": "21AA1B6C8D5437EBEDB55BDE5D6A8C640CA6DC7837DEFFB45C3F9030401D16F9"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\output\\rb_fp\\three_peak_benchmark_spectrum.csv",
+    "bytes": 305715,
+    "sha256": "462D89370334DD3F4BBE2340B149A092F302E6C5EDD76829FBD002006605F479"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\output\\rb_fp\\three_peak_benchmark_wiener_control.csv",
+    "bytes": 305829,
+    "sha256": "E3EED5859CED2AE9F1B938AE680F60DF9583E32EB8F84468E9106A8CF071000B"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\output\\rb_fp\\wiener_control.png",
+    "bytes": 187379,
+    "sha256": "7BCF5A717A0097D652122CA767F140715AC366B3325380F2E9A8C654B26349AF"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\reference\\89101E.pdf",
+    "bytes": 306926,
+    "sha256": "B6D44A053FD86C6CD8C6847525EEA53E15CECCA49B348B09BBDFF3CFE2163886"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\simulation\\__init__.py",
+    "bytes": 82,
+    "sha256": "0DB7520BB136C25BFB384F72622C1AD0932955A1FD50D9DABBAE060B2E56511F"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\simulation\\imaging.py",
+    "bytes": 4776,
+    "sha256": "D0D2C077256A4A48450D6E6F500AD95275626275D69A82237838C841B3C2DD4C"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\simulation\\inverse.py",
+    "bytes": 5466,
+    "sha256": "93D64C6C18D631D048E3CE851557BBEC1972A82C98D1D7E7AFBCF679D6CDBA96"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\simulation\\physics.py",
+    "bytes": 6819,
+    "sha256": "A9AB16A73EE6388953A951A9EC830206D298248A8266E46BF811B1B4CD776EDE"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\tests\\test_simulation.py",
+    "bytes": 8259,
+    "sha256": "E2A11CE47FF29282D4421C426632870C885082CE3912FA2FE00E13485DFF01BE"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\tmp\\pdfs\\paper-contact.png",
+    "bytes": 1206129,
+    "sha256": "7B31C67454BF168BA1F4F043F43CA9BE7AB93574C7DE5518C8A8E1911921FFF7"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\tmp\\pdfs\\paper-page-1.png",
+    "bytes": 391808,
+    "sha256": "C6B8023000E8E9F96F9D7048DDA8C6D671599525DDD73483F2A8C750B19F230A"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\tmp\\pdfs\\paper-page-2.png",
+    "bytes": 296425,
+    "sha256": "158EF0D65CDA8BF8951C56DD0AE92250BBCFDF96804CBBF41FF42E799A1F0AAF"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\tmp\\pdfs\\paper-page-3.png",
+    "bytes": 224355,
+    "sha256": "58566DF1E399A008A7D1F0A9BF9A257D91A057193844BD60F54A3E3515A75175"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\tmp\\pdfs\\paper-page-4.png",
+    "bytes": 326703,
+    "sha256": "8A806DF2DECDD9562E78A9FB44790E0EB2EC73EC54B4A16427B88DC66426FF15"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\tmp\\pdfs\\paper-page-5.png",
+    "bytes": 240694,
+    "sha256": "C94EA7B8CB947CC43E2292D708E4C6A2177A9B5CD556628E312D1B0E147DF384"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\tmp\\pdfs\\paper-page-6.png",
+    "bytes": 267714,
+    "sha256": "72A37AB3F0BD2E39D552AF2A2064D67A3D78BF9F4DFB9AAC1E030D1FB107CAAF"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\tmp\\pdfs\\paper-page-7.png",
+    "bytes": 323021,
+    "sha256": "054B834C4F7DD11F819A02A44B9CF8B7E51557F3C8885D327852969EFB5E9F88"
+  },
+  {
+    "path": "history\\旧气体版完整交付\\tmp\\pdfs\\paper-page-8.png",
+    "bytes": 166495,
+    "sha256": "781EE6A29C6C366CA08E6E4067BA1EB6A2B5372B84E47D0AF2D6A4A7B3212D71"
+  },
+  {
+    "path": "output\\water_rb_fp\\验证结果.md",
+    "bytes": 3239,
+    "sha256": "094F415A348FFFE2FAEE8D637AFFA5857DA7238384358463CCFC0BB1C0527B89"
+  },
+  {
+    "path": "output\\water_rb_fp\\coverage_scans.json",
+    "bytes": 81382,
+    "sha256": "D61690AD7EF04AA59498A6D79A098CBBAA116B084628794FCDE5B336F70585F3"
+  },
+  {
+    "path": "output\\water_rb_fp\\metrics.json",
+    "bytes": 171114,
+    "sha256": "0077266AB07F038E324F3A06834D78C946A1F364A6E388F89BC3FAA937308C59"
+  },
+  {
+    "path": "output\\water_rb_fp\\parameters.json",
+    "bytes": 1216,
+    "sha256": "B582C8D56E0AEBD5AAD4B537CC4E556BE7C045F711C05B7FC4F686BCE3C6CC30"
+  },
+  {
+    "path": "output\\water_rb_fp\\water_180deg_expected_image.npy",
+    "bytes": 4718720,
+    "sha256": "8318333A0AC507787D21749D0F4965E49F24670C2C513A638F4A35CEE9780061"
+  },
+  {
+    "path": "output\\water_rb_fp\\water_180deg_folded_spectrum.csv",
+    "bytes": 459075,
+    "sha256": "4BA1A95BC4A123CDFD91172F76F004D58CFFCF25532F83846623664B48F6654C"
+  },
+  {
+    "path": "output\\water_rb_fp\\water_180deg_observed_image_electrons.npy",
+    "bytes": 4718720,
+    "sha256": "6909FAFE2DF282BE8A763B4F9F6CDB370151545DCAD6FE0BCEF342325F18726F"
+  },
+  {
+    "path": "output\\water_rb_fp\\water_180deg_radial_profile.csv",
+    "bytes": 52932,
+    "sha256": "3ECB182EA6B40840F954FD563584F9EA7FFBC6ED1C78694C6CEF0F636A65B452"
+  },
+  {
+    "path": "output\\water_rb_fp\\water_180deg_unfolded_spectrum.csv",
+    "bytes": 1563656,
+    "sha256": "F9E448F48B4A01BAB6FA8714B6775E4A486FE3D4C4801E382F451C0B71B83706"
+  },
+  {
+    "path": "output\\water_rb_fp\\water_90deg_expected_image.npy",
+    "bytes": 4718720,
+    "sha256": "8FDD3EB39604D58590BC14353E333C223E2283D3D7E453790B5552B2AD19E10A"
+  },
+  {
+    "path": "output\\water_rb_fp\\water_90deg_folded_spectrum.csv",
+    "bytes": 459075,
+    "sha256": "B0A40F5953C00029DC4A33F9ED3B1A7A0F5600316EE8CA754AC46E3A38B6ECF6"
+  },
+  {
+    "path": "output\\water_rb_fp\\water_90deg_observed_image_electrons.npy",
+    "bytes": 4718720,
+    "sha256": "5EF114DFFF2FB259107D62A207D7D5B50DA8EFAD9D2027E54E8C0F6318580F94"
+  },
+  {
+    "path": "output\\water_rb_fp\\water_90deg_radial_profile.csv",
+    "bytes": 52932,
+    "sha256": "D4221DCCD872899F43C1A92E16A07F9B04652A73D5E694B3D177F92F10EFA31C"
+  },
+  {
+    "path": "output\\water_rb_fp\\water_90deg_unfolded_spectrum.csv",
+    "bytes": 1563656,
+    "sha256": "38E81B5FDC08C2B94A174D2A0749F74A989D5367F462A1BED3C05CED8AE6D7D7"
+  },
+  {
+    "path": "output\\water_rb_fp\\water_angular_2deg_expected_image.npy",
+    "bytes": 4718720,
+    "sha256": "49789A2AD9C5FD58332F3DF55FBE5EF59762B4FF220AF3E74F613490F4ECA2C2"
+  },
+  {
+    "path": "output\\water_rb_fp\\water_angular_2deg_folded_spectrum.csv",
+    "bytes": 459075,
+    "sha256": "A3A8865B0C45E6F33D9B9CC2B3E9F4068565AEB83DEF4CB471027D865501EE93"
+  },
+  {
+    "path": "output\\water_rb_fp\\water_angular_2deg_observed_image_electrons.npy",
+    "bytes": 4718720,
+    "sha256": "8668BC16FB7A205D3BDE81EC608334059BE3300EC895A1E5F28A4C03CDFB6406"
+  },
+  {
+    "path": "output\\water_rb_fp\\water_angular_2deg_radial_profile.csv",
+    "bytes": 52932,
+    "sha256": "B7D24EDB974AE6123374C4A2BDAC22F34E755AF1CD5D6C3F6F049B38F5AE1573"
+  },
+  {
+    "path": "output\\water_rb_fp\\water_angular_2deg_unfolded_spectrum.csv",
+    "bytes": 1563656,
+    "sha256": "8C7D972D9A72A735A82B37BC6A983DD161557C2020FDC1BA4A1E084B81EFD1E7"
+  },
+  {
+    "path": "output\\water_rb_fp\\water_elastic_10percent_expected_image.npy",
+    "bytes": 4718720,
+    "sha256": "515A004874938257A36E385755641CB76065E7AB424673AC8EA721A0E224DDEC"
+  },
+  {
+    "path": "output\\water_rb_fp\\water_elastic_10percent_folded_spectrum.csv",
+    "bytes": 459075,
+    "sha256": "1D80AD57266B96E3130C0B677EBD53929A3B56E410C7BE349EE2E2E9D0515735"
+  },
+  {
+    "path": "output\\water_rb_fp\\water_elastic_10percent_observed_image_electrons.npy",
+    "bytes": 4718720,
+    "sha256": "38609BEEE4120CC481605E4284A3F3DE00978B11FEFA11B628FB7EC5475AA2B6"
+  },
+  {
+    "path": "output\\water_rb_fp\\water_elastic_10percent_radial_profile.csv",
+    "bytes": 52932,
+    "sha256": "6E504B86D37438EBC50A3E2BDDBD7F560DB2F05FC8A53CEAAE986CD2F05D5C2E"
+  },
+  {
+    "path": "output\\water_rb_fp\\water_elastic_10percent_unfolded_spectrum.csv",
+    "bytes": 1563656,
+    "sha256": "1913D1EABADF7D83F99D2D1AFB2C290C356A0D9800C3996560F512F8E09A4E3B"
+  },
+  {
+    "path": "output\\water_rb_fp\\water_fov_and_fsr.png",
+    "bytes": 106062,
+    "sha256": "1EAE0461283DB47AF23EFF6976408FC30F894CC379D42F248C654BCA4C2F6571"
+  },
+  {
+    "path": "output\\water_rb_fp\\water_interference_images.png",
+    "bytes": 1197627,
+    "sha256": "4676DFD37ED4809A52336B6E48576133AECC1789B23999AD053770BE7C0DACF3"
+  },
+  {
+    "path": "output\\water_rb_fp\\water_mismatch_sensitivity.png",
+    "bytes": 70954,
+    "sha256": "113F99C8158683BE8055BD1F44EEFA26817EABE428FD14954BB8F1B64601243D"
+  },
+  {
+    "path": "output\\water_rb_fp\\water_spectra_and_recovery.png",
+    "bytes": 538947,
+    "sha256": "683FEA0FE4326D88093B8B69A5778177F1487CC26CB1E7FC7C73ABD707D969F3"
+  },
+  {
+    "path": "reference\\89101E.pdf",
+    "bytes": 306926,
+    "sha256": "B6D44A053FD86C6CD8C6847525EEA53E15CECCA49B348B09BBDFF3CFE2163886"
+  },
+  {
+    "path": "reference\\paper_pages\\paper-contact.png",
+    "bytes": 1206129,
+    "sha256": "7B31C67454BF168BA1F4F043F43CA9BE7AB93574C7DE5518C8A8E1911921FFF7"
+  },
+  {
+    "path": "reference\\paper_pages\\paper-page-1.png",
+    "bytes": 391808,
+    "sha256": "C6B8023000E8E9F96F9D7048DDA8C6D671599525DDD73483F2A8C750B19F230A"
+  },
+  {
+    "path": "reference\\paper_pages\\paper-page-2.png",
+    "bytes": 296425,
+    "sha256": "158EF0D65CDA8BF8951C56DD0AE92250BBCFDF96804CBBF41FF42E799A1F0AAF"
+  },
+  {
+    "path": "reference\\paper_pages\\paper-page-3.png",
+    "bytes": 224355,
+    "sha256": "58566DF1E399A008A7D1F0A9BF9A257D91A057193844BD60F54A3E3515A75175"
+  },
+  {
+    "path": "reference\\paper_pages\\paper-page-4.png",
+    "bytes": 326703,
+    "sha256": "8A806DF2DECDD9562E78A9FB44790E0EB2EC73EC54B4A16427B88DC66426FF15"
+  },
+  {
+    "path": "reference\\paper_pages\\paper-page-5.png",
+    "bytes": 240694,
+    "sha256": "C94EA7B8CB947CC43E2292D708E4C6A2177A9B5CD556628E312D1B0E147DF384"
+  },
+  {
+    "path": "reference\\paper_pages\\paper-page-6.png",
+    "bytes": 267714,
+    "sha256": "72A37AB3F0BD2E39D552AF2A2064D67A3D78BF9F4DFB9AAC1E030D1FB107CAAF"
+  },
+  {
+    "path": "reference\\paper_pages\\paper-page-7.png",
+    "bytes": 323021,
+    "sha256": "054B834C4F7DD11F819A02A44B9CF8B7E51557F3C8885D327852969EFB5E9F88"
+  },
+  {
+    "path": "reference\\paper_pages\\paper-page-8.png",
+    "bytes": 166495,
+    "sha256": "781EE6A29C6C366CA08E6E4067BA1EB6A2B5372B84E47D0AF2D6A4A7B3212D71"
+  },
+  {
+    "path": "simulation\\__init__.py",
+    "bytes": 235,
+    "sha256": "3604BA3B2F139C4670C743A0BF2D423AD498ADC93DD58CFE1B6D1FE04359B6F8"
+  },
+  {
+    "path": "simulation\\imaging.py",
+    "bytes": 6508,
+    "sha256": "9714693EAE56E9735F83FF6FD1F9E0095B4EB5C6D59CA79C37EFBB3F865B1F00"
+  },
+  {
+    "path": "simulation\\inverse.py",
+    "bytes": 6470,
+    "sha256": "F9F8B5C7F182E30820592E0ECCA720C0524CA5D62EEFE54FCFC24CFBD1614D8D"
+  },
+  {
+    "path": "simulation\\physics.py",
+    "bytes": 8985,
+    "sha256": "E1D39FD93CF969A1716C7957B7F856633E66D06C682A384233542DF63E1CF627"
+  },
+  {
+    "path": "tests\\test_simulation.py",
+    "bytes": 9733,
+    "sha256": "EBF455DC2FF6E859AEE3477760C4128C8187DA56D1A7497F1555D3FCDBDA0E22"
+  },
+  {
+    "path": "tests\\test_water.py",
+    "bytes": 6096,
+    "sha256": "9FCB0FC98053EC5462CB75ABF71A67B939E7795E7E151231FDA5E6FCF981FF9D"
+  },
+  {
+    "path": "water_simulation\\__init__.py",
+    "bytes": 258,
+    "sha256": "070766D2AFABE0ACF6CFFC28D5C507C606B15B8DA316C8457C82C0ABAD6F62C0"
+  },
+  {
+    "path": "water_simulation\\inverse.py",
+    "bytes": 3113,
+    "sha256": "AE8DA81441EC7758D906A70CDDEB4FC06B1DD09B86B7A687D6BF61B37CB26997"
+  },
+  {
+    "path": "water_simulation\\physics.py",
+    "bytes": 15287,
+    "sha256": "2A5DCDD8FC2110382DDC35B7D2235518A038CD9074971838D51059C21A11A0EC"
+  },
+  {
+    "path": "_验证\\交付复核.json",
+    "bytes": 1505,
+    "sha256": "36397DB2896FEC79FED85843F460F7E84C50D240EA414FC23121EE594F68FDE0"
+  },
+  {
+    "path": "_验证\\自动检查日志.txt",
+    "bytes": 3413,
+    "sha256": "8DCA20146F9099A935B8DF069B1879D4D48BCE45D1EB2E8E7A0465DC0F2F40F7"
+  }
+]

@@ -1,0 +1,281 @@
+{
+  "files": [
+    {
+      "file": "AGENTS.md",
+      "bytes": 403,
+      "sha256": "6aee8e7e11862e3dc3fb60522937cc0f1764a67d6c7b13160c71073f73b84fe7"
+    },
+    {
+      "file": "README.md",
+      "bytes": 1531,
+      "sha256": "f6de260154c6dff9a1aceb4a91d342a05fda3c49f277862463a32cc77de9275a"
+    },
+    {
+      "file": "requirements.txt",
+      "bytes": 39,
+      "sha256": "7cc847f469abd8e2960e6df3adb43d1912e58be89bded9007d9c3e1d363fd459"
+    },
+    {
+      "file": "run_simulation.py",
+      "bytes": 28119,
+      "sha256": "f073755e8fd9d4d38efe1107de14c19e731a2bfd988e19b5050bd7a445106867"
+    },
+    {
+      "file": "说明_模型方法与结果.md",
+      "bytes": 20637,
+      "sha256": "6b3ae7a9403d7f7f5312cb7079e87d0bf3928bb943d9469e4a014fd90cff6c42"
+    },
+    {
+      "file": "output\\rb_fp_simulation.zip",
+      "bytes": 25107453,
+      "sha256": "ce36464593ba837b1f087c6047b72db11e32e31b7bae76ac6ab4a547cff0da4b"
+    },
+    {
+      "file": "simulation\\imaging.py",
+      "bytes": 4776,
+      "sha256": "d0d2c077256a4a48450d6e6f500ad95275626275d69a82237838c841b3c2dd4c"
+    },
+    {
+      "file": "simulation\\inverse.py",
+      "bytes": 5466,
+      "sha256": "93d64c6c18d631d048e3ce851557bbec1972a82c98d1d7e7afbcf679d6cdba96"
+    },
+    {
+      "file": "simulation\\physics.py",
+      "bytes": 6819,
+      "sha256": "a9ab16a73ee6388953a951a9ec830206d298248a8266e46bf811b1b4cd776ede"
+    },
+    {
+      "file": "simulation\\__init__.py",
+      "bytes": 82,
+      "sha256": "0db7520bb136c25bfb384f72622c1ad0932955a1fd50d9dabbae060b2e56511f"
+    },
+    {
+      "file": "tests\\test_simulation.py",
+      "bytes": 8259,
+      "sha256": "e2a11ce47ff29282d4421c426632870c885082ce3912fa2fe00e13485dff01be"
+    },
+    {
+      "file": "tmp\\pdfs\\paper-contact.png",
+      "bytes": 1206129,
+      "sha256": "7b31c67454bf168ba1f4f043f43ca9be7ab93574c7de5518c8a8e1911921fff7"
+    },
+    {
+      "file": "tmp\\pdfs\\paper-page-1.png",
+      "bytes": 391808,
+      "sha256": "c6b8023000e8e9f96f9d7048dda8c6d671599525ddd73483f2a8c750b19f230a"
+    },
+    {
+      "file": "tmp\\pdfs\\paper-page-2.png",
+      "bytes": 296425,
+      "sha256": "158ef0d65cda8bf8951c56dd0ae92250bbcfdf96804cbbf41ff42e799a1f0aaf"
+    },
+    {
+      "file": "tmp\\pdfs\\paper-page-3.png",
+      "bytes": 224355,
+      "sha256": "58566df1e399a008a7d1f0a9bf9a257d91a057193844bd60f54a3e3515a75175"
+    },
+    {
+      "file": "tmp\\pdfs\\paper-page-4.png",
+      "bytes": 326703,
+      "sha256": "8a806df2decdd9562e78a9fb44790e0eb2ec73ec54b4a16427b88dc66426ff15"
+    },
+    {
+      "file": "tmp\\pdfs\\paper-page-5.png",
+      "bytes": 240694,
+      "sha256": "c94ea7b8cb947cc43e2292d708e4c6a2177a9b5cd556628e312d1b0e147df384"
+    },
+    {
+      "file": "tmp\\pdfs\\paper-page-6.png",
+      "bytes": 267714,
+      "sha256": "72a37ab3f0bd2e39d552af2a2064d67a3d78bf9f4dfb9aac1e030d1fb107caaf"
+    },
+    {
+      "file": "tmp\\pdfs\\paper-page-7.png",
+      "bytes": 323021,
+      "sha256": "054b834c4f7dd11f819a02a44b9cf8b7e51557f3c8885d327852969efb5e9f88"
+    },
+    {
+      "file": "tmp\\pdfs\\paper-page-8.png",
+      "bytes": 166495,
+      "sha256": "781ee6a29c6c366ca08e6e4067ba1eb6a2b5372b84e47d0af2d6a4a7b3212d71"
+    },
+    {
+      "file": "output\\rb_fp\\high_pressure_expected_image.npy",
+      "bytes": 4718720,
+      "sha256": "38443c756dbee173de3c95568b027f16f48349f3a410ff2738fd11d3533bfc78"
+    },
+    {
+      "file": "output\\rb_fp\\high_pressure_noisy_image.png",
+      "bytes": 465883,
+      "sha256": "f8839a357466866198ff8c4c6ea06cc284a37edceec9b1794162fb0c4cfcf914"
+    },
+    {
+      "file": "output\\rb_fp\\high_pressure_observed_image_electrons.npy",
+      "bytes": 4718720,
+      "sha256": "85ac3989c567e4cc87146cd8318ba3a5912c2cf7e86dfcf420852ee52b414c25"
+    },
+    {
+      "file": "output\\rb_fp\\high_pressure_profile.csv",
+      "bytes": 44068,
+      "sha256": "162f25579cd84ed55beb5b47217bbd4cc02f1c82ec08966c239960de2884b137"
+    },
+    {
+      "file": "output\\rb_fp\\high_pressure_spectrum.csv",
+      "bytes": 304611,
+      "sha256": "ec644705c6780da7ca7129630799a9b08f500434d2ac3b2f1ce80f31e0b05cf7"
+    },
+    {
+      "file": "output\\rb_fp\\high_pressure_wiener_control.csv",
+      "bytes": 305954,
+      "sha256": "89d3d1cfa22b1aba5b731fc6e4ea329c008787c0d207efbf7690eaa9f0b766c2"
+    },
+    {
+      "file": "output\\rb_fp\\instrument_and_convolution.png",
+      "bytes": 129800,
+      "sha256": "652a4f9bd84a896b682860679d42dc9f3475f5e1b9454f0126b158084ddf9072"
+    },
+    {
+      "file": "output\\rb_fp\\low_pressure_expected_image.npy",
+      "bytes": 4718720,
+      "sha256": "ca743fe8e115e08c656c347c6734b2461218598817cafbf0f62ee3d814e07cc7"
+    },
+    {
+      "file": "output\\rb_fp\\low_pressure_observed_image_electrons.npy",
+      "bytes": 4718720,
+      "sha256": "b4c8be003f638f562e10de01ba8cdffd4810390a00a8c0bef5dc6123db9ff3cc"
+    },
+    {
+      "file": "output\\rb_fp\\low_pressure_profile.csv",
+      "bytes": 44068,
+      "sha256": "8f2d8c1e58f978c7631d6335955594c4af20c662d1884551cff39773eb59b25e"
+    },
+    {
+      "file": "output\\rb_fp\\low_pressure_spectrum.csv",
+      "bytes": 304611,
+      "sha256": "f25097c2e84a3d28e7db7d39573da2b65a47d0f96c80419c1904b28c66eb7d99"
+    },
+    {
+      "file": "output\\rb_fp\\low_pressure_wiener_control.csv",
+      "bytes": 305712,
+      "sha256": "945d388226b4c8f46cbb93863a61180157c74984d70cc99c8f257177c6add2e9"
+    },
+    {
+      "file": "output\\rb_fp\\metrics.json",
+      "bytes": 34951,
+      "sha256": "af2044d07dbfe328661a68896109a5404b3849556196aaa7e9d014152e781950"
+    },
+    {
+      "file": "output\\rb_fp\\monte_carlo_high_pressure.json",
+      "bytes": 2709,
+      "sha256": "05cb89ec406aa682cd99daabcd39f9a2ee892cf9bd2ef43dbb948eca9d43dda9"
+    },
+    {
+      "file": "output\\rb_fp\\monte_carlo_low_pressure.json",
+      "bytes": 1505,
+      "sha256": "5f0f1ac899570827e7e7f57e309a1bb1c4bdaf1c6f0b64de5b8e6b2f7df14244"
+    },
+    {
+      "file": "output\\rb_fp\\overview.png",
+      "bytes": 920162,
+      "sha256": "201bd133aa2b16def4fc20191b8917a6171fe00ec873db2e4ba20069811565b0"
+    },
+    {
+      "file": "output\\rb_fp\\parameters.json",
+      "bytes": 1031,
+      "sha256": "22bb57d40356dd4ec575efc97240053874e6c9f1739e412d0df83397b261ef8a"
+    },
+    {
+      "file": "output\\rb_fp\\residuals.png",
+      "bytes": 107490,
+      "sha256": "29a3c9b84fb8267ade7483b88fe588e3ae536de6c9cbe2a0a967cca03ccc9c35"
+    },
+    {
+      "file": "output\\rb_fp\\sensitivity.png",
+      "bytes": 286016,
+      "sha256": "28b249a4a20e72c050bfe69a250a54719782c428a731a51768d75c63723d3516"
+    },
+    {
+      "file": "output\\rb_fp\\sensitivity_detuning_plus_0p1GHz.csv",
+      "bytes": 30957,
+      "sha256": "2d7564d1645c29503fb545d195843560cfe998126effe1c7a572391e4a27e220"
+    },
+    {
+      "file": "output\\rb_fp\\sensitivity_finesse_assumed_25.csv",
+      "bytes": 30957,
+      "sha256": "11317a39c11f4fa52f96d568987bec1f5f29c48d7c51d2ca0f5fa83a3205039f"
+    },
+    {
+      "file": "output\\rb_fp\\sensitivity_focal_length_plus_1pct.csv",
+      "bytes": 30957,
+      "sha256": "f37892f79402127ec8ccccb2e20484d95337c76cf722f32447d9634bc09d7939"
+    },
+    {
+      "file": "output\\rb_fp\\sensitivity_low_counts_25.csv",
+      "bytes": 30957,
+      "sha256": "39ac29da6405d1476e4e0804c3b9a2cb2f92f5b8c93578da4fca46d63e818fa3"
+    },
+    {
+      "file": "output\\rb_fp\\sensitivity_nominal.csv",
+      "bytes": 30957,
+      "sha256": "e54c5eb916eb057852e8517e850b16c8891beaf7acfcee52ba9ec512f1af242c"
+    },
+    {
+      "file": "output\\rb_fp\\sensitivity_psf_ignored.csv",
+      "bytes": 30957,
+      "sha256": "460d81980a983e207874641ba4c4e2576b507351a4df9077eff8358965dec791"
+    },
+    {
+      "file": "output\\rb_fp\\three_peak_benchmark_expected_image.npy",
+      "bytes": 4718720,
+      "sha256": "268cf714916b26e201674db8704d3068f5f98bceadb43c8df270047a7d80e5eb"
+    },
+    {
+      "file": "output\\rb_fp\\three_peak_benchmark_observed_image_electrons.npy",
+      "bytes": 4718720,
+      "sha256": "a4e7eba4a15d2a86221879c5f5132c4f60823e5453a9b6891b8cda1a842340fe"
+    },
+    {
+      "file": "output\\rb_fp\\three_peak_benchmark_profile.csv",
+      "bytes": 44068,
+      "sha256": "21aa1b6c8d5437ebedb55bde5d6a8c640ca6dc7837deffb45c3f9030401d16f9"
+    },
+    {
+      "file": "output\\rb_fp\\three_peak_benchmark_spectrum.csv",
+      "bytes": 305715,
+      "sha256": "462d89370334dd3f4bbe2340b149a092f302e6c5edd76829fbd002006605f479"
+    },
+    {
+      "file": "output\\rb_fp\\three_peak_benchmark_wiener_control.csv",
+      "bytes": 305829,
+      "sha256": "e3eed5859ced2ae9f1b938ae680f60df9583e32eb8f84468e9106a8cf071000b"
+    },
+    {
+      "file": "output\\rb_fp\\wiener_control.png",
+      "bytes": 187379,
+      "sha256": "7bcf5a717a0097d652122ca767f140715ac366b3325380f2e9a8c654b26349af"
+    },
+    {
+      "file": "output\\rb_fp\\验证报告.md",
+      "bytes": 6102,
+      "sha256": "f171a4c461b72765d3043d82f01ec82e5363222ae4b439c70b0aa9e640c2e0d9"
+    },
+    {
+      "file": "docs\\superpowers\\plans\\2026-09-30-rb-fp-plan.md",
+      "bytes": 2548,
+      "sha256": "80c46114b23684de34010637fb79db134bff93ebf589f7f8658ef926bb14f55c"
+    },
+    {
+      "file": "docs\\superpowers\\specs\\2026-09-30-rb-fp-design.md",
+      "bytes": 3664,
+      "sha256": "d527f9b7259c61448108c8f99a6722591a234b5d41554f3981b6d0c08b8676da"
+    },
+    {
+      "file": "reference/89101E.pdf",
+      "bytes": 306926,
+      "sha256": "b6d44a053fd86c6cd8c6847525eea53e15cecca49b348b09bbdff3cfe2163886"
+    }
+  ],
+  "source_workspace": "C:\\Users\\HUAWEI\\.codex\\.chatgpt-projects\\g-p-6abca8f4279481918c72f27817064873",
+  "verified_count": 55
+}

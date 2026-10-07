@@ -1,0 +1,86 @@
+[
+  {
+    "shift_ghz": 0.044657743122636956,
+    "brillouin_ghz": 0.7891233647099727,
+    "rayleigh_hwhm_ghz": 0.03501692222216241,
+    "brillouin_hwhm_ghz": 0.02324039515966872,
+    "amplitude": 0.9997999850036527
+  },
+  {
+    "shift_ghz": 0.044670682760364504,
+    "brillouin_ghz": 0.789173311858813,
+    "rayleigh_hwhm_ghz": 0.034765331322830946,
+    "brillouin_hwhm_ghz": 0.023384335234432195,
+    "amplitude": 0.9998986662694144
+  },
+  {
+    "shift_ghz": 0.04465380146614253,
+    "brillouin_ghz": 0.7889103918046717,
+    "rayleigh_hwhm_ghz": 0.03508943747512207,
+    "brillouin_hwhm_ghz": 0.023549671238766976,
+    "amplitude": 0.9999853901640249
+  },
+  {
+    "shift_ghz": 0.044862845768128996,
+    "brillouin_ghz": 0.7890747493959247,
+    "rayleigh_hwhm_ghz": 0.035409938639134955,
+    "brillouin_hwhm_ghz": 0.023592676603803465,
+    "amplitude": 1.0001139692426155
+  },
+  {
+    "shift_ghz": 0.04473728207293907,
+    "brillouin_ghz": 0.7891444756808188,
+    "rayleigh_hwhm_ghz": 0.034983284901229025,
+    "brillouin_hwhm_ghz": 0.02352518800110261,
+    "amplitude": 1.0000589286968644
+  },
+  {
+    "shift_ghz": 0.04462088219579673,
+    "brillouin_ghz": 0.7890147132015553,
+    "rayleigh_hwhm_ghz": 0.03476041244543593,
+    "brillouin_hwhm_ghz": 0.023578018142854408,
+    "amplitude": 1.0000992376919478
+  },
+  {
+    "shift_ghz": 0.04451606409483072,
+    "brillouin_ghz": 0.7888888702256482,
+    "rayleigh_hwhm_ghz": 0.03494766312713428,
+    "brillouin_hwhm_ghz": 0.023519840524845702,
+    "amplitude": 1.0001482311096745
+  },
+  {
+    "shift_ghz": 0.04450180745094529,
+    "brillouin_ghz": 0.7889520652976901,
+    "rayleigh_hwhm_ghz": 0.03460920729021294,
+    "brillouin_hwhm_ghz": 0.023432574433626185,
+    "amplitude": 0.9999704532419467
+  },
+  {
+    "shift_ghz": 0.044712978035680535,
+    "brillouin_ghz": 0.7890840337970007,
+    "rayleigh_hwhm_ghz": 0.034463192951577536,
+    "brillouin_hwhm_ghz": 0.023592985579268214,
+    "amplitude": 0.9998132453618929
+  },
+  {
+    "shift_ghz": 0.044688982871379124,
+    "brillouin_ghz": 0.7890386225575321,
+    "rayleigh_hwhm_ghz": 0.03546250845118157,
+    "brillouin_hwhm_ghz": 0.02377488445126786,
+    "amplitude": 1.0002018598257008
+  },
+  {
+    "shift_ghz": 0.04478500389597809,
+    "brillouin_ghz": 0.7891141745285978,
+    "rayleigh_hwhm_ghz": 0.03496682891846008,
+    "brillouin_hwhm_ghz": 0.023538220275249325,
+    "amplitude": 0.9997453341425676
+  },
+  {
+    "shift_ghz": 0.044772341376580135,
+    "brillouin_ghz": 0.7888243765115913,
+    "rayleigh_hwhm_ghz": 0.035190255270103894,
+    "brillouin_hwhm_ghz": 0.02350302133932492,
+    "amplitude": 1.0001459858148454
+  }
+]

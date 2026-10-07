@@ -1,0 +1,5 @@
+numpy>=2.0
+scipy>=1.14
+matplotlib>=3.9
+# iapws 1.5.5 source and license are bundled in .water_deps.
+# For a non-bundled checkout: pip install iapws==1.5.5

@@ -1,0 +1,677 @@
+{
+  "zip_sha256": "628c2fb0605d5e259235c65a808f2cddbe354d9deee6f709a66a1468e25df717",
+  "manifest_count": 134,
+  "all_match": true,
+  "files": [
+    {
+      "path": "交接_常压水中瑞利布里渊散射与空气中FP模拟修正_2026-10-01.md",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "说明_常压水模型方法与结果.md",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "运行水模拟.cmd",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "README_水模型.md",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "README.md",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "requirements_water.txt",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "run_water_simulation.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": ".water_deps\\iapws\\__init__.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": ".water_deps\\iapws\\_iapws.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": ".water_deps\\iapws\\_iapws97Constants.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": ".water_deps\\iapws\\_utils.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": ".water_deps\\iapws\\ammonia.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": ".water_deps\\iapws\\humidAir.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": ".water_deps\\iapws\\iapws08.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": ".water_deps\\iapws\\iapws95.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": ".water_deps\\iapws\\iapws97.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": ".water_deps\\iapws\\VERSION",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": ".water_deps\\iapws-1.5.5.dist-info\\INSTALLER",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": ".water_deps\\iapws-1.5.5.dist-info\\METADATA",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": ".water_deps\\iapws-1.5.5.dist-info\\RECORD",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": ".water_deps\\iapws-1.5.5.dist-info\\REQUESTED",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": ".water_deps\\iapws-1.5.5.dist-info\\top_level.txt",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": ".water_deps\\iapws-1.5.5.dist-info\\WHEEL",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": ".water_deps\\iapws-1.5.5.dist-info\\licenses\\LICENSE",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "docs\\superpowers\\plans\\2026-09-30-rb-fp-plan.md",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "docs\\superpowers\\plans\\2026-10-01-water-rb-fp-plan.md",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "docs\\superpowers\\specs\\2026-09-30-rb-fp-design.md",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "docs\\superpowers\\specs\\2026-10-01-water-rb-fp-design.md",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\交接_常压水中瑞利布里渊散射与空气中FP模拟修正_2026-10-01.md",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\说明_模型方法与结果.md",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\文件清单.json",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\AGENTS.md",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\README.md",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\requirements.txt",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\run_simulation.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\docs\\superpowers\\plans\\2026-09-30-rb-fp-plan.md",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\docs\\superpowers\\specs\\2026-09-30-rb-fp-design.md",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\output\\rb_fp_simulation.zip",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\output\\rb_fp\\验证报告.md",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\output\\rb_fp\\high_pressure_expected_image.npy",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\output\\rb_fp\\high_pressure_noisy_image.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\output\\rb_fp\\high_pressure_observed_image_electrons.npy",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\output\\rb_fp\\high_pressure_profile.csv",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\output\\rb_fp\\high_pressure_spectrum.csv",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\output\\rb_fp\\high_pressure_wiener_control.csv",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\output\\rb_fp\\instrument_and_convolution.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\output\\rb_fp\\low_pressure_expected_image.npy",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\output\\rb_fp\\low_pressure_observed_image_electrons.npy",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\output\\rb_fp\\low_pressure_profile.csv",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\output\\rb_fp\\low_pressure_spectrum.csv",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\output\\rb_fp\\low_pressure_wiener_control.csv",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\output\\rb_fp\\metrics.json",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\output\\rb_fp\\monte_carlo_high_pressure.json",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\output\\rb_fp\\monte_carlo_low_pressure.json",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\output\\rb_fp\\overview.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\output\\rb_fp\\parameters.json",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\output\\rb_fp\\residuals.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\output\\rb_fp\\sensitivity_detuning_plus_0p1GHz.csv",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\output\\rb_fp\\sensitivity_finesse_assumed_25.csv",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\output\\rb_fp\\sensitivity_focal_length_plus_1pct.csv",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\output\\rb_fp\\sensitivity_low_counts_25.csv",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\output\\rb_fp\\sensitivity_nominal.csv",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\output\\rb_fp\\sensitivity_psf_ignored.csv",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\output\\rb_fp\\sensitivity.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\output\\rb_fp\\three_peak_benchmark_expected_image.npy",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\output\\rb_fp\\three_peak_benchmark_observed_image_electrons.npy",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\output\\rb_fp\\three_peak_benchmark_profile.csv",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\output\\rb_fp\\three_peak_benchmark_spectrum.csv",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\output\\rb_fp\\three_peak_benchmark_wiener_control.csv",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\output\\rb_fp\\wiener_control.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\reference\\89101E.pdf",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\simulation\\__init__.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\simulation\\imaging.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\simulation\\inverse.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\simulation\\physics.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\tests\\test_simulation.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\tmp\\pdfs\\paper-contact.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\tmp\\pdfs\\paper-page-1.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\tmp\\pdfs\\paper-page-2.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\tmp\\pdfs\\paper-page-3.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\tmp\\pdfs\\paper-page-4.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\tmp\\pdfs\\paper-page-5.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\tmp\\pdfs\\paper-page-6.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\tmp\\pdfs\\paper-page-7.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "history\\旧气体版完整交付\\tmp\\pdfs\\paper-page-8.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "output\\water_rb_fp\\验证结果.md",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "output\\water_rb_fp\\coverage_scans.json",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "output\\water_rb_fp\\metrics.json",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "output\\water_rb_fp\\parameters.json",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "output\\water_rb_fp\\water_180deg_expected_image.npy",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "output\\water_rb_fp\\water_180deg_folded_spectrum.csv",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "output\\water_rb_fp\\water_180deg_observed_image_electrons.npy",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "output\\water_rb_fp\\water_180deg_radial_profile.csv",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "output\\water_rb_fp\\water_180deg_unfolded_spectrum.csv",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "output\\water_rb_fp\\water_90deg_expected_image.npy",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "output\\water_rb_fp\\water_90deg_folded_spectrum.csv",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "output\\water_rb_fp\\water_90deg_observed_image_electrons.npy",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "output\\water_rb_fp\\water_90deg_radial_profile.csv",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "output\\water_rb_fp\\water_90deg_unfolded_spectrum.csv",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "output\\water_rb_fp\\water_angular_2deg_expected_image.npy",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "output\\water_rb_fp\\water_angular_2deg_folded_spectrum.csv",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "output\\water_rb_fp\\water_angular_2deg_observed_image_electrons.npy",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "output\\water_rb_fp\\water_angular_2deg_radial_profile.csv",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "output\\water_rb_fp\\water_angular_2deg_unfolded_spectrum.csv",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "output\\water_rb_fp\\water_elastic_10percent_expected_image.npy",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "output\\water_rb_fp\\water_elastic_10percent_folded_spectrum.csv",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "output\\water_rb_fp\\water_elastic_10percent_observed_image_electrons.npy",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "output\\water_rb_fp\\water_elastic_10percent_radial_profile.csv",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "output\\water_rb_fp\\water_elastic_10percent_unfolded_spectrum.csv",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "output\\water_rb_fp\\water_fov_and_fsr.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "output\\water_rb_fp\\water_interference_images.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "output\\water_rb_fp\\water_mismatch_sensitivity.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "output\\water_rb_fp\\water_spectra_and_recovery.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "reference\\89101E.pdf",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "reference\\paper_pages\\paper-contact.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "reference\\paper_pages\\paper-page-1.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "reference\\paper_pages\\paper-page-2.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "reference\\paper_pages\\paper-page-3.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "reference\\paper_pages\\paper-page-4.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "reference\\paper_pages\\paper-page-5.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "reference\\paper_pages\\paper-page-6.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "reference\\paper_pages\\paper-page-7.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "reference\\paper_pages\\paper-page-8.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "simulation\\__init__.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "simulation\\imaging.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "simulation\\inverse.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "simulation\\physics.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "tests\\test_simulation.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "tests\\test_water.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "water_simulation\\__init__.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "water_simulation\\inverse.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "water_simulation\\physics.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "_验证\\交付复核.json",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "_验证\\自动检查日志.txt",
+      "exists": true,
+      "matches": true
+    }
+  ]
+}
