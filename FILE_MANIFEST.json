@@ -6,14 +6,6 @@
   ],
   "files": [
     {
-      "original_path": "89101E.pdf",
-      "repository_path": "02_综述与参考/89101E.pdf",
-      "bytes": 306926,
-      "original_sha256": "b6d44a053fd86c6cd8c6847525eea53e15cecca49b348b09bbdff3cfe2163886",
-      "repository_sha256": "b6d44a053fd86c6cd8c6847525eea53e15cecca49b348b09bbdff3cfe2163886",
-      "change_note": ""
-    },
-    {
       "original_path": "代码包验收_2026-10-07/代码包验收报告.md",
       "repository_path": "03_模拟与验收/代码包验收_2026-10-07/代码包验收报告.md",
       "bytes": 20106,
