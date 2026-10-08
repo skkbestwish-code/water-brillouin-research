@@ -1,0 +1,5 @@
+{
+  "physical_limit_ghz": 600.0,
+  "camera": {"radial_step_um": 0.25, "subpixels": 8},
+  "fit_spacing_bounds_ghz": [0.05, 7.0]
+}

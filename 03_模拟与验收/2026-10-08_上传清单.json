@@ -1,0 +1,533 @@
+{
+  "date": "2026-10-08",
+  "note": "Desktop final delivery preserved byte-for-byte; runtime caches excluded; navigation README files are repository additions.",
+  "files": [
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/.water_deps/iapws/__init__.py",
+      "source_relative_path": ".water_deps/iapws/__init__.py",
+      "bytes": 9195,
+      "sha256": "915ebb7f0f7127174decc740e52d03e2c6135461575f6dc173bcf7849be77f1f"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/.water_deps/iapws/_iapws.py",
+      "source_relative_path": ".water_deps/iapws/_iapws.py",
+      "bytes": 51863,
+      "sha256": "9e077afb6634e0a54c26206162959e1dd5fb560fb328fc2117f80c7f087cf4ea"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/.water_deps/iapws/_iapws97Constants.py",
+      "source_relative_path": ".water_deps/iapws/_iapws97Constants.py",
+      "bytes": 68442,
+      "sha256": "0af0556e4448aa3d61ad96ccf6efcac552f43fb02d7c111f9245871dd59db8ee"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/.water_deps/iapws/_utils.py",
+      "source_relative_path": ".water_deps/iapws/_utils.py",
+      "bytes": 10157,
+      "sha256": "f946c8d31262517f2f6b8676261afebb24ea06db03b67bba2bc51837283eff76"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/.water_deps/iapws/ammonia.py",
+      "source_relative_path": ".water_deps/iapws/ammonia.py",
+      "bytes": 21035,
+      "sha256": "620b1762ea8783d55f155d33b20d81b0f4b260788d96235f4363e62395b15bb3"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/.water_deps/iapws/humidAir.py",
+      "source_relative_path": ".water_deps/iapws/humidAir.py",
+      "bytes": 33710,
+      "sha256": "adc8e3a0dc339ac1f2eda132225adb9a3c0974506ba53deec353a775e43706fe"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/.water_deps/iapws/iapws08.py",
+      "source_relative_path": ".water_deps/iapws/iapws08.py",
+      "bytes": 24526,
+      "sha256": "0913addf889e8e35dc2a82b66e9f4791bc931806058af07e53380ac1318cdedd"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/.water_deps/iapws/iapws95.py",
+      "source_relative_path": ".water_deps/iapws/iapws95.py",
+      "bytes": 106695,
+      "sha256": "89edb7c0e3b77533319d253819cdb4c1da50775d2e7b324249574607d6790520"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/.water_deps/iapws/iapws97.py",
+      "source_relative_path": ".water_deps/iapws/iapws97.py",
+      "bytes": 107602,
+      "sha256": "9272a239bbe9245ad71afa747b211e68a1fddea097966fb098e55bcb9b098f9e"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/.water_deps/iapws/VERSION",
+      "source_relative_path": ".water_deps/iapws/VERSION",
+      "bytes": 6,
+      "sha256": "04c93b7e7635a43d0cb6d097f9af0a72a9973041d11847e521cc682f1668c605"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/.water_deps/iapws-1.5.5.dist-info/INSTALLER",
+      "source_relative_path": ".water_deps/iapws-1.5.5.dist-info/INSTALLER",
+      "bytes": 4,
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/.water_deps/iapws-1.5.5.dist-info/licenses/LICENSE",
+      "source_relative_path": ".water_deps/iapws-1.5.5.dist-info/licenses/LICENSE",
+      "bytes": 35120,
+      "sha256": "fe3eea6c599e23a00c08c5f5cb2320c30adc8f8687db5fcec9b79a662c53ff6b"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/.water_deps/iapws-1.5.5.dist-info/METADATA",
+      "source_relative_path": ".water_deps/iapws-1.5.5.dist-info/METADATA",
+      "bytes": 6622,
+      "sha256": "cf357fe11585ee3671d2d5c502aaf2c19a1a39c5c5b9a6473dbf6f6294f90d72"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/.water_deps/iapws-1.5.5.dist-info/RECORD",
+      "source_relative_path": ".water_deps/iapws-1.5.5.dist-info/RECORD",
+      "bytes": 1731,
+      "sha256": "f60beb374fb0c0613af0fcd95ec666d936c5660fcc2b3a72920b2e3b53c0fdf2"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/.water_deps/iapws-1.5.5.dist-info/REQUESTED",
+      "source_relative_path": ".water_deps/iapws-1.5.5.dist-info/REQUESTED",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/.water_deps/iapws-1.5.5.dist-info/top_level.txt",
+      "source_relative_path": ".water_deps/iapws-1.5.5.dist-info/top_level.txt",
+      "bytes": 6,
+      "sha256": "5ec0cb1f7b9bc2ff6587fe7ed59c069963b51487d01d7f1e2819ae0d25cd70cc"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/.water_deps/iapws-1.5.5.dist-info/WHEEL",
+      "source_relative_path": ".water_deps/iapws-1.5.5.dist-info/WHEEL",
+      "bytes": 91,
+      "sha256": "69e6228a0d35958183cc1812f07c565ce837b95eb51bd8a33acba9fa4f68d6c9"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/make_detailed_report.py",
+      "source_relative_path": "make_detailed_report.py",
+      "bytes": 32980,
+      "sha256": "ccc7d8ea644bdd6984f16496efe6f4dc886583ffade31d9c217510cb30cadc38"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/deep_review/alias_observation.npz",
+      "source_relative_path": "output/deep_review/alias_observation.npz",
+      "bytes": 8619,
+      "sha256": "e984d78395d92ee720bf44af00d55690ec5eb954e36d223a84882272dc58e92d"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/deep_review/deep_review.json",
+      "source_relative_path": "output/deep_review/deep_review.json",
+      "bytes": 14261,
+      "sha256": "ebd65f0a5bd4b4719e16898528c5f311d64580cf277714091b9edccc65f56abc"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/deep_review/inverse_grid_curves.npz",
+      "source_relative_path": "output/deep_review/inverse_grid_curves.npz",
+      "bytes": 388879,
+      "sha256": "b7510ebe4d82e1c9c4815f8cd70d45228eed6a366609cafa8744f3fe0f803348"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/deep_review/nonparametric_180deg.npz",
+      "source_relative_path": "output/deep_review/nonparametric_180deg.npz",
+      "bytes": 19129,
+      "sha256": "c8adf85b2d774a40e9121cf346ffd1124db822d345f7e09da20745bf6bb37ade"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/deep_review/nonparametric_90deg.npz",
+      "source_relative_path": "output/deep_review/nonparametric_90deg.npz",
+      "bytes": 19097,
+      "sha256": "bdb9b5a3d5c1b8118a3d381ad57612fd9d9c129b95742c22ba1148953b082616"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/deep_review/nonparametric_elastic10pct.npz",
+      "source_relative_path": "output/deep_review/nonparametric_elastic10pct.npz",
+      "bytes": 19095,
+      "sha256": "cd881df153214780e8e2dc7501e5da463d8a14c2dd75ea079ead31469bc3301b"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/final_acceptance/audit_config.json",
+      "source_relative_path": "output/final_acceptance/audit_config.json",
+      "bytes": 3056,
+      "sha256": "d78d4ac8f1c8881a27ade6ced8cc4f35d7d2772bea86d53df6ee4dacdc218037"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/final_acceptance/audit_metrics.json",
+      "source_relative_path": "output/final_acceptance/audit_metrics.json",
+      "bytes": 428156,
+      "sha256": "d2062a78d1f21d6c4e00a81632ee4e300d9ba6aeea7138e6d9bbb6007cdf8e7d"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/final_acceptance/mc_2000_observations.npz",
+      "source_relative_path": "output/final_acceptance/mc_2000_observations.npz",
+      "bytes": 141126,
+      "sha256": "d1a11c877a7f85a32cc9a384624196b210371701665b0143d695cdc51bc26329"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/final_acceptance/mc_200_observations.npz",
+      "source_relative_path": "output/final_acceptance/mc_200_observations.npz",
+      "bytes": 140551,
+      "sha256": "2ed955651086a537c174736cbf0af09cc7ed99db01b870fa67b3edcaa67dc918"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/final_acceptance/mc_25_observations.npz",
+      "source_relative_path": "output/final_acceptance/mc_25_observations.npz",
+      "bytes": 141364,
+      "sha256": "40c38b1a8ec278cc1f5f7e832571d47acbee3cb2dd5f9cc39e6e002d18519bfa"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/final_cases/coverage_scans.json",
+      "source_relative_path": "output/final_cases/coverage_scans.json",
+      "bytes": 81388,
+      "sha256": "be79c90e5bdb528985f656cc78e6793de217a52d4daf33d4f8318287c0e1d7ef"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/final_cases/metrics.json",
+      "source_relative_path": "output/final_cases/metrics.json",
+      "bytes": 225787,
+      "sha256": "3897cbc931d3597d4ee9d675a3da83633575ef8e7db91ee47500addc3f0d57c7"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/final_cases/parameters.json",
+      "source_relative_path": "output/final_cases/parameters.json",
+      "bytes": 1346,
+      "sha256": "e0ff4d0af0963f77416ed5f92ab0c8621f89e17ebbafa65b338d6dfbd2941e37"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/final_cases/water_180deg_expected_image.npy",
+      "source_relative_path": "output/final_cases/water_180deg_expected_image.npy",
+      "bytes": 4718720,
+      "sha256": "1f0e75794893bf3a9d5d1094cdb5e1e7c55a85b98bd818df8d140c4a25280e57"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/final_cases/water_180deg_folded_spectrum.csv",
+      "source_relative_path": "output/final_cases/water_180deg_folded_spectrum.csv",
+      "bytes": 459075,
+      "sha256": "da3c8724d37504433b4be5fbc7aea25c81f24a29b1aabb08554e8ce7ba66e44c"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/final_cases/water_180deg_observed_image_electrons.npy",
+      "source_relative_path": "output/final_cases/water_180deg_observed_image_electrons.npy",
+      "bytes": 4718720,
+      "sha256": "8cfcf8b37a523d89442993ddf54e21ef121cea990bc894a744e4a5e735697319"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/final_cases/water_180deg_radial_profile.csv",
+      "source_relative_path": "output/final_cases/water_180deg_radial_profile.csv",
+      "bytes": 52932,
+      "sha256": "16b3ab7ff02dd467ea0e708af7b5a642fb94fc1b747859662d00bc73558596a2"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/final_cases/water_180deg_unfolded_spectrum.csv",
+      "source_relative_path": "output/final_cases/water_180deg_unfolded_spectrum.csv",
+      "bytes": 1563656,
+      "sha256": "a7a2c86fc313c04d6bc99de4c879d85e7a10b63385233a20f97a790a992e33c8"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/final_cases/water_90deg_expected_image.npy",
+      "source_relative_path": "output/final_cases/water_90deg_expected_image.npy",
+      "bytes": 4718720,
+      "sha256": "bdffbcd4a850fc37544b6ed7b1928d5608fd8142755b39b366db934d188e78ce"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/final_cases/water_90deg_folded_spectrum.csv",
+      "source_relative_path": "output/final_cases/water_90deg_folded_spectrum.csv",
+      "bytes": 459075,
+      "sha256": "5142f0e51713f2493121aa95d8d9753748e6471495b232c26c2702256c7bf45c"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/final_cases/water_90deg_observed_image_electrons.npy",
+      "source_relative_path": "output/final_cases/water_90deg_observed_image_electrons.npy",
+      "bytes": 4718720,
+      "sha256": "a0efa236b100a06889d5b6abe3bb886c31ba4440c708e6e755824de196407725"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/final_cases/water_90deg_radial_profile.csv",
+      "source_relative_path": "output/final_cases/water_90deg_radial_profile.csv",
+      "bytes": 52932,
+      "sha256": "dc0a067f5209144ff2260026ef6db17e97e9ef077732c49e780aef5a653562df"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/final_cases/water_90deg_unfolded_spectrum.csv",
+      "source_relative_path": "output/final_cases/water_90deg_unfolded_spectrum.csv",
+      "bytes": 1563656,
+      "sha256": "667747aa4f0903d82b086f0db49c3710bc716a8d2723fa7e58bfce746d224665"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/final_cases/water_angular_2deg_expected_image.npy",
+      "source_relative_path": "output/final_cases/water_angular_2deg_expected_image.npy",
+      "bytes": 4718720,
+      "sha256": "a753260b1a56a500a268fb267514fca17b2e0358173c7f937665a75512f647dc"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/final_cases/water_angular_2deg_folded_spectrum.csv",
+      "source_relative_path": "output/final_cases/water_angular_2deg_folded_spectrum.csv",
+      "bytes": 459075,
+      "sha256": "bd71d9c9f351e47f77cc0b7a213a5d532201b7c50f42dd2b65722632637f1c53"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/final_cases/water_angular_2deg_observed_image_electrons.npy",
+      "source_relative_path": "output/final_cases/water_angular_2deg_observed_image_electrons.npy",
+      "bytes": 4718720,
+      "sha256": "4b9321b410086856aab4e2ac02fa1dab5bf0d54bfe429dbd4959f4f8311d5b15"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/final_cases/water_angular_2deg_radial_profile.csv",
+      "source_relative_path": "output/final_cases/water_angular_2deg_radial_profile.csv",
+      "bytes": 52932,
+      "sha256": "b7637de26c239e71e4601976efb9e9e356cdc4604503de7790e7848b288f0731"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/final_cases/water_angular_2deg_unfolded_spectrum.csv",
+      "source_relative_path": "output/final_cases/water_angular_2deg_unfolded_spectrum.csv",
+      "bytes": 1563656,
+      "sha256": "d11cf1f89866fd6547c3a74d077ed492fe9b5341ced5d3d7b81d557ba837a380"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/final_cases/water_elastic_10percent_expected_image.npy",
+      "source_relative_path": "output/final_cases/water_elastic_10percent_expected_image.npy",
+      "bytes": 4718720,
+      "sha256": "2af8a6c554092db02da64b95803fd04ff75998d18d4b921f7bd64efd8cbe2a1e"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/final_cases/water_elastic_10percent_folded_spectrum.csv",
+      "source_relative_path": "output/final_cases/water_elastic_10percent_folded_spectrum.csv",
+      "bytes": 459075,
+      "sha256": "884b2f014a654eede15bdc2963e101468df3bfa027dfd0db7c09d6180bc5852f"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/final_cases/water_elastic_10percent_observed_image_electrons.npy",
+      "source_relative_path": "output/final_cases/water_elastic_10percent_observed_image_electrons.npy",
+      "bytes": 4718720,
+      "sha256": "5c9779d01664fa85ecde6700c1efde3f598b5eb4998b61e15bb663e96a8494ec"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/final_cases/water_elastic_10percent_radial_profile.csv",
+      "source_relative_path": "output/final_cases/water_elastic_10percent_radial_profile.csv",
+      "bytes": 52932,
+      "sha256": "ceb66ff2cb56a416b8dc106fe2fb1e5252e066fbc7a539b1fe2ac1da526b91fd"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/final_cases/water_elastic_10percent_unfolded_spectrum.csv",
+      "source_relative_path": "output/final_cases/water_elastic_10percent_unfolded_spectrum.csv",
+      "bytes": 1563656,
+      "sha256": "5f8c03309b169a21129d6f4c1f4a9313220c0c3be8dc3e231fbf80dd8df3ddd0"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/final_cases/water_fov_and_fsr.png",
+      "source_relative_path": "output/final_cases/water_fov_and_fsr.png",
+      "bytes": 108271,
+      "sha256": "35eb58d7df2100ed4557c4aa2c5f471a4bed7ea5db505375800d09a24c4023be"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/final_cases/water_interference_images.png",
+      "source_relative_path": "output/final_cases/water_interference_images.png",
+      "bytes": 962022,
+      "sha256": "73c7a8525fc1155a2eac60ce4080e420458a43c40b9041dd49695818b101380b"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/final_cases/water_mismatch_sensitivity.png",
+      "source_relative_path": "output/final_cases/water_mismatch_sensitivity.png",
+      "bytes": 70209,
+      "sha256": "cd1cfc82577de73e738de443ea3074149d9754f499cd984e0461c2c213f08150"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/output/final_cases/water_spectra_and_recovery.png",
+      "source_relative_path": "output/final_cases/water_spectra_and_recovery.png",
+      "bytes": 516335,
+      "sha256": "c5f95abb463ad0ada4c54b9451745d6dff24ed013cbee4e6a2e46456df83de7f"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/requirements_verified.txt",
+      "source_relative_path": "requirements_verified.txt",
+      "bytes": 90,
+      "sha256": "4401bfa0746d49840ecce90db3caf461daf3c5f2f670135a38f99b1038e849fb"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/requirements_water.txt",
+      "source_relative_path": "requirements_water.txt",
+      "bytes": 155,
+      "sha256": "7cba433e289745c449f9f9430d5fc7d0b6d5384661785bc68742e428f632e692"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/run_all.py",
+      "source_relative_path": "run_all.py",
+      "bytes": 1802,
+      "sha256": "42451d3ba35ea3842e37b78d61fe32c08376f2718ececbd890141bf84834654f"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/run_deep_review.py",
+      "source_relative_path": "run_deep_review.py",
+      "bytes": 9366,
+      "sha256": "e1a25aa7ddbbb484c45be26548821b939ff693c413940910dfa6343b3efbf7ea"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/run_etalon_audit.py",
+      "source_relative_path": "run_etalon_audit.py",
+      "bytes": 10235,
+      "sha256": "5a1416a95b01246ebecde9d2df4c3d49a7b7c46b47188a3a6a08ac71b7f2a671"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/run_water_simulation.py",
+      "source_relative_path": "run_water_simulation.py",
+      "bytes": 26291,
+      "sha256": "15f60654bde1e5ffc378d0250534385258956414bba6b9c5fb914a2f4eebec41"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/simulation/__init__.py",
+      "source_relative_path": "simulation/__init__.py",
+      "bytes": 235,
+      "sha256": "3604ba3b2f139c4670c743a0bf2d423ad498adc93dd58cfe1b6d1fe04359b6f8"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/simulation/imaging.py",
+      "source_relative_path": "simulation/imaging.py",
+      "bytes": 6508,
+      "sha256": "9714693eae56e9735f83ff6fd1f9e0095b4eb5c6d59ca79c37efbb3f865b1f00"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/simulation/inverse.py",
+      "source_relative_path": "simulation/inverse.py",
+      "bytes": 7112,
+      "sha256": "251da139958244c1627664e4d83b158437bd7a435f88dd04b1057d304fbe0fde"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/simulation/physics.py",
+      "source_relative_path": "simulation/physics.py",
+      "bytes": 8985,
+      "sha256": "e1d39fd93cf969a1716c7957b7f856633e66d06c682a384233542df63e1cf627"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/tests/test_etalon.py",
+      "source_relative_path": "tests/test_etalon.py",
+      "bytes": 2641,
+      "sha256": "c39f50a3277d3942750424ca23bb994b043d307a6475986773c0b87abc5215a9"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/tests/test_review.py",
+      "source_relative_path": "tests/test_review.py",
+      "bytes": 1620,
+      "sha256": "c0165e2f5b07de2cd9c219ad36e6f507f3be0becd43fdf45e4ce765341812cf4"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/tests/test_simulation.py",
+      "source_relative_path": "tests/test_simulation.py",
+      "bytes": 9733,
+      "sha256": "ebf455dc2ff6e859aee3477760c4128c8187da56d1a7497f1555d3fcdbda0e22"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/tests/test_water.py",
+      "source_relative_path": "tests/test_water.py",
+      "bytes": 6096,
+      "sha256": "9fcb0fc98053ec5462cb75abf71a67b939e7795e7e151231fda5e6fcf981ff9d"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/water_simulation/__init__.py",
+      "source_relative_path": "water_simulation/__init__.py",
+      "bytes": 258,
+      "sha256": "070766d2afabe0acf6cffc28d5c507c606b15b8da316c8457c82c0abad6f62c0"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/water_simulation/etalon.py",
+      "source_relative_path": "water_simulation/etalon.py",
+      "bytes": 2278,
+      "sha256": "c7ee4eeb772a2d23b33c7088d1f2d1244aadefe8bc62355b0e16277504f5ca64"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/water_simulation/inverse.py",
+      "source_relative_path": "water_simulation/inverse.py",
+      "bytes": 6596,
+      "sha256": "804ad1518b6a782cc84ee1ec4670eae5e7c84ea12311345e652da87934dbdde4"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/water_simulation/physics.py",
+      "source_relative_path": "water_simulation/physics.py",
+      "bytes": 16646,
+      "sha256": "910a07c9cb3a8ef6d6776f37c3ae966c701f02cf99159f5d3159099875dac3ae"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/交付文件清单.json",
+      "source_relative_path": "交付文件清单.json",
+      "bytes": 15453,
+      "sha256": "c93641ec12a41976d3eae897a7e3a507b31713beca19a927beae5c7d2d694d30"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/使用说明.md",
+      "source_relative_path": "使用说明.md",
+      "bytes": 1266,
+      "sha256": "20d84534ec776757606cba6712a0c59ed5c41db61db647dde66422802ed1e837"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/实验记录模板.json",
+      "source_relative_path": "实验记录模板.json",
+      "bytes": 988,
+      "sha256": "3bfe854f43224385448c8aa1754828725983f38af251666ab22e2af3d3362e54"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/数值加密配置_仅供继续收敛.json",
+      "source_relative_path": "数值加密配置_仅供继续收敛.json",
+      "bytes": 129,
+      "sha256": "24616d08c932892468b4b68c465bbdd0749408d407d12eebca6ed04600cae3a3"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/数据需求清单.csv",
+      "source_relative_path": "数据需求清单.csv",
+      "bytes": 1214,
+      "sha256": "6fccf53d55ee980898d0a70ca470fffa81aac86a48742d8d2ab34d9c9103d64f"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/深入误差图.png",
+      "source_relative_path": "深入误差图.png",
+      "bytes": 148830,
+      "sha256": "760f10dedcec735e58b177a3d1aebf400fbbe4117e86ab9d232e52bf32460707"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/研究汇报.md",
+      "source_relative_path": "研究汇报.md",
+      "bytes": 26087,
+      "sha256": "490204cfa872070a7b0663dccd3ef5a6bca82b0c5bfb20e1f40df5f5a67b61ef"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/示例参数_25C.json",
+      "source_relative_path": "示例参数_25C.json",
+      "bytes": 82,
+      "sha256": "ea38ebd5e12e5f33ef249619492c88d26963f020b2289b88fedcaee7a9f19ee0"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/证据/op-7423-x-a-1-inch-etalon-various-thickness.pdf",
+      "source_relative_path": "证据/op-7423-x-a-1-inch-etalon-various-thickness.pdf",
+      "bytes": 26608,
+      "sha256": "b983d0cf7809788bc22d002522d7e57b3af30219d15a3b7d1af286eb6defb341"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/证据/二次修订单元测试.txt",
+      "source_relative_path": "证据/二次修订单元测试.txt",
+      "bytes": 4603,
+      "sha256": "2824ca748d4821bb5268bec723f1277be5bb3d6a6aba426c2b49b9df6fe18b9e"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/证据/最终单元测试.txt",
+      "source_relative_path": "证据/最终单元测试.txt",
+      "bytes": 4603,
+      "sha256": "1443c1931547acd39326fef8fff1bb95208ae8c71c312b08f111ddeb2062530e"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/证据/最终数据核验.txt",
+      "source_relative_path": "证据/最终数据核验.txt",
+      "bytes": 196,
+      "sha256": "6f49f8897324fa6966b84b3356c75a1f48f0167ff5890c733268ba555df0a929"
+    },
+    {
+      "repository_path": "03_模拟与验收/2026-10-08_OP7423_6.743mm/运行修订与验收.cmd",
+      "source_relative_path": "运行修订与验收.cmd",
+      "bytes": 212,
+      "sha256": "04da857aab6b3b655dfc8a579d0650ce1c34afc7dbd9c7a0d3b72893a54dc19f"
+    },
+    {
+      "repository_path": "05_原始归档/2026-10-08_OP7423_6.743mm/水布里渊_6.743mm标准具_最终交付.zip",
+      "bytes": 35279074,
+      "sha256": "de6a0c8e59bba4b33eb33ac0352b29b408382a452d0f7a6b6610ca5dfe3bd913"
+    }
+  ]
+}

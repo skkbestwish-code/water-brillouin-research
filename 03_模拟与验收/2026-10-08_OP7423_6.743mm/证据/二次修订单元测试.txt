@@ -1,0 +1,42 @@
+test_catalog_units_and_silica_indices (test_etalon.EtalonTests.test_catalog_units_and_silica_indices) ... ok
+test_dispersive_ring_is_response_maximum (test_etalon.EtalonTests.test_dispersive_ring_is_response_maximum) ... ok
+test_invalid_transmission_and_nonfinite_are_rejected (test_etalon.EtalonTests.test_invalid_transmission_and_nonfinite_are_rejected) ... ok
+test_low_angle_spacing_is_not_forced_to_one_ghz (test_etalon.EtalonTests.test_low_angle_spacing_is_not_forced_to_one_ghz) ... ok
+test_peak_transmission_in_forward_operator (test_etalon.EtalonTests.test_peak_transmission_in_forward_operator) ... ok
+test_quality_is_separate_from_optimizer_success (test_etalon.EtalonTests.test_quality_is_separate_from_optimizer_success) ... ok
+test_global_alias_is_not_quality_pass (test_review.ReviewTests.test_global_alias_is_not_quality_pass) ... ok
+test_nonuniform_inverse_axis_rejected (test_review.ReviewTests.test_nonuniform_inverse_axis_rejected) ... ok
+test_singular_fit_does_not_report_zero_uncertainty (test_review.ReviewTests.test_singular_fit_does_not_report_zero_uncertainty) ... ok
+test_water_nan_is_rejected (test_review.ReviewTests.test_water_nan_is_rejected) ... ok
+test_camera_preserves_constant_field (test_simulation.CameraChecks.test_camera_preserves_constant_field) ... ok
+test_gaussian_psf_is_two_dimensional (test_simulation.CameraChecks.test_gaussian_psf_is_two_dimensional) ... ok
+test_image_and_annular_operator_agree (test_simulation.CameraChecks.test_image_and_annular_operator_agree) ... ok
+test_noise_is_reproducible (test_simulation.CameraChecks.test_noise_is_reproducible) ... ok
+test_radial_psf_matches_independent_cartesian_convolution (test_simulation.CameraChecks.test_radial_psf_matches_independent_cartesian_convolution) ... ok
+test_broad_spectrum_recovery (test_simulation.InverseChecks.test_broad_spectrum_recovery) ... ok
+test_parametric_fit_accounts_for_known_laser_modes (test_simulation.InverseChecks.test_parametric_fit_accounts_for_known_laser_modes) ... ok
+test_parametric_fit_recovers_unknown_shift_and_width (test_simulation.InverseChecks.test_parametric_fit_recovers_unknown_shift_and_width) ... ok
+test_wiener_inverts_independent_frequency_integral (test_simulation.InverseChecks.test_wiener_inverts_independent_frequency_integral) ... ok
+test_wiener_selection_does_not_explode_at_noise_threshold (test_simulation.InverseChecks.test_wiener_selection_does_not_explode_at_noise_threshold) ... ok
+test_airy_has_requested_fwhm (test_simulation.PhysicsChecks.test_airy_has_requested_fwhm) ... ok
+test_exact_rings_and_frequency_direction (test_simulation.PhysicsChecks.test_exact_rings_and_frequency_direction) ... ok
+test_kinetic_regime_is_not_silently_modelled (test_simulation.PhysicsChecks.test_kinetic_regime_is_not_silently_modelled) ... ok
+test_laser_convolution_preserves_mass_and_shift (test_simulation.PhysicsChecks.test_laser_convolution_preserves_mass_and_shift) ... ok
+test_spectra_integrate_to_one (test_simulation.PhysicsChecks.test_spectra_integrate_to_one) ... ok
+test_thermal_width_is_one_dimensional (test_simulation.PhysicsChecks.test_thermal_width_is_one_dimensional) ... ok
+test_350_bins_survive_float_roundoff (test_water.WaterTests.test_350_bins_survive_float_roundoff) ... ok
+test_angular_spread_broadens_sideband_without_moving_water_sound (test_water.WaterTests.test_angular_spread_broadens_sideband_without_moving_water_sound) ... ok
+test_conditional_water_fit_recovers_spacing_and_width (test_water.WaterTests.test_conditional_water_fit_recovers_spacing_and_width) ... ok
+test_fold_preserves_area_and_extra_elastic_is_independent (test_water.WaterTests.test_fold_preserves_area_and_extra_elastic_is_independent) ... ok
+test_fov_reports_cropped_blue_peak (test_water.WaterTests.test_fov_reports_cropped_blue_peak) ... ok
+test_fp_medium_is_separate_and_fwhm_unchanged (test_water.WaterTests.test_fp_medium_is_separate_and_fwhm_unchanged) ... ok
+test_iapws_room_temperature_and_wavelength (test_water.WaterTests.test_iapws_room_temperature_and_wavelength) ... ok
+test_invalid_inputs (test_water.WaterTests.test_invalid_inputs) ... ok
+test_physical_area_is_not_hidden_by_normalization (test_water.WaterTests.test_physical_area_is_not_hidden_by_normalization) ... ok
+test_physical_kernel_and_annular_image_match (test_water.WaterTests.test_physical_kernel_and_annular_image_match) ... ok
+test_water_wavevector_and_backscatter (test_water.WaterTests.test_water_wavevector_and_backscatter) ... ok
+
+----------------------------------------------------------------------
+Ran 37 tests in 1.322s
+
+OK

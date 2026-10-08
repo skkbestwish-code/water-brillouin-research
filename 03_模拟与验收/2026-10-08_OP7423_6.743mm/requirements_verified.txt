@@ -1,0 +1,4 @@
+numpy==2.4.4
+scipy==1.17.1
+matplotlib==3.10.9
+# iapws 1.5.5 is bundled in .water_deps

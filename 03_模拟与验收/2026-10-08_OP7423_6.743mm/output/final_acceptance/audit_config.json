@@ -1,0 +1,97 @@
+{
+  "provenance": {
+    "data_class": "synthetic_catalog_boundary_scenario",
+    "selected_by_user": "6.743 mm fused silica OP-7423",
+    "drawing": "op-7423-x-a-1-inch-etalon-various-thickness.pdf; Rev A 2014-08-18",
+    "catalog": {
+      "thickness_mm": 6.743,
+      "fsr_cm_inverse": 0.5,
+      "thickness_and_fsr_tolerance_fraction": 0.01,
+      "reflectivity": 0.94,
+      "reflectivity_absolute_tolerance": 0.02,
+      "finesse_lower_exclusive": 30,
+      "peak_transmission_lower_exclusive": 0.5,
+      "clear_aperture_mm": 20,
+      "diameter_mm": 25.4,
+      "thickness_uniformity_rms_nm_upper": 1.5,
+      "coating_band_nm": [
+        530,
+        660
+      ]
+    },
+    "theory": {
+      "index_source": "https://opg.optica.org/josa/abstract.cfm?uri=josa-55-10-1205",
+      "phase_index": 1.4570179296326728,
+      "group_index": 1.4753922478054025,
+      "model_temperature_c": 20,
+      "coating_phase_dispersion": "omitted",
+      "effective_thickness_from_nominal_fsr_mm": 6.77785857616825
+    },
+    "assumptions": {
+      "finesse": "30: conservative boundary, not measured",
+      "peak_transmission": "0.5: conservative boundary, not measured",
+      "wavelength": "632.8 nm: historical reference, not hardware confirmation",
+      "camera_and_focal_length": "historical assumptions",
+      "center_detuning": "FSR/2: chosen phase; physical setting requires adjustment/calibration"
+    },
+    "instrument": {
+      "fsr_ghz": 14.9896229,
+      "finesse": 30.0,
+      "wavelength_nm": 632.8,
+      "focal_length_mm": 100.0,
+      "center_detuning_ghz": 7.49481145,
+      "illumination_radius_mm": 2.0,
+      "external_index": 1.0,
+      "cavity_phase_index": 1.4570179296326728,
+      "cavity_group_index": 1.4753922478054025,
+      "peak_transmission": 0.5
+    }
+  },
+  "water": {
+    "temperature_k": 293.15,
+    "pressure_mpa": 0.101325,
+    "scattering_angle_deg": 90.0,
+    "angular_sigma_deg": 0.0,
+    "velocity_ms": 0.0,
+    "bulk_viscosity_pa_s": 0.0025,
+    "wavelength_nm": 632.8,
+    "elastic_fraction": 0.0,
+    "elastic_hwhm_ghz": 0.001,
+    "central_fraction_override": null
+  },
+  "camera": {
+    "size": 768,
+    "pixel_um": 4.0,
+    "roi_mm": 1.4,
+    "radial_step_um": 1.0,
+    "psf_sigma_um": 4.0,
+    "subpixels": 4
+  },
+  "thresholds": {
+    "forward_relative_l2": 0.0001,
+    "noiseless_spacing_mhz": 0.01,
+    "spacing_rmse_mhz": 1.0,
+    "nonparametric_relative_l2": 0.1,
+    "quality_chi2_max": 2.0
+  },
+  "fit_spacing_bounds_ghz": [
+    0.05,
+    7.0
+  ],
+  "software": {
+    "python": "3.14.4 (tags/v3.14.4:23116f9, Apr  7 2026, 14:10:54) [MSC v.1944 64 bit (AMD64)]",
+    "numpy": "2.4.4",
+    "scipy": "1.17.1"
+  },
+  "noise": {
+    "signal_scales": [
+      25,
+      200,
+      2000
+    ],
+    "background_electrons": 20,
+    "read_sigma_electrons": 3,
+    "replicates": 50
+  },
+  "note": "Synthetic conditional precision, not measured apparatus accuracy; all finite attempts included in primary statistics."
+}

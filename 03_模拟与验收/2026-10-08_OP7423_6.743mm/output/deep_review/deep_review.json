@@ -1,0 +1,476 @@
+{
+  "data_class": "synthetic_secondary_review",
+  "baseline": {
+    "instrument": {
+      "fsr_ghz": 14.9896229,
+      "finesse": 30.0,
+      "wavelength_nm": 632.8,
+      "focal_length_mm": 100.0,
+      "center_detuning_ghz": 7.49481145,
+      "illumination_radius_mm": 2.0,
+      "external_index": 1.0,
+      "cavity_phase_index": 1.4570179296326728,
+      "cavity_group_index": 1.4753922478054025,
+      "peak_transmission": 0.5
+    },
+    "camera": {
+      "size": 768,
+      "pixel_um": 4.0,
+      "roi_mm": 1.4,
+      "radial_step_um": 1.0,
+      "psf_sigma_um": 4.0,
+      "subpixels": 4
+    },
+    "water": {
+      "temperature_k": 293.15,
+      "pressure_mpa": 0.101325,
+      "scattering_angle_deg": 90.0,
+      "angular_sigma_deg": 0.0,
+      "velocity_ms": 0.0,
+      "bulk_viscosity_pa_s": 0.0025,
+      "wavelength_nm": 632.8,
+      "elastic_fraction": 0.0,
+      "elastic_hwhm_ghz": 0.001,
+      "central_fraction_override": null
+    },
+    "B_bounds_ghz": [
+      0.05,
+      7.0
+    ]
+  },
+  "window": [
+    {
+      "limit_ghz": 150,
+      "area": 0.9995481189095237,
+      "profile_l2_vs_baseline": 0.0,
+      "profile_l2_vs_previous": 0.0,
+      "B_bias_mhz": 0.0
+    },
+    {
+      "limit_ghz": 300,
+      "area": 0.9997741705830046,
+      "profile_l2_vs_baseline": 0.00014017000945406997,
+      "profile_l2_vs_previous": 0.00014017000945406997,
+      "B_bias_mhz": -5.196407748542242e-05
+    },
+    {
+      "limit_ghz": 600,
+      "area": 0.9998870681527422,
+      "profile_l2_vs_baseline": 0.00021020402971069134,
+      "profile_l2_vs_previous": 7.002897731765439e-05,
+      "B_bias_mhz": -7.148525327238531e-05
+    }
+  ],
+  "spatial": [
+    {
+      "radial_step_um": 1,
+      "subpixels": 4,
+      "profile_l2_vs_previous": 0.0,
+      "profile_l2_vs_baseline": 0.0,
+      "B_bias_mhz": 0.0
+    },
+    {
+      "radial_step_um": 0.5,
+      "subpixels": 6,
+      "profile_l2_vs_previous": 9.441245156042984e-05,
+      "profile_l2_vs_baseline": 9.441245156042984e-05,
+      "B_bias_mhz": 6.721518985841612e-05
+    },
+    {
+      "radial_step_um": 0.25,
+      "subpixels": 8,
+      "profile_l2_vs_previous": 1.8510260096427473e-05,
+      "profile_l2_vs_baseline": 0.00011292097666335284,
+      "B_bias_mhz": 9.342115792065897e-05
+    }
+  ],
+  "angular": [
+    {
+      "order": 15,
+      "profile_l2_vs_previous": 9.885294381638748e-17,
+      "profile_l2_vs_baseline": 9.885294381638748e-17,
+      "B_bias_mhz": 8.881784197001252e-13
+    },
+    {
+      "order": 31,
+      "profile_l2_vs_previous": 1.4180129003192039e-13,
+      "profile_l2_vs_baseline": 1.4182410929445078e-13,
+      "B_bias_mhz": 0.0
+    },
+    {
+      "order": 61,
+      "profile_l2_vs_previous": 4.789122949730275e-16,
+      "profile_l2_vs_baseline": 1.416590526383956e-13,
+      "B_bias_mhz": 0.0
+    }
+  ],
+  "inverse_grid": [
+    {
+      "nodes": 300,
+      "step_mhz": 49.965409666666666,
+      "spectral_relative_l2": 0.208561022101133,
+      "truth_sampling_interpolation_relative_l2": 0.02842749250800401,
+      "alpha": 0.01,
+      "chi2": 0.8547037243273992,
+      "diagnostics": []
+    },
+    {
+      "nodes": 600,
+      "step_mhz": 24.982704833333333,
+      "spectral_relative_l2": 0.17540511491406993,
+      "truth_sampling_interpolation_relative_l2": 0.010320269481878962,
+      "alpha": 0.001,
+      "chi2": 0.735106049027072,
+      "diagnostics": []
+    },
+    {
+      "nodes": 1200,
+      "step_mhz": 12.491352416666667,
+      "spectral_relative_l2": 0.1887522412567543,
+      "truth_sampling_interpolation_relative_l2": 0.003817159372441939,
+      "alpha": 0.001,
+      "chi2": 0.7715817174611256,
+      "diagnostics": []
+    }
+  ],
+  "nonparametric_noise": {
+    "90deg": {
+      "trials": [
+        {
+          "seed": 2026100900,
+          "spectral_relative_l2": 0.17535021873136653,
+          "alpha": 0.001,
+          "chi2": 0.8067933721394538,
+          "diagnostics": []
+        },
+        {
+          "seed": 2026100901,
+          "spectral_relative_l2": 0.16553262838428978,
+          "alpha": 0.001,
+          "chi2": 0.803437949466911,
+          "diagnostics": []
+        },
+        {
+          "seed": 2026100902,
+          "spectral_relative_l2": 0.1895021679922705,
+          "alpha": 0.001,
+          "chi2": 0.8905644331606509,
+          "diagnostics": []
+        },
+        {
+          "seed": 2026100903,
+          "spectral_relative_l2": 0.180605281350843,
+          "alpha": 0.001,
+          "chi2": 0.7662140162716777,
+          "diagnostics": []
+        },
+        {
+          "seed": 2026100904,
+          "spectral_relative_l2": 0.2241550381685893,
+          "alpha": 0.01,
+          "chi2": 0.9969947149325269,
+          "diagnostics": []
+        }
+      ],
+      "mean": 0.1870290669254718,
+      "min": 0.16553262838428978,
+      "max": 0.2241550381685893,
+      "failures_above_10pct": 5,
+      "note": "Only 5 diagnostic repeats; not a precise failure-rate estimate."
+    },
+    "180deg": {
+      "trials": [
+        {
+          "seed": 2026101000,
+          "spectral_relative_l2": 0.057547144515263805,
+          "alpha": 0.01,
+          "chi2": 0.7999515240699805,
+          "diagnostics": []
+        },
+        {
+          "seed": 2026101001,
+          "spectral_relative_l2": 0.08737479016143034,
+          "alpha": 0.1,
+          "chi2": 0.9469551938772283,
+          "diagnostics": []
+        },
+        {
+          "seed": 2026101002,
+          "spectral_relative_l2": 0.06600736785825106,
+          "alpha": 0.01,
+          "chi2": 0.9484844358431133,
+          "diagnostics": []
+        },
+        {
+          "seed": 2026101003,
+          "spectral_relative_l2": 0.05967395837988415,
+          "alpha": 0.01,
+          "chi2": 0.8792212563628956,
+          "diagnostics": []
+        },
+        {
+          "seed": 2026101004,
+          "spectral_relative_l2": 0.0882172032687842,
+          "alpha": 0.1,
+          "chi2": 0.9824940581748632,
+          "diagnostics": []
+        }
+      ],
+      "mean": 0.0717640928367227,
+      "min": 0.057547144515263805,
+      "max": 0.0882172032687842,
+      "failures_above_10pct": 0,
+      "note": "Only 5 diagnostic repeats; not a precise failure-rate estimate."
+    },
+    "elastic10pct": {
+      "trials": [
+        {
+          "seed": 2026101100,
+          "spectral_relative_l2": 0.6304338094917762,
+          "alpha": 0.0001,
+          "chi2": 0.8420126003947819,
+          "diagnostics": []
+        },
+        {
+          "seed": 2026101101,
+          "spectral_relative_l2": 0.6304735368679293,
+          "alpha": 0.0001,
+          "chi2": 0.8693912972967064,
+          "diagnostics": []
+        },
+        {
+          "seed": 2026101102,
+          "spectral_relative_l2": 0.6097137520047864,
+          "alpha": 1e-05,
+          "chi2": 0.9410586997117103,
+          "diagnostics": [
+            "regularization_grid_boundary"
+          ]
+        },
+        {
+          "seed": 2026101103,
+          "spectral_relative_l2": 0.6311427515127387,
+          "alpha": 0.0001,
+          "chi2": 0.9483046135716667,
+          "diagnostics": []
+        },
+        {
+          "seed": 2026101104,
+          "spectral_relative_l2": 0.627345537983866,
+          "alpha": 0.0001,
+          "chi2": 0.9245889124286142,
+          "diagnostics": []
+        }
+      ],
+      "mean": 0.6258218775722193,
+      "min": 0.6097137520047864,
+      "max": 0.6311427515127387,
+      "failures_above_10pct": 5,
+      "note": "Only 5 diagnostic repeats; not a precise failure-rate estimate."
+    }
+  },
+  "alias": {
+    "truth_ghz": 6.2409719948793265,
+    "unrestricted": {
+      "parameters": {
+        "shift_ghz": -0.0005673631608076734,
+        "brillouin_ghz": 6.240804180577836,
+        "brillouin_hwhm_ghz": 0.21410789356994792,
+        "intrinsic_central_fraction": 0.006274052211199857,
+        "amplitude": 0.9996974586972701
+      },
+      "conditional_standard_errors": {
+        "shift_ghz": null,
+        "brillouin_ghz": null,
+        "brillouin_hwhm_ghz": null,
+        "intrinsic_central_fraction": null,
+        "amplitude": null
+      },
+      "local_standard_errors": {
+        "shift_ghz": 0.0002684312739344878,
+        "brillouin_ghz": 0.00025491874046894183,
+        "brillouin_hwhm_ghz": 0.00026035339819847523,
+        "intrinsic_central_fraction": 0.00010573963020428967,
+        "amplitude": 0.00034705240846564134
+      },
+      "competing_solutions": [
+        {
+          "b_ghz": 8.749114535881759,
+          "delta_chi2": 0.35205395394820016
+        }
+      ],
+      "spacing_bounds_ghz": [
+        0.05,
+        10.0
+      ],
+      "ambiguity_delta_chi2_threshold": 9.0,
+      "chi2": 0.8560999049616882,
+      "success": true,
+      "at_bound": false,
+      "optimizer_success": true,
+      "quality_pass": false,
+      "quality_reasons": [
+        "competing_spacing_solutions"
+      ],
+      "quality_warning": [],
+      "message": "`ftol` termination condition is satisfied.",
+      "jacobian_rank": 5,
+      "normalized_jacobian_condition": 1.7417633124760175,
+      "start_solutions": [
+        {
+          "start_b": 0.5,
+          "cost": 149.8174833682954,
+          "success": true,
+          "b": 6.240804180577836
+        },
+        {
+          "start_b": 4.2,
+          "cost": 149.81748336829673,
+          "success": true,
+          "b": 6.240804180572543
+        },
+        {
+          "start_b": 6.5,
+          "cost": 149.8174833682966,
+          "success": true,
+          "b": 6.240804180576144
+        },
+        {
+          "start_b": 8.8,
+          "cost": 149.9935103452695,
+          "success": true,
+          "b": 8.749114535881759
+        }
+      ],
+      "evaluations": 19,
+      "note": "Conditional on the specified instrument, laser, water angle distribution and elastic fraction; central optical weight remains phenomenological."
+    },
+    "restricted": {
+      "parameters": {
+        "shift_ghz": -0.000567363175551288,
+        "brillouin_ghz": 6.240804180569756,
+        "brillouin_hwhm_ghz": 0.21410789358984073,
+        "intrinsic_central_fraction": 0.006274052214210482,
+        "amplitude": 0.9996974587261198
+      },
+      "conditional_standard_errors": {
+        "shift_ghz": 0.0002684312743394365,
+        "brillouin_ghz": 0.0002549187410045699,
+        "brillouin_hwhm_ghz": 0.00026035339905114603,
+        "intrinsic_central_fraction": 0.00010573963019912468,
+        "amplitude": 0.00034705240746494214
+      },
+      "local_standard_errors": {
+        "shift_ghz": 0.0002684312743394365,
+        "brillouin_ghz": 0.0002549187410045699,
+        "brillouin_hwhm_ghz": 0.00026035339905114603,
+        "intrinsic_central_fraction": 0.00010573963019912468,
+        "amplitude": 0.00034705240746494214
+      },
+      "competing_solutions": [],
+      "spacing_bounds_ghz": [
+        0.05,
+        7.0
+      ],
+      "ambiguity_delta_chi2_threshold": 9.0,
+      "chi2": 0.8560999049616936,
+      "success": true,
+      "at_bound": false,
+      "optimizer_success": true,
+      "quality_pass": true,
+      "quality_reasons": [],
+      "quality_warning": [],
+      "message": "`ftol` termination condition is satisfied.",
+      "jacobian_rank": 5,
+      "normalized_jacobian_condition": 1.7417633186883938,
+      "start_solutions": [
+        {
+          "start_b": 0.5,
+          "cost": 149.81748336829727,
+          "success": true,
+          "b": 6.2408041805498415
+        },
+        {
+          "start_b": 4.2,
+          "cost": 149.81748336829727,
+          "success": true,
+          "b": 6.240804180575166
+        },
+        {
+          "start_b": 6.5,
+          "cost": 149.8174833682964,
+          "success": true,
+          "b": 6.240804180569756
+        }
+      ],
+      "evaluations": 7,
+      "note": "Conditional on the specified instrument, laser, water angle distribution and elastic fraction; central optical weight remains phenomenological."
+    }
+  },
+  "local_sensitivity": {
+    "fsr_ghz": {
+      "rows": [
+        {
+          "fraction": -0.0001,
+          "B_bias_mhz": -0.20174687815277537,
+          "chi2": 0.030538775303667758
+        },
+        {
+          "fraction": 0.0001,
+          "B_bias_mhz": 0.20170610499636865,
+          "chi2": 0.030536271650102437
+        }
+      ],
+      "mhz_per_fraction": 2017.26491574572,
+      "illustrative_fraction_for_1mhz": 0.0004957207118383512,
+      "illustrative_fraction_for_0p1mhz": 4.957207118383513e-05
+    },
+    "focal_length_mm": {
+      "rows": [
+        {
+          "fraction": -0.0001,
+          "B_bias_mhz": 0.47913122956355636,
+          "chi2": 0.12210746288984192
+        },
+        {
+          "fraction": 0.0001,
+          "B_bias_mhz": -0.47915064284964615,
+          "chi2": 0.12211185757916236
+        }
+      ],
+      "mhz_per_fraction": -4791.409362066012,
+      "illustrative_fraction_for_1mhz": 0.0002087068593881966,
+      "illustrative_fraction_for_0p1mhz": 2.0870685938819662e-05
+    }
+  },
+  "ring_center": [
+    {
+      "offset_pixels": 0.25,
+      "profile_relative_l2": 0.0006150180232960084,
+      "B_bias_mhz": -0.0005633590305365033,
+      "chi2": 0.008884332544892964
+    },
+    {
+      "offset_pixels": 0.5,
+      "profile_relative_l2": 0.0024500936177252394,
+      "B_bias_mhz": -0.002291165879242385,
+      "chi2": 0.14070829979877106
+    },
+    {
+      "offset_pixels": 1.0,
+      "profile_relative_l2": 0.009646835427076759,
+      "B_bias_mhz": -0.009679508251814184,
+      "chi2": 2.1641194249143396
+    }
+  ],
+  "physical_slopes": {
+    "B_mhz_per_degree": 38.51098327554148,
+    "B_mhz_per_kelvin": 8.848483497070347
+  },
+  "elapsed_seconds": 117.64794640000036,
+  "judgments": {
+    "forward_default_all_comparisons_below_1e_4": false,
+    "conditional_B_discretization_below_0p01mhz": true,
+    "note": "Pairwise numerical diagnostics, not a bound on true experimental error. No cancellation or quadrature sum assumed."
+  }
+}

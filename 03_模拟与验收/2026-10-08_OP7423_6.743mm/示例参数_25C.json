@@ -1,0 +1,4 @@
+{
+  "water": {"temperature_k": 298.15},
+  "fit_spacing_bounds_ghz": [0.05, 7.0]
+}

@@ -1,0 +1,1 @@
+150 independent seeds and exact observation replay verified. Alias rejection and restricted fit verified. Forward default threshold FAIL is correctly retained; conditional B numerical gate PASS.

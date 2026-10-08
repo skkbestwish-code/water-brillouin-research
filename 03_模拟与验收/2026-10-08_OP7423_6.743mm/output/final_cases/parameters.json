@@ -1,0 +1,56 @@
+{
+  "water": {
+    "temperature_k": 293.15,
+    "pressure_mpa": 0.101325,
+    "scattering_angle_deg": 90.0,
+    "angular_sigma_deg": 0.0,
+    "velocity_ms": 0.0,
+    "bulk_viscosity_pa_s": 0.0025,
+    "wavelength_nm": 632.8,
+    "elastic_fraction": 0.0,
+    "elastic_hwhm_ghz": 0.001,
+    "central_fraction_override": null
+  },
+  "instrument": {
+    "fsr_ghz": 14.9896229,
+    "finesse": 30.0,
+    "wavelength_nm": 632.8,
+    "focal_length_mm": 100.0,
+    "center_detuning_ghz": 7.49481145,
+    "illumination_radius_mm": 2.0,
+    "external_index": 1.0,
+    "cavity_phase_index": 1.4570179296326728,
+    "cavity_group_index": 1.4753922478054025,
+    "peak_transmission": 0.5
+  },
+  "camera": {
+    "size": 768,
+    "pixel_um": 4.0,
+    "roi_mm": 1.4,
+    "radial_step_um": 1.0,
+    "psf_sigma_um": 4.0,
+    "subpixels": 4
+  },
+  "laser_fwhm_ghz": 0.01,
+  "laser_modes": [
+    [
+      0.0,
+      1.0
+    ]
+  ],
+  "gain_electrons": 2000.0,
+  "background_electrons": 20.0,
+  "read_noise_electrons": 3.0,
+  "seed": 20261001,
+  "folded_grid_size": 6000,
+  "inverse_grid_size": 600,
+  "physical_core_step_ghz": 0.0025,
+  "physical_tail_step_ghz": 0.1,
+  "physical_limit_ghz": 150.0,
+  "monte_carlo_replicates": 12,
+  "low_gain_electrons": 25.0,
+  "fit_spacing_bounds_ghz": [
+    0.05,
+    7.0
+  ]
+}
