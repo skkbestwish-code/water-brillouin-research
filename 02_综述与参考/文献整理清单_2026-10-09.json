@@ -1,0 +1,285 @@
+{
+  "date": "2026-10-09",
+  "source_directory": "桌面/brillouin",
+  "repository_directory": "02_综述与参考/brillouin",
+  "file_count": 32,
+  "total_bytes": 83732521,
+  "files": [
+    {
+      "original_path": "brillouin/布里渊实验的线性扫描_气压控制法布里-珀罗干涉仪_2000.pdf",
+      "repository_path": "02_综述与参考/brillouin/brillouin/布里渊实验的线性扫描_气压控制法布里-珀罗干涉仪_2000.pdf",
+      "bytes": 337895,
+      "sha256": "e7bc090f01d921a89c1b971bbdcba33509ce49c5cc5a5b651b0930dc1aae530e",
+      "git_sha": "94dbb1f100feb8bf48343b006666a135c241989f"
+    },
+    {
+      "original_path": "brillouin/布里渊散射实验中的法布里-珀罗干涉仪_1996.pdf",
+      "repository_path": "02_综述与参考/brillouin/brillouin/布里渊散射实验中的法布里-珀罗干涉仪_1996.pdf",
+      "bytes": 380279,
+      "sha256": "cdf00c20ff1c1d4a7e3035a4d0222446c5c80cabfb79231595a3dc8fd3c6a474",
+      "git_sha": "277ce1b06398bccd9c38b564f7694b74b4b55252"
+    },
+    {
+      "original_path": "brillouin/气流瑞利-布里渊光谱测量_成像式F-P干涉仪_2013.pdf",
+      "repository_path": "02_综述与参考/brillouin/brillouin/气流瑞利-布里渊光谱测量_成像式F-P干涉仪_2013.pdf",
+      "bytes": 308212,
+      "sha256": "5e062354c2d121b5ce265d41655761d6253f84dca9affa3f1567eae1c2fed006",
+      "git_sha": "f984aec5507f7c846b80efe8786e295701c43a48"
+    },
+    {
+      "original_path": "brillouin/水中布里渊散射_朗道-普拉切克比_1967.pdf",
+      "repository_path": "02_综述与参考/brillouin/brillouin/水中布里渊散射_朗道-普拉切克比_1967.pdf",
+      "bytes": 1058339,
+      "sha256": "f78695cb6606351abcb9adca0a255c1ff2dd532c40099eb33b66317041173a0f",
+      "git_sha": "add1204b4dc87eac365f1a0b36dbc98d53c6bbb1"
+    },
+    {
+      "original_path": "brillouin/水中布里渊散射光谱快速高精度测量_F-P标准具_2016.pdf",
+      "repository_path": "02_综述与参考/brillouin/brillouin/水中布里渊散射光谱快速高精度测量_F-P标准具_2016.pdf",
+      "bytes": 1757625,
+      "sha256": "3a4e70594f5fb73150803b91cd31a1fbc2048cba7086861b50273e90f4c3cd65",
+      "git_sha": "5ac811bed5cfa3f9944716c9a1352b1233ee63d8"
+    },
+    {
+      "original_path": "brillouin/水中布里渊线宽的温度依赖_2002.pdf",
+      "repository_path": "02_综述与参考/brillouin/brillouin/水中布里渊线宽的温度依赖_2002.pdf",
+      "bytes": 586933,
+      "sha256": "f09276a5a7e138889765283209333684a7eaf6772844249425ee537f6e00e53e",
+      "git_sha": "c2f4f690fbbdd5ba94392c1d3e17cfd4af6f9f0a"
+    },
+    {
+      "original_path": "brillouin/水温远程测量_布里渊散射与倍频脉冲光纤放大器_2008.pdf",
+      "repository_path": "02_综述与参考/brillouin/brillouin/水温远程测量_布里渊散射与倍频脉冲光纤放大器_2008.pdf",
+      "bytes": 1251005,
+      "sha256": "5ba1d9dd8fab8cdd2e93c86bd911b6f20d30f8cd54f3f7ae908c62c9b71f3b3f",
+      "git_sha": "70af7d24c270ebc1df2d4ffe3deda8f50766b13a"
+    },
+    {
+      "original_path": "brillouin/海洋声速测量的布里渊激光雷达_实验室研制_1997.pdf",
+      "repository_path": "02_综述与参考/brillouin/brillouin/海洋声速测量的布里渊激光雷达_实验室研制_1997.pdf",
+      "bytes": 524818,
+      "sha256": "3815e96c306e47afbb375e13fde8bed11ccbbd0fb2047583f8e102454da2c02a",
+      "git_sha": "40c9e3cac34b09e5d3ab8c0c6f8079fb36c2c4c9"
+    },
+    {
+      "original_path": "brillouin/海洋布里渊散射光谱的精密测量_F-P标准具与ICCD_2011.pdf",
+      "repository_path": "02_综述与参考/brillouin/brillouin/海洋布里渊散射光谱的精密测量_F-P标准具与ICCD_2011.pdf",
+      "bytes": 536886,
+      "sha256": "46024f48a4ca5c79cdc1c488580d719801dffffc8256633e08467f38b1bb2cf8",
+      "git_sha": "53adff65bf9e9d32a8e1e83390e0949b4fc91d0f"
+    },
+    {
+      "original_path": "brillouin/液体中He-Ne激光布里渊散射实验_1983.pdf",
+      "repository_path": "02_综述与参考/brillouin/brillouin/液体中He-Ne激光布里渊散射实验_1983.pdf",
+      "bytes": 174852,
+      "sha256": "99056ce4228910db078325aa2707a84ea4164ea5c349026ea0f2ea77facf342a",
+      "git_sha": "7a780687f953cb2676e31061801d3c5da77a6f98"
+    },
+    {
+      "original_path": "brillouin/液体布里渊散射_声速与声波寿命_1965.pdf",
+      "repository_path": "02_综述与参考/brillouin/brillouin/液体布里渊散射_声速与声波寿命_1965.pdf",
+      "bytes": 649707,
+      "sha256": "4a809bc51ba1b8a70f1e48d7f5dfacb4b79f7351704cc24dfa78b5a9568207af",
+      "git_sha": "510073379587e1997e3e25f73c3e3a8ea53268ce"
+    },
+    {
+      "original_path": "brillouin/液体布里渊散射与弛豫_1968.pdf",
+      "repository_path": "02_综述与参考/brillouin/brillouin/液体布里渊散射与弛豫_1968.pdf",
+      "bytes": 2297659,
+      "sha256": "b7ca13046dc96c12f72631812a0d5e067e9a4d4b8b330425201227ab3151b330",
+      "git_sha": "6e6ffefd26cfdf0b81c35f252cbb0a2190bb961d"
+    },
+    {
+      "original_path": "brillouin/液体布里渊散射强度的角度依赖_2025.pdf",
+      "repository_path": "02_综述与参考/brillouin/brillouin/液体布里渊散射强度的角度依赖_2025.pdf",
+      "bytes": 2822689,
+      "sha256": "dabb3a522ab11da2a7b4518983471208f2ed3757711fdf95fadd23362b2846b5",
+      "git_sha": "50547ac1fb6fc6a181d916756c1de602dd65409b"
+    },
+    {
+      "original_path": "brillouin/液体布里渊散射强度的角度依赖_补充材料_2025.pdf",
+      "repository_path": "02_综述与参考/brillouin/brillouin/液体布里渊散射强度的角度依赖_补充材料_2025.pdf",
+      "bytes": 411990,
+      "sha256": "f216134d29257099ef93ea2d06b56fe67fde2c6f63a501d7c7f9fb258c9c4cf0",
+      "git_sha": "1ea1afebb2a435c0ad3b2b9469829e6deb205dcb"
+    },
+    {
+      "original_path": "brillouin/液体瑞利与布里渊散射_朗道-普拉切克比_1966.pdf",
+      "repository_path": "02_综述与参考/brillouin/brillouin/液体瑞利与布里渊散射_朗道-普拉切克比_1966.pdf",
+      "bytes": 1270544,
+      "sha256": "37c4f23685cffd912a269beefb439bb7d0fd82215976abb6d5453f57db2e73be",
+      "git_sha": "9814520947d35daa495854f67eaeb43d06b951b0"
+    },
+    {
+      "original_path": "brillouin/液态水朗道-普拉切克比的温度依赖_2017.pdf",
+      "repository_path": "02_综述与参考/brillouin/brillouin/液态水朗道-普拉切克比的温度依赖_2017.pdf",
+      "bytes": 290128,
+      "sha256": "0a42ca0e02c6a93c070493ff8102a739e3d71ae8732836d4d053dfc1040d2d1b",
+      "git_sha": "4ac9e479375f1b54e6db6ef501e7dbd0af0442f8"
+    },
+    {
+      "original_path": "brillouin/简单流体的散射光谱分布_朗道-普拉切克理论_1966.pdf",
+      "repository_path": "02_综述与参考/brillouin/brillouin/简单流体的散射光谱分布_朗道-普拉切克理论_1966.pdf",
+      "bytes": 1131550,
+      "sha256": "37dd913958a1954eef5197dd57c8b52dd0361d100fd703c4883601f9e52a752d",
+      "git_sha": "22ed1177feae0afb4df16864cfd9f81d17286d97"
+    },
+    {
+      "original_path": "光散射基础_第1至4章_理论与实验.pdf",
+      "repository_path": "02_综述与参考/brillouin/光散射基础_第1至4章_理论与实验.pdf",
+      "bytes": 2049229,
+      "sha256": "7445aba1c036892cad62a342d954c5953f0ce596711a67a1d72807b6e8105325",
+      "git_sha": "64492302956ff055aa4464a5e8bb26ceed1790a8"
+    },
+    {
+      "original_path": "水的布里渊散射光谱测量系统_开题综述.docx",
+      "repository_path": "02_综述与参考/brillouin/水的布里渊散射光谱测量系统_开题综述.docx",
+      "bytes": 19374,
+      "sha256": "32b2f89da43b9d957b9a182ecdc4420559e7b1fbd6eb6e76f4792462712d9253",
+      "git_sha": "5151da37bed55423862ba4a6f69bd8da2262bf03"
+    },
+    {
+      "original_path": "相关/三光栅成像单色仪与光谱仪_SP-2750操作手册.pdf",
+      "repository_path": "02_综述与参考/brillouin/相关/三光栅成像单色仪与光谱仪_SP-2750操作手册.pdf",
+      "bytes": 1162373,
+      "sha256": "e104ea6417f07665d6b442e9a9c530fc6061b872dc089bc7d5a9d60ce66ed9b8",
+      "git_sha": "8514cf2fc92e90fcf2eabab07b49e5f1f0415261"
+    },
+    {
+      "original_path": "相关/全场布里渊显微成像_扫描式法布里-珀罗干涉仪_2026.pdf",
+      "repository_path": "02_综述与参考/brillouin/相关/全场布里渊显微成像_扫描式法布里-珀罗干涉仪_2026.pdf",
+      "bytes": 5670462,
+      "sha256": "ac9808876174b72b077db3491f06b97df49769506ce275c1a494c0dabe38672d",
+      "git_sha": "1bd3ccc47d81f2dbd7d1e8bff9e7f7ca327d2bbe"
+    },
+    {
+      "original_path": "相关/动态光散射及其在化学_生物学_物理学中的应用.pdf",
+      "repository_path": "02_综述与参考/brillouin/相关/动态光散射及其在化学_生物学_物理学中的应用.pdf",
+      "bytes": 15738720,
+      "sha256": "dad6d4456f4d52a016749f0054a9bf0e143eb912a9319e3fc950a4e50203da80",
+      "git_sha": "f8573c4b2fb4dbf278fb3e257a92d100fd779e8c"
+    },
+    {
+      "original_path": "相关/受激布里渊散射与受激熵散射_综述_1970.pdf",
+      "repository_path": "02_综述与参考/brillouin/相关/受激布里渊散射与受激熵散射_综述_1970.pdf",
+      "bytes": 2914189,
+      "sha256": "8b3a088620ea6cd2a032d1b3fa4c8739e85171ae25837299004bffaeb9e2fd40",
+      "git_sha": "8b2a64fa950129a7dc4977115d59ef39b08008a9"
+    },
+    {
+      "original_path": "相关/布里渊光谱仪用多功能法布里-珀罗干涉仪设计_1997.pdf",
+      "repository_path": "02_综述与参考/brillouin/相关/布里渊光谱仪用多功能法布里-珀罗干涉仪设计_1997.pdf",
+      "bytes": 551611,
+      "sha256": "43243dba8b60698cdbae9263c6c1c41ff7d77a52daa55609087ccb283619a637",
+      "git_sha": "5d27454a1162d84cf096828a0d03d698df95667c"
+    },
+    {
+      "original_path": "相关/布里渊散射用串联多通道法布里-珀罗干涉仪_1981.pdf",
+      "repository_path": "02_综述与参考/brillouin/相关/布里渊散射用串联多通道法布里-珀罗干涉仪_1981.pdf",
+      "bytes": 1230116,
+      "sha256": "e694bcd79ecfd059ad176492cd92302eb289433caa6fe9474e3dc8380b6eae60",
+      "git_sha": "57664e4da3fed65f6507f99272b4498f2e50cabf"
+    },
+    {
+      "original_path": "相关/布里渊散射百年_材料科学中的应用_2022.pdf",
+      "repository_path": "02_综述与参考/brillouin/相关/布里渊散射百年_材料科学中的应用_2022.pdf",
+      "bytes": 4524689,
+      "sha256": "1cc40de02cff0a02ed14d5dbc2b67f6531d029bd7da9cfad27d92941dd1e55a5",
+      "git_sha": "9213ff81f6e3153e46bb29cd15fabb1f75d2eb33"
+    },
+    {
+      "original_path": "相关/布里渊散射的理论与实验_教程_2021.pdf",
+      "repository_path": "02_综述与参考/brillouin/相关/布里渊散射的理论与实验_教程_2021.pdf",
+      "bytes": 21535680,
+      "sha256": "56fe11090a7c86376b9df9e60605313a58a85e248997ec6b2f9fa53481d9e9a0",
+      "git_sha": "01e25e7bd574a5dd950633fcf82ac24330912cf4"
+    },
+    {
+      "original_path": "相关/布里渊显微术_方法与应用_2024.pdf",
+      "repository_path": "02_综述与参考/brillouin/相关/布里渊显微术_方法与应用_2024.pdf",
+      "bytes": 5845996,
+      "sha256": "3b8093643d3127ae1fd1e2e28f100ae087e5d1db15c322b8a71c4a5f226af84f",
+      "git_sha": "2f4790c5894b0899f412e573e3d5319e18a4b4d3"
+    },
+    {
+      "original_path": "相关/布里渊激光雷达测量海洋温度与声速的精度限制_1997.pdf",
+      "repository_path": "02_综述与参考/brillouin/相关/布里渊激光雷达测量海洋温度与声速的精度限制_1997.pdf",
+      "bytes": 500420,
+      "sha256": "35c346e0d0f3e3125abbfd4b859b96e082162d13518d84cd5e245fdce547188f",
+      "git_sha": "18d0ef8b3a3118ab9dcea216e1ab78e3cc4731a3"
+    },
+    {
+      "original_path": "相关/法布里-珀罗干涉仪_历史理论实践与应用_1989.pdf",
+      "repository_path": "02_综述与参考/brillouin/相关/法布里-珀罗干涉仪_历史理论实践与应用_1989.pdf",
+      "bytes": 4398989,
+      "sha256": "d229c86e41c47b884eb02d287c300cd4904b7ff4178390591a8f330159eaf004",
+      "git_sha": "bc67ea54bac4da184aa483cd1e41711bdbd5c62a"
+    },
+    {
+      "original_path": "相关/海洋声速与温度的布里渊散射测量_1984.pdf",
+      "repository_path": "02_综述与参考/brillouin/相关/海洋声速与温度的布里渊散射测量_1984.pdf",
+      "bytes": 759376,
+      "sha256": "b6e43316a6a5f1e6cfbac78edeb6776e2d9cf7070d83d8f69f052e4e1d2374f8",
+      "git_sha": "4b5cf33125ea36a2527678adac1eda8d1d0b3d3f"
+    },
+    {
+      "original_path": "相关/高性能多通道游标式串联法布里-珀罗干涉仪_构建与校准_1981.pdf",
+      "repository_path": "02_综述与参考/brillouin/相关/高性能多通道游标式串联法布里-珀罗干涉仪_构建与校准_1981.pdf",
+      "bytes": 1040186,
+      "sha256": "55edc21da91a527f8e2f92917581a3ae7f30ce1f0f3bb67fc842e7c2e819dfa4",
+      "git_sha": "3819ce9b2b442730fa024aae868d3a73d63eb4a7"
+    }
+  ],
+  "renamed_existing": [
+    {
+      "original_path": "01_研究规划/本科生水散射研究_全期规划执行资料/核心文献全文/R2_Mountain1966.pdf",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/核心文献全文/液体中的热弛豫与布里渊散射_1966.pdf",
+      "bytes": 288678,
+      "git_sha": "1bd5e87d9f0cc6f852ff56a8d6460abd9841f559"
+    },
+    {
+      "original_path": "01_研究规划/本科生水散射研究_全期规划执行资料/核心文献全文/R3_Koestel2024.pdf",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/核心文献全文/水中布里渊线宽的温度与盐度依赖_2024.pdf",
+      "bytes": 2178929,
+      "git_sha": "3c3d1979605587bb67e777749de1a653829dc0b2"
+    },
+    {
+      "original_path": "01_研究规划/本科生水散射研究_全期规划执行资料/核心文献全文/R4_Yan2020.pdf",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/核心文献全文/商用VIPA与法布里-珀罗布里渊光谱仪评估_2020.pdf",
+      "bytes": 1490956,
+      "git_sha": "468f71f23c98732090ef8e985e3b54d8e7a94e23"
+    },
+    {
+      "original_path": "01_研究规划/本科生水散射研究_全期规划执行资料/核心文献全文/R5_Consensus2025.html",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/核心文献全文/生物材料布里渊光散射显微术_共识声明_2025.html",
+      "bytes": 628175,
+      "git_sha": "2f4ef1539d14003436452b2c6399d9495b833581"
+    },
+    {
+      "original_path": "01_研究规划/本科生水散射研究_全期规划执行资料/核心文献全文/R5_Consensus2025_补充资料.pdf",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/核心文献全文/生物材料布里渊光散射显微术_共识声明_补充材料_2025.pdf",
+      "bytes": 2115364,
+      "git_sha": "270ffb431942195bd082a8ffa5ed7acfdedd25b5"
+    },
+    {
+      "original_path": "01_研究规划/本科生水散射研究_全期规划执行资料/核心文献全文/R6_Testi2026.pdf",
+      "repository_path": "01_研究规划/本科生水散射研究_全期规划执行资料/核心文献全文/稳定实时布里渊显微术_活细胞蛋白质凝聚体分形结构_2026.pdf",
+      "bytes": 4372923,
+      "git_sha": "ecb56550efab9d3b33d7e5f5cf04ddebc6e419e7"
+    }
+  ],
+  "replaced_duplicates": [
+    {
+      "original_path": "01_研究规划/本科生水散射研究_全期规划执行资料/核心文献全文/R1_Kabakova2024.pdf",
+      "replaced_by": "02_综述与参考/brillouin/相关/布里渊显微术_方法与应用_2024.pdf",
+      "identity": "Git blob SHA相同"
+    },
+    {
+      "original_path": "02_综述与参考/89101E.pdf",
+      "replaced_by": "02_综述与参考/brillouin/brillouin/气流瑞利-布里渊光谱测量_成像式F-P干涉仪_2013.pdf",
+      "identity": "同一篇SPIE 2013文献，DOI 10.1117/12.2034394",
+      "state": "本次开始前已移除"
+    }
+  ],
+  "note": "首次归档清单保持历史记录；本清单记录本次文献目录调整。原有两篇中文综述保留。"
+}
